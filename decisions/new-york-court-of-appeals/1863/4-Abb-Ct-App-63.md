@@ -1,0 +1,36 @@
+---
+court: "New York Court of Appeals"
+decided: "1863-12"
+citations: ["4 Abb. Ct. App. 63"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RIDER v. POWELL."]
+source_url: "https://static.case.law/abb-ct-app/4/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1117491
+cites_cases: ["17 Johns. 375", "45 Barb. 478", "83 N. Y. 676"]
+---
+
+# Rider v. Powell
+
+## Majority (Balcom, J.)
+
+Balcom, J.
+—Rider and wife conveyed the farm to the defendant, and he took possession of it and also of the personal property he purchased with it. He paid Rider eleven hundred dollars in cash, and gave him an indorsed note for five hundred dollars in part payment of the purchase money. The oral contract therefore was so far performed as to relieve it from the operation of the statute of frauds: and the defendant could not retain the farm and personal property without giving Rider such a bond and mortgage as their oral contract called for, unless the fact that there was no fraud or mistake oh the part of the defendant, as to the terms of the bond and mortgage he gave to Rider, justified him in so doing.
+Parsons says: “ The question has often come before our courts, whether oral evidence can be received to show the mistake (in a written contract), and thereby make it in fact a new contract, when an oral contract would be void or not enforceable by the statute of frauds. The course of adjudication is not uniform on this point. But while it cannot be denied that numerous authorities support a disregard of the statute in such cases, others maintain its authority.” 1 Pars, on Gont. 3 ed."555. Justice Story puts the case, “where the party plaintiff seeks, not to set aside the agreement, but to enforce it, when it is reformed and varied by the parol evidence; ” and then says: “A very strong inclination of opinion has been repeatedly expressed by the English courts, not to decree a spe- - cific performance in this latter class of cases; that is to say, not to admit parol evidence to establish a mistake in a written agreement, and then to enforce it, as varied and established by that evidence. On various occasions such relief has, under such circumstances, been denied. But it is extremely difficult, to perceive the principle upon which such decisions can be supported, consistently with the acknowledged exercise of jurisdiction in the court to reform written contracts, and to decree-relief thereon. In America, Chancellor Kent, after a most elaborate consideration of the subject, has not hesitated to- reject the distinction as unfounded in justice, and has decreed relief to a plaintiff, standing in the precise predicament.” 1 Story Eq. 7 ed. § 161. Archer, J., in delivering the opinion of the court, in Moale v. Buchanan, 11 Gill & J. 314, 325-, said: “Had the agreement been entirely by parol, and a part performance, the complainant would have been entitled to relief. Shall he be in a worse situation by having attempted to. reduce, the whole agreement into the form of a conveyance, if he shall make an omission in the conveyance, by mistake of an essential part of the agreement ? ” He then answers this interrogatory in the negative, and refers to the opinion of Chancellor Kent, in Gillespie v. Moon, 2 Johns. Oh. 585, and Keisselbrack v. Livingston, 4 Id. 144.
+A judgment was given in this court, in De Peyster v. Hasbrouck, 11 N. T. 582, reforming a mortgage and enforcing it against premises not originally embraced therein.
+The supreme court was therefore justified by authority as well as principle in reforming the bond and mortgage in this case, unless the fact that there was no fraud or mistake on the part of the defendant in fixing their terms, or respecting their terms, renders such decision erroneous. The decision in Mathews v. Terwilliger, 3 Bari. 50, and Quick v. Stuyvesant, 2 Paige, 84, support this .conclusion instead of militating against if.
+. [The learned judge concluded by expressing .the opinion that the contract might be reformed without proof that the mistake was mutual, and therefore that the judgment should be affirmed, in which the court did not concur.]
+
+## Concurrence (Davies, J:,)
+
+Davies, J:,
+concurred in this opinion.
+Weight, J. [After stating the facts.]—We can only review-the case upon the pleadings and facts found by the judge and the question is, whether, in a case where a contract between parties provides for the. performance of a particular act by them, such contract is entitled to be reformed, in equity, because there has been a mistake on the part of one of the contracting-parties, as to its terms, when such mistake is not occasioned by any fraud practiced by the other party.
+- I- suppose the rule to be, that when there is a mistake on one side (and not a mutual mistake), it may be a ground for rescinding a contract, or for refusing to enforce its specific performance, but not a ground for altering its terms. Adams Equity, 171. A mistake by the plaintiff when he made the contract, as to the interest he was to receive on the bond and mortgage, would not entitle him to have the contract so modi-fied as to conform to his mistaken impression, though it might be a reason for rescinding the contract on the ground that the minds of the parties never met in making it. In Lyman v. United Ins.-Co., 17 Johns. 375, Chief Justice Spencer lays down the true rule of law to govern the case (whether the mistake found relates to the bargain or to the taking of the bond and mortgage), that “ before a written contract can be amended or altered on the pretense of mistake, the proof must be entirely clear that that mistake has occurred; and secondly, that the amendment sought would conform the contract to the intention of both parties."
+If we were to look, however, in this case, beyond the findings of fact by the court, it is clear that the deed, bond and mortgage constituted the true contract, and that all previous negotiations were merged in them. It would be a violation of the plainest elementary principles to permit a party who has entered into a written contract, to have the written contract altered so as to conform to his understanding of a previous • negotiation, when the opposite party understood it differently, and as it was set forth in the written contract. The parol bargain was void by the statute of frauds; neither possession being taken under it nor consideration paid. It was after the deed, bond and mortgage were executed and delivered, and under them that the money was paid and possession taken. The court was asked in this case not only to enforce an agreement void by the statute, but one that the parties did not understand alike.
+The judgment of the supreme court should be reversed and a new trial ordered, with costs to abide the event.
+Denio, Ch. J., and Emott, J., concurred in this opinion.
+Rosekrans, Marvin, and H. R. Seeden, JJ., although of opinion that mutual mistake or fraud must exist, concurred in affirming the judgment on the ground .that one or the other must- have, existed in this case whether expressly found or not.
+Judgment affirmed, with costs.
