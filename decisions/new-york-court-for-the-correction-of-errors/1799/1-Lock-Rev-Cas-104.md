@@ -1,0 +1,59 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1799"
+citations: ["1 Lock. Rev. Cas. 104"]
+reporter: "lock-rev-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["North River Steamboat Company v. Livingston, 3 Cow. 182."]
+source_url: "https://static.case.law/lock-rev-cas/1/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947474
+cites_cases: ["9 Wheat. 1"]
+---
+
+# North River Steamboat Co. v. Livingston
+
+## Majority (Platt, J., Marshall Ch. J.,)
+
+The Chancellor (Lansing) refused to grant an injunction ex parte, but granted an order that the defendants show cause at the next term; where after hearing the parties, the Chancellor decided the motion, and the plaintiffs appealed to the Court of Errors. The Chancellor’s opinion is reported in the above case.
+The Chancellor seems to have been reluctant to decide the questions which he propounds as to the grant being contrary to, the constitution of the United States, and goes no farther than to say that the “ mere propounding them must carry conviction to every mind that the subject is involved in much doubt and difficulty, and that it is not therefore a case so plain and clear as not to admit of doubt, and accordingly he declined in that stage of the cause to grant an injunction.
+After a full and elaborate argument of all these questions, the Court of Errors held the grant valid under the constitution and laws of the United States. Kent, Ch. J., Yates, Tan Ness, and Thompson, delivering opinions in favor of a reversal, and the order of the Chancellor was unanimously reversed, 12 March, 1812.
+But a more formidable antagonist soon after entered the lists against the monopoly, who combined with great wealth, an energy of mind, character, and passions, of a very rare description. But whatever were his motives, the aim and result of his labors were to break down the monopoly, and to open the waters of the state of New York to the citizens of other states at all events. Being a citizen of New Jersey, he resolved to test the constitutionality of the grant in the Supreme Court of the United States. This litigant was the celebrated Thomas Gibbons.
+The case of
+Ogden v. Gibbons, 4 J. C. R 150,
+was the result of his open defiance of the monopoly. Gov. Ogden, the grantee of Livingston and Fulton, in that case, sought an injunction against Gibbons, on the ground of his own exclusive right to navigate the waters of New York bay, between New York city and Elizabethtown Point, on which Gibbons had commenced running a boat. The defendant set up that his two steamboats were vessels above the burthen of 20 tons, and xvere duly enrolled and licensed 'under the laws of the United States, to be employed in carrying on the coasting trade, according to the laws of the United States. He also set up a title by grant from D. D. Tompkins, and others, which it is not necessary to examine, as the point was not insisted on upon the argument' of the appeal in the Court of Errors.
+As to the right of navigating the waters of New York under the license, Chancellor Kent said, see 4 J. R. 150 et seq., there was no collision between the grant and the license. If the state laws were “not absolutely null and void from the beginning, they require a greater power than a simple coasting license, to disarm them. We must be permitted to require at least, the presence and clear manifestation of some constitutional law, or some judicial decision of the Supreme Power of the Union, acting upon those laws, in direct collision and conflict, before we can retire from the support and defence of. them. We must be satisfied that
+"Neptunus muros, ,magno que emota tridenti Fundamenta quatit"
+In the Court of Errors, upon the argument of the appeal, Henry, for the appellant Gibbons, said in concluding his argument: “We do not call to our aid Neptune with his trident, we invoke only the goddess Minerva.”
+Platt, J.,
+who delivered the opinion of the court said the question of the power of the state to grant such an exclusive privilege of navigating its waters had been settled in the case of Livingston v. Van Ingen, (ante,) and it was no longer open for discussion.
+The order of Chancellor Kent Was unanimously affirmed.
+From this decision of the Court of Errors, an appeal was taken to the Supreme Court of the United States, where in February, 1824, this great question was argued by Mr. Webster and Mr. Wirt, Attorney General, for Gibbons, and Mr. T. J. Oakley and Mr. Emmett for Ogden. 9 Wheat. 1-240.
+The counsel for Gibbons contended:
+1. That the power to regulate commerce, vested in Congress by the constitution, was complete and entire, and to a certain extent, necessarily exclusive.
+2. That the grant in question came in direct collision with this exclusive power. The appellant had a right_as a citizen of New Jersey, to go to New York in his vessel enrolled and licensed according to the laws of the United States. It was a right derived from those laws, and no legislation of a state could deprive him of it.
+3. That the power of Congress to secure to authors and inventors a limited and exclusive right, was also an exclusi ve one, and the power could not he properly exercised by a state.
+The counsel for the respondents contended:
+1. That the power to regulate commerce was concurrent.
+2. That the laws in question were only a regulation of the internal navigation of the waters of the state, and therefore belonged exclusively to the state.
+3. That the business of carrying passengers in which the appellant was engaged, was not covered by his coasting license.
+In the conclusion of his argument, Mr. Emmett adverted in eloquent and characteristic terms to circumstances connected with those laws, which should make any tribunal require the strongest arguments before it adjudged them invalid. “The state of New York,” he said, “by its patronage and liberality to Livingston and Fulton, has called into existence the noblest and most useful improvement of the present day. Genius had contended with its inherent difficulties for generations before; and if some had nearly reached, or some even touched the goal, they sunk exhausted, and the result of their efforts perished in reality, and almost in name. Such would have been the fate of Fulton, in all probability, but for this wise and considerate encouragement of the state of New York. She has brought into noonday splendor an invaluable improvement to the intercourse and happiness of men. The benefits of the policy have spread themselves over the union. The Ohio and Mississippi she has converted into rapid channels for communicating wealth, comforts, and enjoyments, from their mouths to their headwaters. And the inhabitants of the states washed by these streams, may well ask themselves whether next to the constitutions under which they live, there be a single blessing they enjoy from the art and labor of man, greater than that they have derived from the patronage of the state of New York to Robert Fulton? But the mighty benefits that have resulted from those laws are not circumscribed, even by the vast extent of our union. New York may raise her head—she may proudly raise her head—and cast her eyes over the whole civilized world ; she there may see its countless waters bearing on their surface) countless offsprings of her munificence and wisdom. She may fondly calculate on their speedy extension in every direction and through every region from Archangel to Calcutta, and justly arrogating to herself the labors of the man she cherished, and conscious of the value of her own good works, she may turn the mournful exclamation of Alineas into an expression of triumph, and exultingly' ask,
+‘ Q.uce regio in terris nostri. non plena laboris V ”
+The Attorney General, Mr. Wirt, in concluding his speech in this cause, thus retorted the classical quotation of Mr. Emmett upon him.
+“ His learned friend had eloquently personified the state of New York casting her eyes on the ocean, witnessing everywhere this- triumph of her genius, and exclaiming in the language of Alineas, &c.
+“ It was not in the moment of triumph, nor with feelings of triumph, that Alineas uttered that exclamation. It was when, with his faithful Achates by his side, he was surveying the works of art with which the palace of Carthage was adorned, and his attention had been caught by a representation of the battles of Troy. There he saw the sons of Atreus and Priam, and the fierce Achilles. The whole extent of his misfortunes, the loss and desolation of his friends, the fall of his beloved country, rush upon his recollection.
+‘ Constitit et lachrymaus, quis jam locus inquit, Achate, Quce regio in terris nostri ?ion plena laboris V
+“The passage may hereafter have a closer application to the cause than my eloquent and classical friend intended. For if the state of things which has already commenced is to go on: if the spirit of hostility which already exists in three of our states is to catch by contagion, and spread among the rest, as, from the progress of the human passions, and the unavoidable conflict of interests, it will too surely do, what are we to expect ? Civil wars have arisen from far inferior causes, and have desolated some of the fairest portions of the earth. Here are three states almost on the eve of war. The war of legislation which has already commenced, will, according to its -natural course, become a war of blows. Your country will be shaken with civil strife.
+“Then, sir, when New.York shall look upon this scene of ruin, if she have the generous feelings I believe her to have it will not be with her head aloft, in the pride of conscious triumph, her rapt soul sitting in her eyes—no sir, no—dejected —with shame and confusion—drooping under the weight of her sorrow, with a voice suffocated with despair, well may she then exclaim,
+“ Quis jam locus,
+Quce regio in terris nostri non plena laboris ?
+Marshall Ch. J.,
+delivered the opinion of the court, and of all those which bear his name on constitutional questions, it would be difficult to find one more closely reasoned and more conclusive. Our very, brief summary can render it but little justice. The reader must have recourse to the opinion itself, if he would comprehend the close chain of induction which distinguishes it.
+It clearly establishes by a variety of arguments and illustrations :
+1. That the power to “regulate commerce” necessarily comprehends navigation.
+2.. That the exceptions or inhibitions to the exercise of that power over navigation in a particular manner, proved that the previous grant was understood by those who granted it, to include the general power to its fullest extent, except as restrained by those limitations.
+3. That “commerce among the several states,” comprehends every species of commercial intercourse; that the word among means intermingled with; and that the power to regulate such commerce does not stop at the external boundary line of each state, but follows it into the interior.
+4. That the grants to Livingston and Fulton were in derogation of the act of Congress regulating the coasting trade, and therefore void, and that the license to carry on the coasting trade is an authority confirmed by the supreme legislative body of the Union, and that a coasting vessel employed in the transportation of passengers, is as much employed in commerce as one engaged in transporting a cargo.
+5. That this power of regulating the coasting navigation, extends as well to steam vessels as to any other mode of propulsion.
+The decree accordingly declared that “so much of the laws of New York as prohibits vessels licensed according to the laws of the United States from navigating the waters of the state of New York by means of fire or steam, is repugnant to the constitution of the United States, and void.”
