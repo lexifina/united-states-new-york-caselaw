@@ -1,0 +1,24 @@
+---
+court: "New York Court of Appeals"
+decided: "1887-05-13"
+citations: ["8 N.Y. St. Rep. 182"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles H. Meads and ano., Respts, v. Walter C. Tuckerman, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/8/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 640313
+cites_cases: ["43 Hun, 636"]
+---
+
+# Meads v. Tuckerman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The question in this case turns upon the interpretation of that clause in the written stipulation of the attorneys for the respective parties which declares that the compensation of the referee shall be the sum of twenty dollars per day “for every hearing.” The fees in controversy relate to the charge made by the referee for thirty-nine days on which appointments for a hearing had been made, at the request of counsel, but when no hearing in fact was had, and no meeting or appearance before the referee. The failure to appear on the several days so appointed was due to the fact that by arrangement between the respective counsel, made prior to the times fixed by the referee, the hearing was postponed, of which postponement the referee was notified. The postponements were made in most-cases at the request and for the accommodation of the counsel for the defendant. The reference continued during the period of two years or more, and the referee ■charged fees for 114 days at the stipulated rate per day, amounting, in the aggregate, to $2,280.
+We are of the opinion that the charge for the days on which there was no hearing and no appearance was unauthorized. The compensation of referees is fixed by statute at six dollars “for each day spent in the business of the reference, ” unless a different rate of compensation is fixed by the consent of the parties, manifested by an entry in the minutes of the referee, or otherwise in writing, or a smaller compensation is fixed by the court or judge in the order of reference. Code, § 3296. In this case there was no entry in the minutes on the subject, and the right to fees beyond the statutory rate depends solely upon the written stipulation. It is impossible, we think, to extend the meaning of the words, “every hearing,” in the stipulation so as to include days appointed for a hearing, but on which no hearing in fact was had, and when, in advance of the time appointed, the parties, by arrangement,- had agreed upon a postponement, and, in pursuance thereof, had omitted to appear before the referee. It might have been proper to have provided for this contingency in the stipulation. But the stipulation is silent on the suoject, and we cannot, in face of the statute, give any force to the alleged oral agreement or understanding between the counsel and the referee that the word “hearing” should be deemed to include appointments of hearings. The word “hearing” is unambiguous, and to give effect to the oral evidence would be adding a material term to the stipulation, contrary to settled rules of evidence.
+The statute is founded in a just policy. When counsel undertake to fix the rate of compensation by agreement, it is but just that their intention should be manifested in such a formal and authentic manner as to leave no doubt.
+The orders of the special and general terms should be reversed, and an order entered for the retaxation in respect to the items mentioned.
+All concur.
