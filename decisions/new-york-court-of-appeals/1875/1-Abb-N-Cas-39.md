@@ -1,0 +1,33 @@
+---
+court: "New York Court of Appeals"
+decided: "1875"
+citations: ["1 Abb. N. Cas. 39"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THRASHER v. BENTLEY."]
+source_url: "https://static.case.law/abbn-cas/1/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1945719
+cites_cases: ["13 How. Pr. 564", "2 Story, 322", "20 N. Y 434", "3 Hun, 594", "3 Hun, 600", "34 Conn. 548", "37 Cal. 208", "39 N. Y. 369", "4 Daly, 343", "4 Hun, 50", "4 Wheat. 122", "49 How. Pr. 277", "51 N. H. 39", "51 N. Y. 641", "52 N. Y. 647", "57 N. Y. 41", "59 N. Y. 649", "97 Mass. 246"]
+---
+
+# Thrasher v. Bentley
+
+## Majority (Folger, J.)
+
+Folger, J.
+The assignment from Syme to the plaintiff, in trust to pay all his creditors equally, was not void, so far as any facts appear in this case.
+The first position of the appellant is that the act of 1860 (Laws of 1860, chap. 348, p. 594) is void; for that it is suspended by the bankrupt act of the United States. It is true that any laws of the State legislature which are the same in object, effect and method, as the bankrupt act of Congress, are inoperative so long as the latter act is in force. But if it should be granted that the act of 1860 is of that sort, still the assignment in this case is not yet shown to be void. • The act of 1860 does not give the right to make an assignment in favor of creditors, with or without preferences. The right exists at common law, and if exercised honestly, and with no design to hinder, delay or defraud creditors, does not require the act of 1860 to warrant it. The act of 1860 is a statute, not of creation, but of direction. It recognizes the existence of the power in the citizen to make an assignment of his property to trustees, for the benefit of his creditors, and does no more than prescribe the mode in which the power shall be used, and furnish some safeguards against abuse.
+So that it is not necessary to determine in this case whether the act of 1860 is or is not in conflict with the United States bankrupt act, and therefore now inoperative. For if in conflict, and therefore silenced by the bankrupt act, the citizen may still exercise his right to assign his property, in such manner as is valid at common law, unless his act, in so doing, is itself in hostility to that act.
+We do not discover in the facts of this case anything which shows that this assignment is in hostility to the bankrupt act, and therefore void. There is no preference created by it in favor of any creditor. On the contrary, it provides in terms for the payment of all his creditors in full; and if that may not be, then ratably and in proportion. There is no intimation that the debtor (Syme) has ever been proceeded against or taken proceedings in the bankrupt court. We do not find in the bankrupt act any provision which makes an assignment of such kind, by a debtor not made a bankrupt, an instrument void per se. On the contrary, there are authorities that such an assignment is not void. It was so held in Sedgwick v. Place (1 Bank. Reg. 204, by Nelson, J.); and on Hawkins’s Appeal, in the supreme court of Connecticut (see 34 Conn. 548).
+Nor is the objection of the defendant good, that the bond of the assignee was approved by the special county judge of Monroe county, and not by the judge of that county. Even if the bond be invalid for that reason, and the same is no bond, yet the assignment is not thereby rendered void. The title to the trust property has vested in the trustee. By the provisions of the act of 1860 the giving of a bond is not a pre-requisite to the validity of the assignment. Thirty days are given (sec. 3) after the date of the assignment for the entering into a bond. But in the mean time the title to the assigned property is not in the debtor, nor is it in abeyance. It is in the assignee, who is forbidden, only to sell or dispose of it, or convert it to the purposes of the trust. But the bond was approved of by an officer who had power to do that act (Const. of 1846, Art. 6, § 15; Const. of 1869, Art. 6, § 16; Laws of 1864, c. 368, p. 860; Seymour v. Mercer, 13 How. Pr. 564; People v. Main, 20 N. Y. 434).
+There was testimony sufficient for the referee to find that there was a mutual abandonment of the parol contract for the sale and purchase of the house and lot. The defendant urges that an abandonment of a contract is not a rescission. But it is not well to insist upon words merely. . The referee, when he found that the agreement for the purchase and sale of the house and lot had been mutually abandoned and given up by the parties to it, meant that they had by their declarations, their acquiescence in declarations, and their acts, come to an understanding that the contract should be annulled, and not held as binding by either upon the other. A rescission may be by consent. It need not be expressed as an agreement, (James v. Cotton, 7 Bing. 266).
+The acts of the defendant, the acts and declaration of Syme, showed that they meant to and did consent to relieve each other from any obligation in which they were by this parol agreement, and that the defendant should have the value of the use and occupation of the premises as a set-off to the account of the plaintiff’s assignor.
+As no objection was made at the trial, that the proofs were not in' accord with the allegations of the complaint, it cannot be raised here. Beside the proofs made by the plaintiff herein accord with the averments of his complaint, and it was evidence which was brought out by the defendant, and by the proof in reply thereto, that changed the aspect of the case from that made by the complaint.
+Certain testimony was admitted under the objection of the defendant, that it was not material. It is plain that it did her no harm. The facts are in the main found as she claimed them to be, save perhaps that of the abandonment of the contract, and that is based upon testimony to which she did not object.
+The defendant offered to prove certain declarations of Syme, which at one stage of the trial were ruled out, at another similar declarations were testified to, and the defendant had the benefit of a finding that the fact was as she sought to prove it thereby.
+The judgment should be affirmed with costs.
+All concurred.
+Compare Globe Ins. Co. v. Cleveland Ins. Co. (14 Nat. Bank. Reg. 311).
+For other recent illustrations of the rule that new matter pleaded in avoidance may he rebutted by-plaintiff, by proof of other matter which he had not pleaded,—see Peck v. Winne, 51 N. Y. 641; Dambman v. Schulting, 4 Hun, 50; Mandeville v. Reynolds, 5 Id. 338; Johnson v. White, 6 Id. 587.
