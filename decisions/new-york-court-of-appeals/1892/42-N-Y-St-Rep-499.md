@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1892-01-20"
+citations: ["42 N.Y. St. Rep. 499"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, Resp’ts, v. James E. Minnaugh, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071398
+---
+
+# People v. Minnaugh
+
+## Majority (Finch, J.)
+
+Finch, J.
+The record discloses no ground for the reversal of this judgment, either upon the facts or the law. The evidence fully established that the prisoner killed the deceased with two-shots from a pistol, one of which inflicted a mortal wound ; that the defendant acted from a motive of revenge, aroused by a quarrel with, deceased the night before, in which the prisoner was more or less violently assaulted, and suffered not only some personal injury, but the mortification of defeat; that on the morning of the murder he purchased a pistol at one place, giving a false reason for the act, bought the necessary cartridges elsewhere, loaded the weapon, went to the saloon where he expected to find and did find his adversary, and without a word shot him down where he stood; that the accused then ran away and endeavored to conceal himself in a neighboring house where he was found and ■arrested; and that his sole explanation of the crime was a reference to the ■ affray of the day before. Yery much of detail and many facts and circumstances accompanied this outline of the proof, and there was no room left for a rational doubt that the killing was the act of the defendant, that it was intentional, and the result of a premeditated and deliberate purpose. We entirely agree with the verdict of the jury in that respect.
+The defense attempted to be interposed was that of insanity resulting from the habitual and intemperate use of alcoholic stimulants. That bad habit was shown to have existed, but the resultant consequence was not at all established. A wild look in the •eyes, an unusual paleness, a restless movement about the room, a nervous trembling, a surly and silent refusal to answer, were the .substantial facts upon which the defendant’s witnesses characterized his conduct as irrational, but which were entirely consistent with his possible sanity. They fell far short of establishing that the accused did not, at the moment of the murder, know the nature and quality of his act, and perfectly understand that it was wrong.
+On the contrary, the proof satisfactorily showed that he was sober and rational on that day ; that he went about his purpose with an intelligent adaptation of the means to the end which he had in view; that he fired the weapon, procured and loaded, without new provocation, and not once lout twice; that he fled and hid himself with an apparent and obvious consciousness of the character and consequences of his act; that he answered questions rationally and correctly; and that he gave the reason of a revengeful temper for the deed which he had done. These and many further facts, while not necessarily conclusive, scarcely needed under the circumstances proved the added evidence of the only expert examined to show that the prisoner was sane at the time ■of the murder. On this branch of the case also we agree with the conclusion reached by the jury.
+Only two exceptions were argued before us. It was objected that the trial judge commented upon the facts in such manner as to prejudice the minds of the jury against the prisoner, and erred in speaking of voluntary intoxication and reading an authority on that subject to the jury. There is no just foundation for either ■criticism. The charge of the learned recorder was not only accurate and able, but thoroughly fair and impartial. Again and again, and with constant reiteration, the jury were told to draw no inference upon the facts from the charge of the court; and such reference to the facts as was needed to illustrate and bring out the application of the law was qualified with unusual care as relating to a matter solely for the determination of the jury. No charge in a criminal case could touch the facts at all with more of fairness or greater precautions against a misunderstanding of the relative functions and responsibilities of the court and jury.
+There was some evidence in the case which made possible an inference that the accused was more or less intoxicated when he -committed the crime with which he was charged. That possibility made it the duty of the court to state the law on that subject. That the learned recorder did so by reading to the jury from a reported case the doctrine which he had an undoubted right to ■declare, and which was correctly stated, furnishes no ground for an exception. So long as the doctrine was sound and applicable to the possible facts appearing, it made no difference whether the trial judge used his own language or chose to avail himself of the words of another.
+We see no error in the record and the judgment should be affirmed.
+All concur.
