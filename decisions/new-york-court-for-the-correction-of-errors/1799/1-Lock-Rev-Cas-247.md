@@ -1,0 +1,25 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1799"
+citations: ["1 Lock. Rev. Cas. 247"]
+reporter: "lock-rev-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vandenheuvel v. The United Insurance Company, 2 C. C. E. 217; 2 J. C. 127, 541."]
+source_url: "https://static.case.law/lock-rev-cas/1/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947618
+cites_cases: ["2 Wend. 64", "4 Cranch, 434"]
+---
+
+# Vandenheuvel v. United Insurance
+
+## Majority (Benson, Kent and Radcliff, Js.,)
+
+Benson, Kent and Radcliff, Js.,
+delivered opinions, each holding, upon the strength of the previous decisions of their own court, as well as upon the English cases, that the sentence of the Court of Admiralty was conclusive upon the insured, and that he could not recover beyond a return of premium. See 2 C. C. E. 219-266.
+The plaintiff then brought his writ of error to the Court of Errors, where this question underwent elaborate argument, and the principle was finally established by the Court of dernier resort, that the sentence of a foreign Court of Admiralty, was not conclusive, but prima facie evidence only of the character of the property insured, although expressly condeinned as enemy’s property.
+Clinton, (De Witt,) senator, and T. R, Gold, senator, delivered the only opinions, and arrived at the same conclusions. Senator Clinton says; “ The plaintiff having warranted a ship and cargo as American property, the question is, whether in an action against the insurers, the sentence of a foreign Court of Admiralty, that such warranty was false, is conclusive evidence. It is admitted by the plaintiff, that the sentence binds and changes the property, and that it is prima facie evidence of the fact set up against him ; and, on the other hand, it is conceded by the defendants, that in several cases, in an action of this kind, the judgment is not definitive in favor of the insurers; such as when, on the face of it, it is founded on local ordinances, or contrary to the law of nations; or so ambiguous that the court can not, from the reasons assigned, collect the grounds of it; and that this case not coming within either of these descriptions, the contest between the parties still remains open, whether the foreign sentence be prima facie or conclusive evidence against the insured, and whether it bind the property adjudicated only, or is conclusive to every extent', and in every modification of the subject.”
+He proceeds to examine the English cases, and maintains that Hughes v. Cornelius, 2 Shower, which was an action of trover for a ship sold under a decree of a French Admiralty Court, (in which the court admitted the sentence to be true, although contrary to the special verdict,) went only upon the ground of the decree’s changing the property. “ The idea that a sentence of a Court of Admiralty is conclusive, arises from this consideration ; that the court always proceeds in rem. The decree naturally and necessarily binds the subject of the proceeding. A ship or cargo, or any person purchasing under the decree, will of course be secure. The case of Fernandes v. Da Costa, he treats as one of no authority on the point, being a nisi prius case, and that all we can collect from it is, that the testimony adduced by the plaintiff, was not sufficient to balance that derived from adjudication.” “In suits brought in England, upon foreign judgments,between the same parties, the courts consider them only as prima facie evidence of the demand, and admit the defendant on a plea of nil debet, to contest the original cause of action. If a foreign judgment be not considered conclusive between the same parties in cases of this nature, why of a foreign Court of Admiralty between third persons?”
+Such being the opinion of a majority of the court, the judgment of the Supreme Court was reversed accordingly; and the cases of Ludlow v. Dale, 1 J. C. 16; Goix v. Low, 1 J. C. 341, were also overruled by this decision.
+£tS= Notwithstanding the different decisions, as to the conclusiveness of the sentence of a foreign Court of Admiralty, in cases where the condemnation was for breach of blockade, as in Croudson v. Leonard, 4 Cranch, 434, and others in S. Ct. of U. S., yet in the case of the Ocean Insurance Company v. Francis, 2 Wend. 64, the Court of Errors held it settled law in our state, that the “ sentence of a foreign Court of Admiralty, condemning a vessel warranted not to be employed in an illicit trade, was not enough to support the allegation of a breach of warranty; that, such foreign court acting as a municipal court to carry into effect the navigation laws of such foreign state, and condemning the vessel fora violation of them; to establish such a breach of the warranty, it was incumbent on the insurers to prove the existence of the laws alleged to be violated, as our courts can not judicially take notice of the municipal laws of other countries, but require them to be found as facts.”
