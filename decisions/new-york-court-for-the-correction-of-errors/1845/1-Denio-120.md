@@ -1,0 +1,28 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-05"
+citations: ["1 Denio 120"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People vs. Call."]
+source_url: "https://static.case.law/denio/1/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483832
+cites_cases: ["14 John. 294"]
+---
+
+# People v. Call
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+The objection that this note was without value, and therefore could not be the subject of a larceny, cannot be sustained. Carle, whose name was erased from the note, was a surety for the' prisoner. The latter assented to the erasure, and cannot be allowed to set it up in discharge of himself. As the note was still binding upon the prisoner, saying nothing of the other signers, it had value, and therefore might be the subject of a larceny.
+According to the evidence, as stated in the bill of exceptions, the note was handed to the prisoner for a special purpose, that is, to endorse upon it a payment which had then been made. He appeared to be making the endorsement, but then folded up the note and with it left the house.
+That the note was thus converted to his own use, by the prisoner, with an intention to defraud the owner, seems hardly to have been a contested fact on the trial. The charge assumes, as the law clearly requires, that a felonious intent should be found by the jury; for without it the prisoner should be acquitted. This intent is an essential element in the crime of larceny, and it must exist at the time of the taking; for if that was lawful, no subsequent appropriation of the property, however fraudulent the intent may be, will constitute this crime. (2 Stark. Ev. Philad. ed. 1842, p. 606; The People v. Anderson, 14 John. 294; 4 Black. Comm. 232; Roscoe's Cr. Ev. 533, 541; Banke's case, Russ, & Ry. C. C. Rep. 441: this case is stated in a note to Rex v. Goodbody, 8 Carr. & Payne, 665.)
+As every larceny includes a trespass, the taking must be from the possession of another person. But here it is necessary carefully to discriminate between what constitutes, in law, a possession of property, and that which amounts only to its care and charge.
+A servant has the charge, but not the possession, of his master’s goods. The possession is in the master, and the servant may commit larceny by converting the property, with which he is thus entrusted, to his own use. This principle applies to servants, strictly so called, as it also does to apprentices, clerks and workmen of every description, who are employed in the care and management of the owner’s property, under his immediate supervision and control. The rule is thus stated by East: “ It is a clear maxim of the common law, that where one has only the bare charge or custody of the goods of another, the legal possession remains in the owner, and the party may be guilty of trespass and larceny in fraudulently converting the same to his own use. Thus, a butler may commit larceny of plate in his custody, or a shepherd of sheep. The same of a servant entrusted to sell goods in a shop. This rule appears to hold universally in the case of servants, whose possession of their master’s goods by their delivery or permission is the possession of the master himself.” (2 East's P. C. 564; and see p. 682; 2 Hale's P. C. 506; Rex v. Bass, 1 Leach, 285; Rex v. Chipchase, 2 id. 805; 2 Stark. Ev. 610; Reg. v. White, 9 Carr. & Payne, 344; Reg. v. Harvey, id. 353; Rex v. Jackson, 2 Moore, 32; Roscoe's Cr. Ev. 545 ; 4 Black. Comm. by Chitty, 231, and notes, pp. 230, 231.)
+Where possession of the property is obtained by one as a bailee or purchaser, although by trick and fraud, the case stands on other grounds, but which need not now be stated. The note was not received, by the prisoner as a bailee, Or a purchaser, but for the mere purpose of doing for the holder what he. was about to do for himself. The endorsement would be the act of the holder, although made by the hand of the prisoner. It was to be done under the immediate direction and control of the owner, and could only be made by the prisoner as servant or agent of the person for whom he was acting. As the note was thus received by the prisoner as a servant of the holder, the legal possession was not changed; the prisoner was in charge of the note while making the endorsement, but the owner still had possession.
+It was unnecessaiy, therefore, that the jury should have found the existence of a felonious intent, when the prisoner received the note. If it came upon him after the note had been received, and while he was engaged in making the endorsement, or subsequently, and was carried into effect by converting the property to his own use, it was larceny. The charge, therefore, was not strictly correct, in requiring the jury to find the animus furandi at the time when the note passed into the prisoner’s hands; it was enough that it existed while he held it as servant to the owner. A felonious conversion under such circumstances was, in law, a felonious taking from the owner.
+The charge of the court virtually required the jury to find a felonious intent at the time of conversion, as it did expressly at the time the prisoner received the note. The last requisite of the charge was erroneous; but it was an error which could not prejudice the prisoner. It required the jury to find more than the law made necessary to warrant his conviction of the offence; but of that he cannot complain, and a new trial should be denied.
+New trial denied.
