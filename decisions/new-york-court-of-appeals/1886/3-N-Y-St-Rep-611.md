@@ -1,0 +1,23 @@
+---
+court: "New York Court of Appeals"
+decided: "1886-10-26"
+citations: ["3 N.Y. St. Rep. 611"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anton Schwartz, Appl’t, v. Louise Weber, Administrator, etc., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0611-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978678
+---
+
+# Schwartz v. Weber
+
+## Majority (Earl, J.)
+
+Earl, J.
+This was an equitable action to remove the cloud of a mortgage from certain property of the plaintiff, situated in Brooklyn. The action was tried at a special term of the supreme court, and judgment was ordered in favor of the defendant, which was entered on the 28th day of April, 1886. On the same day copies of the judgment and the order dismissing the complaint, and notice of the entry of each, were served upon the plaintiff’s attorney. On the twenty-eighth day of May the plaintiff served upon defendant’s attorney a notice of appeal, from the judgment thus entered to the general term. The defendant’s attorney noticed the appeal for argument, and also gave notice of a motion that he would move for an order dismissing the appeal, and that the cause be stricken from the calendar, and his judgment be affirmed, with costs, on the ground that no case had been made and served. The motion was opposed upon affidavits of plaintiff’s attorney that the decision, consisting of findmgs of fact and conclusions of law made by the judge presiding at the special term, had been filed with the clerk, but that a copy thereof had never been served upon him, and that thus plaintiff’s time to serve case had not expired. The general term granted the motion dismissing the appeal, with costs of motion, and ordered that the judgment be affirmed, with costs of appeal, unless within twenty days thereafter the appellant should apply to the special term for leave to make and serve a case on appeal, and that, if such application should be granted, the appeal should not be dismissed, but the cause should go over the term and be argued at the next general term.
+We are of opinion that the learned general term misapprehended the practice. The notice of the entry of judgment which the defendant’s attorney served, upon the plaintiff’s attorney, limited the right to appeal to thirty days, under section 1351 of the Code, which provides that an appeal to the general term “must be taken within thirty days after service upon the attorney for the appellant of a copy of the judgment or order appealed from, and a written notice of the entry thereof,” and it had no other effect; and within the time limited the appeal was brought. The plaintiff was not obliged to prepare a case to be settled as required by section 997 of the Code, but he could file exceptions under section 994 of the Code, to the findings of the trial judge upon questions of law, and could have his appeal heard upon those exceptions, without any case as provided by section 998 of the Code. At the time plaintiff’s appeal was dismissed at the general term, the time for filing exceptions to the findings of law had not expired. According to section 994 those exceptions could be taken and filed any time before the expiration of ten days after service upon plaintiff’s attorney of a copy of the decision of the court, and a written notice of the entry of judgment thereupon. A copy of the decision has never been served upon the plaintiff’s attorney, and hence his time for filing exceptions to the findings of the judge has not been limited, and has not expired. The court at general term, therefore, had no right to dismiss his appeal, conditionally or otherwise. The defendant must serve upon the plaintiff’s attorney a copy of the decision of the court, and then, unless plaintiff’s attorney files and serves his exceptions within the time limited by law, his appeal may be dismissed.
+Nor has the plaintiff’s time to make a case been limited as required by rule 32 of the supreme court. That rule provides that, if the trial is before the court or a referee, a case may be made and a copy thereof served upon the opposite party “within ten days after the service of a copy of the decision or report, and written notice of the entry of judgment thereon.” It would, therefore, appear that, at the time the plaintiff’s appeal was dismissed, he was not in default for not filing his exceptions or making a case.
+The order of the general term should therefore b.e reversed, with costs of appeal to this court, and ten dollars costs of opposing the motion at the general term.
+All concur. _
