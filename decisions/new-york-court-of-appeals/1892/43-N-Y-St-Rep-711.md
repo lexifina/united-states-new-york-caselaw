@@ -1,0 +1,59 @@
+---
+court: "New York Court of Appeals"
+decided: "1892-03-15"
+citations: ["43 N.Y. St. Rep. 711"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank T. Lacroy, Resp’t, v. The New York, Lake Erie & Western Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0711-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078002
+cites_cases: ["113 N. Y., 251", "22 St. Rep., 936", "81 St. Rep., 753"]
+---
+
+# Lacroy v. New York, Lake Erie & Western Railroad
+
+## Majority (Parker, J.)
+
+Parker, J.
+April 25, 1887, a train crew, of which the plaintiff was a member, consisting of an engineer, fireman, conductor and four brakemen, undertook to take a train of forty cars loaded with coal from Brockwayville to Bradford, a distance of between sixty and eighty miles.
+One of the rules of the company then in force relating to the duties of brakemen provided that they should “assist in the shifting and making up trains, and before starting must test the hand brakes, and see that they are in proper condition and work easily, and see that the train signals are in good order and ready for im- . mediate use.”
+Before starting this train from Brockwayville the brakemen, of whom the plaintiff was one, did not, nor did any of them, test the hand brakes. So, when the train moved out, whether they were in good working order or not the brakemen were not informed. At Johnsonburg, about twenty-eigbt miles distant, the cars were usually inspected, but on this occasion such precaution was omitted, although the train was on a side track for nearly two hours. But such omission did not prompt the brakemen to test the brakes, although it appears from their testimony that with such heavily laden cars the brakes frequently got out of order after a train has started towards its destination. Until the train reached Freeman’s Switch each of the four brakemen had charge of the brakes on ten cars, the plaintiff having charge of the last ten. At that place one of the .brakemen was injured, and thereafter the plaintiff took charge of the last twenty cars of the train. From Crawford’s Junction there is a down grade in the direction in which the train was running for a distance of nearly six miles, averaging over lOO feet to the mile. At some places the incline is greater than at others, and there are a number of sharp curves and some reverse curves.
+The plaintiff’s witnesses unite in testifying that the grade was so steep and the curves so numerous that in order to take a train of forty loaded cars down it was necessary to have from thirty to thirty-five brakes in good working order.
+It also appeared that these brakemen had more or less experience in taking trains down Shanty Hill, and that the plaintiff had, in the capacity of brakeman, taken part in running trains up and down this hill for seven or eight years prior to the date of the accident.
+Yet when Crawford’s Junction was reached, from which point this steep descent began, with full knowledge of the dangers incident to an attempt to take such a train down without having thirty or thirty-five brakes in good working condition, and well knowing that the brakes on heavily loaded cars are apt to get out of order while a train is in motion, neither the plaintiff nor his associate brakemen had made any effort to .test the brakes for the ■ purpose of ascertaining whether they were in condition to do the work about to be required of them.
+As the train left Crawford’s Junction the brakemen commenced to set the brakes, and then, according to their testimony, ascertained for the first time that a number of them would not work. But it was then too late to either repair them or sidetrack the cars having the defective brakes, as was the custom, for the train was beyond control. Eealizing the danger of the situation, the brakemen employed their best efforts to check the rapid movement of the train, but without avail, and its speed kept on increasing until it was running at the rate of sixty miles an hour, when the greater portion of the train was thrown from the track, 'the cars piled on top of each other, resulting in great loss of property to the defendant and personal injury to the plaintiff.
+It is the contention of the plaintiff, who was one of the responsible actors in the occurrences which resulted in such serious damage to the property of the defendant, that it should also respond to him in damages for his personal injuries.
+It is not contended that the defendant omitted to provide suitable rules and regulations for the management of its railroad, nor that it omitted to employ competent and skillful men to keep its railroad apparatus in proper working order and to operate its trains, and if it had appeared that its rules and regulations had been put in possession of these several brakemen, with instructions to read and observe them, this case would have been brought within the rule laid down in Byrnes v. The N. Y., L. E. & W. R. R. Co., 113 N. Y., 251; 22 St. Rep., 936, and the defendant ab? solved from liability. But in the absence of such proof, the learned trial court reached the conclusion that if the plaintiff did not have actual knowledge of the existence of the rules, he could not be held responsible for his failure to test the brakes, and might recover. That question he submitted to the jury, who found""in favor of the plaintiff.
+We shall first consider whether there was any evidence authorizing the jury to find that the plaintiff did not have knowledge of „ the rule of the company, which undisputedly he failed to obey, for if not, the refusal to dismiss the complaint was error.
+The plaintiff’s evidence in that regard is as follows:
+“ Q. In your caboose you had a little bbolc of instructions; Mr. Bowen’s Book of Instructions, didn’t you ? A. No sir.
+“ Q. Look at that and see if you recognize that ? Counsel presents book to witness. A. I saw one of them. We didn’t have none in the caboose. I had seen them before. I knew the company had such books, because John Burns when I was breaking’for him had one. He was mv conductor.
+“ Q. Where did he keep them f A. He had them in his desk. In the trunk in the baggage car. I had seen these a great many .times. I knew that they had them. I knew that they had been used during the last time I was in the service of the company.
+“ Q. That stated what the duties of the different persons were; conductors, engine-men and flagmen, etc. ? A. Yes sir.
+“ Q. The trainmen had access to it; they had an opportunity, of , seeing that and reading that ? A. Yes, sir.
+“Q. You read, don’t you? A. Yes, sir.
+“ Q. ■ Have you read in that ? A. I read one at one time; the only one I saw.
+“ Q. How long before you got hurt that you read one of these books ? A. It was five or six years.
+“ Q. Did they give you any book; furnish you any book ? A. No sir.
+“Q. Mor rules? A. Mo sir.
+“ Q. Mow, you understand that the duties were contained in this book, of course ? A. I didn’t understand a great deal of it, because I just read over one or two pieces in it. I understood there was printed in that the duty of each man; the brakemen, and engineers and conductors.”
+In this connection we quote the evidence of the conductor, who was called on the part of the plaintiff, and was in, charge of the train at the time of the accident.
+“ Q. Do you recognize this as a guide-book, a book of rules of the defendant ?
+“ Counsel presents book to witness.
+“A. Yes, sir; it was in force then. At page 83 is a specification of the duties of the flagman.
+“Q. Did you have in your caboose one of these books of Mr. Bowen’s bearing date June 1, 1883? A. There was one of the books in the caboose, in the desk. One was generally kept there in the caboose, and was there at this time. I don’t know how long it had been there. We generally had one upon the train to which all these employees had access. These I understand to be a duplicate of the rules and regulations furnished the employees of the company; the duties of freight brakeman I find on page 83.” •
+It will be observed that the witness, in the course of his testimony, said with reference to this book of rules, that when John Burns was his conductor he (Burns) kept it in his desk in the baggage car; that witness had seen it a great many times; knew they had it in use during the time he was in the' service of the company; that the trainmen had access to it; and an opportunity of seeing it and reading it; that he could read, and had read one; and further strengthened the positiveness of his statement by • asserting the fact that the book stated the several duties of the positions of conductor, enginemén, flagmen, etc.
+Mow, in the testimony so far quoted there is nothing which contradicts, or tends to contradict, liis assertion that he had seen the book; had read it and knew that it stated the duties of the ■different grades of employees.
+On being recalled, the plaintiff testified as follows:
+“ Q. Was you ever furnished one of these books ? A. Mo, sir.
+“Q. And requested and required to read it? A. Mo, sir; never.
+“ Q. Anything ever said to you about it by your employer? A.. No, sir.
+“ Q. Yet you knew it was one of the books of the company and, contained the train rules? A. Yes, sir.”
+This evidence it will be observed does not in any way contradict or vary that previously given. The plaintiff declares that he was -not furnished with a book of rules, not that he did not see one or have access to it. He asserts that be was not requested or' required to read it, not that he did not in fact read it. The apparent object of this testimony was to show that the company did not bring the rules to his attention in the manner it should have done. But the question we are considering is not whether the defendant properly promulgated the rules as to the plaintiff, but whether they in fact came to his knowledge, and we think the evidence permits no other inference than that they did. As the failure to obey the rules occasioned the accident the plaintiff, whose neglect was in part, at least, responsible for it, cannot require the defendant to compensate him for his injuries.
+Had he been unacquainted with the printed rules we think he should not have recovered. ' Neither the plaintiff nor his associate brakemen can. offer as an excuse for their conduct that they were without adequate experience in the handling of trains, or unfamiliar with the duties; or with the dangers incidentto running a heavy train down Shanty Hill. They had been long employed in that work; knew that the brakes were liable to get out of order while a heavily loaded coal train was moving over such grades; were, fully acquainted with this particular railroad, the plaintiff having been a brakeman on it between seven and eight years, and understood fully the danger of attempting to take a train consisting of forty cars loaded with coal down Shanty Hill with less than thirty or thirty-five brakes in good condition.
+It follows that in the absence of printed instructions the plaintiff and the rest of the train crew well knew that their duty to their employer and a proper regard for their own personal safety made it incumbent upon them to know before reaching the point where the steep descent began, which continued for nearly six . miles, whether the train contained "the requisite number of brakes to properly check its speed, and as a necessary consequence the plaintiff cannot require the defendant to make good to him the damages resulting from an injury which could not have been sustained had he and his co-employees observed that reasonable care and caution which" their experience suggested and the situation demanded.
+The judgment should be reversed.
+Judgment reversed and new trial granted, costs to abide event.
+All concur, except Bradley and Yaw, JJ., dissenting.
