@@ -1,0 +1,28 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1799"
+citations: ["1 Lock. Rev. Cas. 401"]
+reporter: "lock-rev-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Supervisors of Albany County v. Dorr and his Sureties, 7 Hill, 583."]
+source_url: "https://static.case.law/lock-rev-cas/1/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947583
+cites_cases: ["1 Denio, 233", "25 Wend. 440", "25 Wend. 444", "5 Wend. 342"]
+---
+
+# Supervisors of Albany v. Dorr
+
+## Majority (The Supreme Court held, Nelson, Ch. J.)
+
+The Supreme Court held, Nelson, Ch. J.
+delivering the opinion of the court. That the defendant was not responsible for the money thus stolen from his office. That he was not an insurer, ex virtute officii, while the money necessarily remained in his custody. The cases principally relied on by C. J. Nelson, are Lane v. Cotton and Frankland, 1 Ld. Raym. 646, and Whitfield v. Le Despenser, Cowp. 574, which require, to subject the public officer, proof of misconduct or neglect in the execution of his duties. [He cites also 7 Crunch, 242, the case of Dunlop v. Munroe, which, however, does not seem very applicable to the issue presented on the demurrer in this case.]
+The Court of Errors were equally divided, 12 to 12 on the question being put, “ Shall this judgment he reversed 1 and the effect of this was to affirm the judgment.
+Chancellor Walworth and two senators delivered opinions not reported, in favor of affirmance and 3 Senators for reversal.
+[The reporter says, in his marginal note. “ The affirmance however, has no binding force as a precedent, and the case has since it seems been overruled. See note.
+Hjr This dictum of the reporter may perhaps be safely enough assented to; as the affirmance in this case did not acquire the full force of a precedent, in settling the question, so that the Court of Errors would hold itself precluded from re-examining it when it should be again presented to them. But what he says in the note below upon the subject of its being since settled directly the other way by the case of Muzzy, Supervisor v. Shattuck, seems to a certain extent, unsupported by the opinion of Jewett, J. 1 Denio, 233. He makes no other reference or allusion to that case, than to say ; “ It is supposed that the principle of this case was decided in favor of the defendants, in the case of the Supervisors of Albany v. Dorr, and others 25 Wend. 444.” Without stopping to discuss the question, the learned judge then proceeds to show from the various sections of the statute what are the legal liabilities of the collector of a town and his sureties: and he seems to hold that the collector is liable under the statute provision, “as a debtor, if he have not collected and paid over; and that he and his sureties are therefore liable, whether the omission is the result of misfeasance or neglect, unavoidable accident or felony committed by another.” He held the second plea also bad in not averring that the identical money collected had been stolen: and in this it is distinguishable from the case of Dorr.
+In the case of The United States v. Prescott and others, the plea was in substance the same as that in the case of Muzzy v. Shattuck, and did not aver as in the case of Dorr, that “ the identical money was stolen, without any negligence, want of due care or other blame or fault whatever on his part.” On the contrary the plea simply averred that as receiver of public moneys the defendant hadf “ used ordinary care and diligence, in the safe keeping of the same &c.”
+Mr. Justice McLean, however, who delivered the opinion of the court, it must be admitted, places the case upon grounds broad enough to cover not only the case of Muzzy v. Shattuck, which it most resembles, but also that of Dorr. He says “ There is no principle on which such defence can be sustained. The obligation to keep safely the public money is absolute, without any condition, express or implied, and nothing but the payment of it when required, can discharge the bond.”
+“ Public policy requires that every depository of the pub.ic money should be held to a strict accountability; not only that he should exercise the highest degree of vigilance, but that “he should keep safely,” the moneys which come to his hands. Any relaxation of this condition would open a door to fraud, which might be practised with impunity. As every depositary receives the office with a full knowledge of its responsibilities, he cannot in case of loss, complain of hardship. He must stand by his bond, and meet the hazards which he voluntarily incurs.”
+Note by the reporter. Although the effect oí this equal division of opinion among the members of the court was to affirm the judgment of the court below, yet the affirmance did not settle the question of law, and has no binding force as a precedent. Bridge v. Johnson, 5 Wend. 342, 372 to 375, and the cases there cited. Ram on Legal Judgments, 18. Indeed the law seems to have been settled since, and properly it is believed, directly the other way, by the case of Muzzy, Supervisory. Shattuck and others, 1 Denio, 233, decided by the Supreme Court in May, 1845. That decision, which appears to be utterly irreconcileable with the one reported in the text; was subsequently reviewed by the court for the Correction of Errors, and in December, 1846, was unanimously affirmed. A similar decision was made in the Supreme Court of the United States, in January, 1845, The question arose in an action on the official bond of the receiver of public moneys at Chicago. The United States v. Prescott and others, 3 Howard’s Rep. 578.
