@@ -1,0 +1,32 @@
+---
+court: "New York Court of Appeals"
+decided: "1866-09"
+citations: ["1 Abb. Ct. App. 146"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BLOOMER v. PEOPLE."]
+source_url: "https://static.case.law/abb-ct-app/1/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1112074
+cites_cases: ["3 Park. Cr. 559"]
+---
+
+# Bloomer v. People
+
+## Majority (Davies, Ch. J.)
+
+By the Court.
+Davies, Ch. J.
+The plaintiff in error was indicted and convicted in the Ulster county sessions of the crime of robbery in the first degree, and the conviction was affirmed at a general term of the supreme court, and the plaintiff now brings his writ of error to this court. His crime is thus defined by our statute: "Every person who shall be convicted of feloniously talcing the personal property of another from his person, or in his presence, and against his will, by violence to his person, or by putting such person in fear of some immediate injury to his person, shall be adjudged guilty of robbery in the first degree.” 3 R. S. 5 ed. p. 950, § 57. The definition of robbery at common law is a felonious taking of money or goods of any value from the person of another, or in his presence, against his will, by force or violence or putting him in fear. 4 Blacks. Com. 243; Barb. Cr. Pr. 134; Whart. Cr. L. 540; 3 Park. Cr. 559. The evidence of corpus delicti in the present case, and to establish the crime charged against the prisoner, consisted in these facts:
+1. The taking of personal property from the person of Denny against his will.
+2. That such taking was accompanied by violence to his person, or by putting Denny in fear of some immediate injury to his person.
+If the testimony of Denny is to be believed, the jury were fully warranted in finding that personal property had been taken from his person against his will. He testified that he had on his person, on the night of the alleged robbery, twenty dollars in money and a watch, a double case silver watch, with a galvanized chain and one hook; that he became intoxicated; that he was beaten ; was hurt on his left side and face; his eyes were blackened; had bled from his nose; and that when he came to himself he had neither money nor watch nor chain, and that his right side pocket was turned inside out. This clearly establishes the first position, that personal property had been taken from his person against his will.
+Denny swore that he recollected, while some one was making an attack on him, some person said: “Bloomer, don’t kill the man.” James Gillen said that he saw Bloomer that night, and saw him knock Denny down and kick him. Thus it was clearly proven that the prisoner, on the night of the robbery, committed violence upon the person of the prosecutor Denny, and that he was put in fear of some immediate injury to his person, by the prisoner. The only remaining fact to be established, to connect the prisoner with the robbery, was that the taking of the personal property of Denny from his person was done by the prisoner. This was sought to be maintained from circumstances, and if those clearly and conclusively proved, tend to establish that fact, it is as well proved as if by direct and positive testimony of such talcing. The circumstances which led the jury to connect the prisoner with the taking are these:
+1. We have the fact of the actual talcing from the person of the prisoner, of his watch and chain, and money; and the circumstance that his pocket was turned inside out, precludes the theory that the money, at least, was accidentally lost, but shows conclusively that it was taken from the'person of Denny.
+2. The fact of the violence of the prisoner to Denny on the night the watch, chain and money were taken.
+3. The avowal of the prisoner, before the robbery was committed, of an intention to rob Denny. On this night, while Denny was sitting alone in the back part of a saloon, the prisoner said to a man named Carter, who assisted in keeping the saloon: “ The old man,” referring to Denny, “ has got stamps. I’ll go through him.” The prisoner said to Carter, “I’ll divide.” Carter said: “ Bloomer, I don’t want a hand in it; you let that job out to some one else.” The prisoner soon left the saloon, and Carter took Denny out into the street and left him there.
+4. On the same night, at a late hour, the prisoner came to the Mansion House at Rondout, where he remained and slept that night. A witness testified that when he came there, he took out some bills and postage currency, and paid for drinks. The prisoner-then took a watch and chain out of his pocket; the chain was not attached to the watch. The watch was a silver hunting-case watch. The chain was a galvanized chain and had a hook to it. The chain was broken in two pieces. One of the links about in the middle of the chain was pulled apart; and the witness put it together and handed it back to the prisoner and asked him where he got the watch. He made the remark that he had made it that night. These- circumstances might well warrant the jury in arriving at the conclusion, as they did, that the taking of the personal property of Denny from his person was by the prisoner. We cannot say that the jury ought not to have credited these witnesses. If their testimony is to be believed, and we see ho reason for casting any doubt upon its credibility, then the guilt of the prisoner was clearly and undeniably made out. The judge at the sessions therefore properly refused to charge the jury that the evidence was insufficient to establish the corpus delicti, and he correctly charged that the jury were authorized to find from the evidence that Denny was despoiled of his property by force. Of this latter fact there would not seem to have been a reasonable doubt. The only doubtful question, to my mind, appearing from the testimony contained in the bill of exceptions was, whether the property was taken by the prisoner. That question was properly left to the jury, and they have found it was, and such finding must be taken as conclusively establishing that fact.
+The judgment of the supreme court affirming the conviction was correct and should be affirmed.
+A majority of the court concurred.
+Judgment affirmed.
