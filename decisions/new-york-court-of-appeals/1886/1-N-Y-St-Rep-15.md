@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1886-01-26"
+citations: ["1 N.Y. St. Rep. 15"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["White’s Bank of Buffalo v. Farthing and others."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637349
+cites_cases: ["19 N Y.. 369", "6 Johns. Ch., 139", "77 N. Y., 232", "98 N. Y., 239"]
+---
+
+# White's Bank of Buffalo v. Farthing
+
+## Majority (Andrews, J.)
+
+Andrews, J.
+The judgments in favor of the German American Bank were recovered November 13, 1883, and the deficiency judgment in favor of the banks other than the plaintiff, April 8,1884. The judgment in favor of the plaintiff’s bank was recovered February 4, 1884, and this action was commenced November 14, 1884. The several judgments became liens on lands fraudulently conveyed by Matilda Farthing, the judgment debtor, in the order of their docketing, and they could have been sold on execmtions issued on the judgments. The plaintiff, however, elected to bring its action to remove the alleged fraudulent obstruction created by the conveyances. If it succeeds in establishing the fraud, it will be entitled to a judgment setting aside the conveyances simply, in which case it can proceed to enforce its judgment by a sale of the land on execution, unembarrassed by the cloud created; or the court may proceed further, and compel the fraudulent grantees to convey the lands to a receiver, to be sold to satisfy the plaintiff’s judgment.
+The judgments in favor of the other banks will in no way be affected, whichever form the judgment in this action may take. If it simply sets aside the fraudulent conveyances, the land will remain charged with the liens of the several judgments in the order of their docketing, and the proceed ings to enforce them will be regulated by the statute. If it-goes further, and appoints a receiver, and directs a conveyance to him. a purchaser' under the receiver's sale will take title as of the time of the debtor's conveyance to the receiver. subject, however, to the judgments in favor of the' banks other than the plaintiff. Chautauqua Co. Bank v. Risley. 19 N Y.. 369. The result of the plaintiff’s action will not, therefore, affect the lien of the judgments in favor-of the other banks who seek to intervene in this action.
+The plaintiff seeks, also, to charge the Swan street lot with the hen of its judgment, on the ground that George Farthing caused it to be conveyed to Kelly as security for a debt owing by him to Kelly, which has been since paid, and that the judgment debtor, Matilda Farthing, as the devisee of George Farthing, is entitled to the land. The other banks may commence similar actions to reach the Swan street lot, and the plaintiff’s action, followed by judgment in accordance with the relief demanded, will not prejudice any rights which the other banks may have to enforce their judgments against it. According to the rule established in this state, judgment creditors holding distinct and several judgments may unite in an action to set aside a conveyance by the common debtor, made in fraud of their rights as creditors. Brinkerhoff v. Brown, 6 Johns. Ch., 139. This is a convenient rule, but it is not a rule of obligation, but one conferring authority only. It has never been held that all judgment creditors so situated were necessary parties to such an action. We think section 452 of the Code does not require the court, on application, to compel a plaintiff to bring in a judgment creditor, not originaHy made a party, as a party to an action instituted by him to set aside a fraudulent conveyance, although its power to direct it to be done cannot be doubted. The rights of the creditor not made a party will not be prejudiced by the judgment in that action. A judgment creditor has no title to the land of the judgment debtor, but a hen only, which may, by subsequent proceedings, become the foundation of title; nor has he any interest in the subject-matter of the action brought by another judgment creditor, within the meaning of the section. He may have an interest which wiU be subserved by having the conveyance set aside. But he will not be concluded by a denial of that relief in the action of the other creditor, and, whatever the result of that action may be, his rights and remedies remain as before.
+The cases of People v. Albany and V. R. Co. (77 N. Y., 232) and Osterhoudt v. Supervisors, etc. (98 N. Y., 239), cited by the appellant, are not analogous. No effectual judgments could be rendered in those actions without directly cutting off or impairing rights of persons not parties, and it was held, in accordance with the settled rule in equity, that they should be brought in so that there might be a complete determination of the controversy. _
+_ We think the order appealed from was discretionary, and that the appeal should, therefore, be dismissed.
+All concur.
