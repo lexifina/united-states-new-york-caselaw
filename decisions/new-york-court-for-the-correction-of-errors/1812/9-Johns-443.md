@@ -1,0 +1,37 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1812-02"
+citations: ["9 Johns. 443"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse Buel and others, Appellants, against Randall S. Street and others, Respondents."]
+source_url: "https://static.case.law/johns/9/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 372361
+cites_cases: ["3 Johns. Rep. 516", "3 Johns. Rep. 586", "4 Johns. Rep. 528", "4 Johns. Rep. 529"]
+---
+
+# Buel v. Street
+
+## Majority (Yates, J.)
+
+Yates, J.
+This is an appeal from an order of the 23d of January last, of the court of chancery, to attach Jesse Buel and nine other persons, for a contempt in disobeying an injunction of that court. A motion has been made to quash the petition of appeal, on the ground that it cannot be sustained on such an order.
+By the 8th section of- the statute, regulating the proceedings in this court, in virtue of the 32d article of the constitution, it is enacted, that all persons aggrieved by any sentence, judgment, decree or order of the court of chancery, may appeal from the same to this court.
+It never could have been intended that all orders made in the progress of a cause in that court, should be subjects of appeal. Such a construction given to the statute, might, as has been observed by the respondents' counsel, so effectually impede the proceedings in chancery, as to render that court an engine of oppression. On the contrary, it appears to be a principle not controverted, that there is a class of orders arising in the progress of a cause from which no appeal lies, and a class susceptible of review by appeal. In the case of Newkirk and Wife against Willett, (2 Johns. Cases, 413.) the Chief Justice, who gave the opinion of this court, says, that “ such a distinction must and does existand in the case of The Trustees of Huntington v. Nicoll, (3 Johns. Rep. 586.) in the opinion delivered by another member of this court, the same construction is given to the statute. And in M'Vickar v. Wolcott, (4 Johns. Rep. 529.) that distinction is recognised.
+It appears to me impracticable to establish a definite rule on this subject, as every order must, in some measure, depend on its own peculiar features, to ascertain whether it will admit of an appeal. Perhaps I might undertake to say, that such only as are grounded on facts disclosed in the bill and answer, and, consequently, connected with the merits of the controversy, when final as to the subject matter of their order, so as to enable this court to decree whether the party has been aggrieved or not, may be deemed proper subjects of appeal. If this be correct, it only remains to be inquired into, whether the order now before us is pf this description.
+The appellants were enjoined as commissioners not to proceed in the apportionment of certain shares, nor in the election of directors. The complainants in the court below having satisfied the chancellor that the defendants were proceeding in violation of the injunction, an order was obtained for them to show cause why they should not be attached. The cause shown was deemed by the court insufficient, and an order for the attachment was made by which the parties were to be brought in to answer on interrogatories, so that the court might come to a final determination in relation to the contempt. If such final order had been made, after they were brought into court and examined, and that had been the subject of appeal, it would present a different question to this court, and thé argument in justification as to the impossibility of a compliance with the injunction, and whether the court had jurisdiction of the cause, might, perhaps, be properly urged; but on ¡these subjects, according to’ my view, it is not necessary to give an opinion.
+. The appeal on this order, in its nature initiatory, was premature» It behoved the defendants to have submitted to answer on interrogatories, the purpose for which the attachment was to issue, and if the alleged contempt was not purged by the answers of the defendants in the court below, the opposite party having had an opportunity, according to the course of the court, to investigate the facts in relation to it, the decretal order of the chancellor would then be deemed final as to the contempt, and the appeal might, perhaps, be sustained. My opinion, therefore, is, that the appeal be quashed, with costs.
+
+## Concurrence (Kent, Ch. J.)
+
+Kent, Ch. J.
+It has been frequently admitted in this court, that there is a class of orders in chancery, which are not objects of appeal. (2 Johns. Cases, 413. 3 Johns. Rep. 586. 4 Johns. Rep. 528.) But there never has been any precise and definite line drawn between that class of orders which are, and that class which are not, the ground of appeal. Every person of sense and . reflection will at once perceive that su'ch a distinction does, and must, of necessity, exist. Orders of one kind or other arise upon every material step taken in the progress of a suit in chancery ; and they become very frequent and numerous in a cause that is much litigated. Many of these orders relate to the process and practice of the court; and to allow an appeal from every order, would not only be absurd but intolerably oppressive. Neither the constitution, nor the statute organizing this court, ever contemplated an appeal from any decree or order that did not involve a decision upon some matter touching the merits of the controversy; for upon every appeal, the chancellor is to be called upon, to assign the reasons for his decision. If we examine the cases and precedents,,we shall find that appeals have never been sustained upon any other class of orders. In the present case, the question before the chancellor was touching an alleged contempt, committed by the appellants, in disobeying the process of his court, and he has made no decision upon that allegation. He has merely ordered process of attachment to bring in the party, to answer to the charge upon interrogatories. If an appeal will lie upon this order, it will equally lie upon the award of process of subpoena to the defendant to answer to a bill filed. The very statement of the proposition shows sufficiently the unfitness of the thing. By sustaining appeals to the extent contended for in this instance, we should not only draw into this court the whole business of the court of chancery, before it had become ripe for discussion and decision there; we should not only render the voice of that court mute, and its process nugatory, but we should destroy ourselves. This court would become wholly incompetent to despatch the immensity of business which would flow in upon it.
+February 17th, 1812.
+I am, therefore, of opinion, that the appeal ought to be dismissed»
+Van Ness, J. concurred.
+Spencer, J. also concurred. He said that on this appeal the merits of the cause could not be examined. The answer denies the facts contained in the bill; and it cannot be said that the chancellor was misinformed by the bill. The rule is, that where an. order is made affecting the rights of the parties, or imposing a grievance, an appeal will lie; but not on a mere practical order.
+Thompson, J. being related to some of the parties, gave no opinion.
+Per totam Curiam. Ordered and adjudged, that the the appeal be dismissed with costs.
+Appeal dismissed,
