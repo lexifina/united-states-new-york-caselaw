@@ -1,0 +1,29 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1843-12"
+citations: ["6 Hill & Den. 219"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Webb vs. Rice and another."]
+source_url: "https://static.case.law/hill/6/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176255
+cites_cases: ["1 Hill, 606", "1 Johns. Ch. Rep. 429", "18 Johns. Rep. 169", "21 Wend. 36", "8 Wend. 641"]
+---
+
+# Webb v. Rice
+
+## Majority (Bockee, Senator. Putnam, Senator.)
+
+Bockee, Senator.
+The question in this case is, whether oral evidence may be admitted in a court of law to shew that a deed absolute on its face was in fact intended as a mortgage. Í-am not aware that the question has ever been decided in this court. The general rule that parol evidence cannot be admitted to contradict or vary the terms of a written instrument, is too well settled both by reason and authority to admit of any controversy. The exceptions to the rule, viz. cases of accident, fraud or mistake, are of chancery jurisdiction; and it is only in these specified cases that parol evidence can be received even in a court of equity. I fully concur in the views which Mr. Justice Bronson has presented of this question in his dissentient opinion, and consider that the decision of the supreme court, if sustained, would be subversive of the most clear and well established rules of evidence, as well as a direct and palpable violation of the statute of frauds.
+Chancellor Kent, in the case of Stevens v. Cooper, (1 Johns. Ch. Rep. 429,) has given a most distinct and comprehensive statement of the law applicable to this case, in the following words: “ There is no rule of evidence better settled than that which declares that parol evidence is inadmissible to contradict or substantially vary the legal import of a written agreement. Such testimony is not only contrary to the statute of frauds, but to the maxims of the common law; and the rules of evidence on this, as on most other points, are the same in courts of law and of equity. The general rule is certainly not to be questioned or disturbed. It ought not to be a subject of discussion. It is as well grounded in reason and policy as it is in authority. "Nor does this case come within any éxception admitted here to the operation of the rule; for there is no allegation of fraud, mistake or surprise in making or executing the mortgage; and those, I believe, are the only cases in which parol evidence is admissible in this court against a contract in writing.”
+With this respected and venerated authority to support my opinion, and with due regard and observance of the intimation given by Chancellor Kent that the law is too clear and well settled to be the subject of discussion, I will refrain from discussing it. I will not place my farthing taper by the side of the sun. I go for reversing the decision of the supreme court, and awarding a venire do novo.
+' Foster, Senator, said he should vote for reversing the judgment of the supreme court on the ground that parol evidence cannot be received in a court of law to show that a deed absolute on its face was in tendedlas a mortgage. He added, that he did not wish to he understood as expressing any opinion upon the question whether the present case was one in which the defendants might have relief in a court of equity.
+Putnam, Senator.
+The main objection urged against the decision of the court below is based upon the rule which forbids the introduction of parol evidence in a court of law to vary or contradict a written instrument. It is undoubtedly true, as was said on the argument, that the receiving of such evidence in cases like the present constitutes a somewhat striking exception to the general rule; but the decisions recognizing and maintaining the exception have stood the test of professional scrutiny and been acquiesced in by the community as a part of the law of the state for a number of years. (See Champlin v. Butler, 18 Johns. Rep. 169; Gilchrist v. Cunningham, 8 Wend. 641; Roach v. Cosine, 9 id. 227; Walton v. Cronly's adm'r., 14 id. 63; Ring v. Franklin, 2 Hall's Rep. 1; Swart v. Service, 21 Wend. 36.) I think it safer to allow these decisions to stand, than now to overrule them and establish the doctrine contended for by the plaintiff. It is well Imown that, in the country especially, men have been accustomed to apply for aid in drawing conveyances, to those not conversant with the law respecting real estate; and the facility recently afforded for taking acknowledgments before justices of the peace, has tended greatly to increase this practice. Deeds absolute on their face have been frequently given with the understanding that they were to operate as mere securities; and it would be extremely hard and unjust to declare now that debtors thus situated should not be at liberty to show the facts and save their estates, provided they are ready and willing to comply with the conditions on which they conveyed. I have therefore come to the conclusion that, upon principles of policy, and from a regard to what is due to the rights of property, the rule on this subject, as heretofore understood and acted upon by our courts, should remain the law of the land. And it is difficult for me to discover any good reason why the application of the rule may not as properly he entrusted to our courts of law as to the court of chancery.
+I think the judgment of the supreme court is right, and shall therefore vote to affirm it.
+On the question being put, “ Shall this judgment be reversed” i all the members of the court present who heard the argument, except Chamberlain and Putnam, Senators, voted in favor of reversal.
+Judgment reversed.
+[Remainder of December term in next volume.]
