@@ -1,0 +1,18 @@
+---
+court: "New York Court of Appeals"
+decided: "1887-05-03"
+citations: ["8 N.Y. St. Rep. 910"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RE PETITION OF ANNA E. BROWNE, App’lt, to Vacate Assessment."]
+source_url: "https://static.case.law/ny-st-rep/8/cases/0910-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 640315
+---
+
+# In re Browne
+
+## Majority
+
+Order affirmed, with costs.
