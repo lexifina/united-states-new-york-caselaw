@@ -1,0 +1,32 @@
+---
+court: "New York Court of Appeals"
+decided: "1889-12-26"
+citations: ["27 N.Y. St. Rep. 859"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry De Graaf, Resp’t, v. Jacob F. Wyckoff, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/27/cases/0859-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030469
+cites_cases: ["37 N. Y., 409", "98 N. Y., 134"]
+---
+
+# De Graaf v. Wyckoff
+
+## Majority (Potter, J.)
+
+Potter, J.
+The theory of this action is that defendant, who-held security for the payment of obligations on which plaintiff was liable as surety, surrendered those securities and took less valuable securities instead, without the consent of the plaintiff, whereby plaintiff was compelled to pay said obligations without the benefit of the surrendered security to reimburse himself for such payment, and thus was damnified. These allegations are denied by the defendant, who moreover sets up as a bar to this action, that in an action brought by him in the court of common pleas in the city of New York, to recover of plaintiff upon such obligations, the plaintiff in this action interposed such surrender of security as a bar, and that the plaintiff is, therefore, estopped in this action by the judgment in that action, as such matter was- or might have been determined in that action. The findings of the trial court as to which bonds were to be substituted for the U. & P. Val. bonds, and as to other essential allegations of the complaint, are conclusive upon this court, and must stand unless there was practically no evidence to support the finding, or the court committed an error in receiving the rejected evidence which bore upon that question.
+The gist of this action is the unauthorized substitution of W. & J. V. bonds for U. & P. V. bonds.
+The evidence of the receipt of the U. & P. V. R. R. bonds as-security for the $20,000 loan by Wyckoff to Schofield represented by the notes, and the consent of De Graaf to the substitution of the first mortgage bonds of the Wasatch & Jordan Valley R. R., was in writing and was to my apprehension so free from any ambiguity of meaning or liability to misapprehension in respect to the kind of bonds to be substituted as to exclude any paroi or explanatory evidence. The consent was for first mortgage bonds, not in name but in fact. The bonds received by Wyckoff as substitute were in fact second lien bonds and so not ■covered by De Graaf s written consent
+There were other exceptions upon the part of defendant, many of which are effectually answered in the opinion of Justice Daniels at general term, and therefore require no further attention ; such as the evidence of value of the various issues of bonds ■of these railroads.
+The refusal of the court to allow proof by Schofield whether the surrendered bonds went into the sale made to the syndicate or to the witness, and whether the plaintiff received the proceeds of these bonds after being sold to the syndicate or to Schofield, would be matters of inference by the witness and if answered in the affirmative would be immaterial unless it was shown that plaintiff parted with no other consideration to get the proceeds of them. To have made this evidence pertinent or proper, the defendant should have proved or have offered to prove that the plaintiff got the proceeds in his original right thereto and without parting with any new or other consideration therefor.
+The exception to the evidence in relation to Wyckoff’s insolvency was not upon the main issue in relation to plaintiff’s right to recover damages for the misappropriation of the bonds, but upon the collateral or incidental remedy employed to stay the judgment obtained by Wyckoff against the plaintiff until the plaintiff should have opportunity and the right to apply the damages he might recover in this action upon or towards the payment or liquidation of that judgment. It could not affect the main issue between these parties, and could have worked no harm to the defendant in the substantial contention. All the plaintiff needed to prove in this respect was that defendant was insolvent and that was sufficently proven by the introduction of the judgment against Wyckoff and the return of an execution unsatisfied.
+It certainly cannot be necessary or wise to grant a new trial of the merits of this case for such reason. The remaining matter for consideration relates to the defense set up by plaintiff to Wyckoff’s action, that the latter had misappropriated the U. & P. V. R. R. bonds and the disposition made of that defense.
+The defendant sought to bar the plaintiff from a recovery in this action for the reason that the claim in this action was substantially the plaintiff’s defense in that action, upon the well-established principle that that matter was, or might have been litigated in that action.
+The answer to that contention is that such matter was put forward as a defense and not as a counterclaim. As a defense to that action, which was for a breach of contract, this matter, which was for misappropriating of securities, would be totally unavaik able, and when the plaintiff, Wyckoff, objected to it, it was ruled out as a defense, and such ruling must have been approved by this court in affirming the judgment Wyckoff obtained upon that trial. The matter was not in fact and could not, as matter of law, have been presented as a counterclaim; for it was pleaded in form simply as a defense, and was not even offered upon the trial as a counterclaim. Bates v. Rosekrans, 37 N. Y., 409.
+Hence the record in-the Wyckoff action against the plaintiff could not create an estoppel to that matter forming the subject of this action.
+We think there is no other course open to us leading to a different result.
+The judgment should be affirmed, with costs..
+All concur, except Follett, Gh. J., not voting, and Haight,. J., not sitting.
