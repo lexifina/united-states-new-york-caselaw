@@ -1,0 +1,30 @@
+---
+court: "New York Court of Appeals"
+decided: "1866-09"
+citations: ["3 Abb. Ct. App. 407"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O’HARA v. DEVER."]
+source_url: "https://static.case.law/abb-ct-app/3/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1115635
+cites_cases: ["46 Barb. 609"]
+---
+
+# O'Hara v. Dever
+
+## Majority (Davies, Ch. J.)
+
+By the Court.
+Davies, Ch. J.
+[After stating the above facts.] — By the common law, as it stood in the reign of Henry the Second, a man’s goods were to be 'divided into three equal parts, of which one went to his heirs or lineal descendants, another to his wife, and the third was at his own disposal;' or if he died without a wife, he might then dispose of one moiety, and the other went to his children; and so, e converso, if he had no children, the wife was entitled to one moiety, and he might bequeath the other, but if he died without either wife or issue, the whole was at his own disposal. The shares of the wife and children were called their reasonable parts; and the writ de rationabile parte bonorum was given to recover them. Blade. Com. hook II. oh. 32.
+Such continues to be the law in case of intestacy; but the owner of personal property was subsequently authorized by statute to dispose of the same by a last will. From this provision of the common law, has undoubtedly arisen the general designation of this third part of the husband’s personal property, which he could not dispose of by will, and which passed to the widow, in case of intestacy, as the widow’s thirds. The widow was also endowed of one-third part of all the real estate whereof her husband was seized during coverture, but in which she had only a life estate. This is called and known as her dower, and was a lien or charge on such real estate whereof the wife could not be divested, except by her own act and consent. The husband could only dispose of his real estate, whether by deed or by will, subject to the rights of his wife to the enjoyment for life of one-third part thereof.
+In Bruce v. Denison, 6 Ves. 385, a provision was made which was declared “ to be in lieu, bar and satisfaction of all dower or thirds out of his real and personal estate.” On the part of the plaintiff, it was pretended that the expression “ dower or thirds ” was to be considered as applicable only to real estate, while on the part of the defendant, it was urged, as to the rights of the plaintiff to the personal estate, she was deprived of dower, and all right to any share of the personal estate in all events.
+Lord Eldoh said: “ As to the word 6 thirds,’ the clear intention must be taken to mean her interest in case of intestacy. If that word did not occur, I doubt whether the personal estate would not have been included under the word dower. The word ‘ thirds ’ is never used accurately. It is a sort of expression in common parlance descriptive of the interest upon an intestacy. The plaintiff’s argument is too ingenious upon the construction of a settlement, and cannot apply when that word is connected with ‘ dower,’ which would apply to both events, whether there are chldiren or not.” If, therefore, in, the present instance the testator had given to his wife her dower and thirds, we should have been authorized in holding that she was entitled to one-third part of his personal estate, in addition to her dower, after the payment of his debts and legacies. But here there is an absolute and unqualified dis-' position of all the rest and -residue of the testator’s personal estate to his two children, to be divided between them, share and share alike. The language used precludes the idea that the testator had any intention that his widow should take one-third part of his personal estate; and the subsequent clause of the will serves only to strengthen this view. The absolute disposition of all his real and personal estate to his two childred was made “ subject, nevertheless, to the dower and thirds of "my wife, Mary O’Hara.”
+The testator had clearly in his mind, when he used this language, the fact that there was a charge or incumbrance upon the estate given to his children, subject to which only could they take it.
+This was the right of dower of his widow in one-third part of his real estate. In case of a disposition by will of his personal estate, she had no right therein to any portion, and it was not therefore subject to any such right.
+The word “ thirds,” as used in this will and in this connection, obviously meant the same thing as dower, and the word “and” should be used as “or,” making therefore the gift to the children of the testator’s real and personal estate, subject to the dower or thirds of his wife. This is the clear and plain intent of this will, and we therefore agree with the supreme court, that under it the plaintiff took no portion of the rest, residue and remainder of the testator’s personal estate, mentioned in the fifth clause of his will.
+The judgment appealed from should be affirmed.
+All the judges concurred, except Htott and Pórter, JJ.
+Judgment affirmed, with costs out of the estate.
