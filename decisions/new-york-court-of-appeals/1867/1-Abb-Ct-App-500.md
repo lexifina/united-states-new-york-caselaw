@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-09"
+citations: ["1 Abb. Ct. App. 500"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DELAFIELD v. DE GRAUW."]
+source_url: "https://static.case.law/abb-ct-app/1/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1111873
+cites_cases: ["25 N. Y. 278", "29 N. Y. 358", "36 N. Y. 221", "40 N. Y. 422", "45 Barb. 295", "5 N. Y. 247", "52 Barb. 132", "9 Bosw. 1"]
+---
+
+# Delafield v. De Grauw
+
+## Majority (Hunt, J.)
+
+By the Court.
+Hunt, J.
+I regard this contract as containing separate and independent provisions on the part of the respective parties. The plaintiffs contracted to deliver to the defendant four thousand two hundred barrels of cement of a particular character, subject to the inspection at Pensacola of the United States government, and with the choice to the defendant of two places for the delivery of the same, viz: Rondout of New York. The defendant was entitled to a credit of thirty days on the price from the time of the delivery, but he was to make the plaintiffs secure on such credit by giving them “ approved paper ” for the amount, The duty of payment by the defendant was absolute, and not dependent on the character of the cement received by him at Rondout, nor upon its inspection at Pensacola, nor, indeed, upon its arrival at that place. It depended simply upon its actual delivery to him. Grant v. Johnson, 5 N. Y. 247; 1 Saund. 320, a. The title to the cement passed to the purchaser upon its delivery to him. Wooster v. Sherwood, 25 N. Y. 278; Crofoot v. Bennett, 2 Id. 258. Its reception -by him did not, however, waive his right to have it inspected by the government officials at Pensacola, nor the right of action for any deficiency or non-conformity to the contract.
+The whole number of barrels was delivered to the defendant at New York and Rondout, on board of vessels furnished by him, by him there received, and by him carried to Pensacola. On such delivery, the defendant immediately became liable to the plaintiffs to pay the money or to deliver them approved paper at thirty days for the amount of the cement so delivered and received. Authorities, supra-. He did make payment in a manner satisfactory to the plaintiffs for the whole amount, except eight hundred and eleven dollars and forty-three cents.
+Although the cement was thus accepted by the defendant, it was under the provisions of the contract as set forth. That contract provided that the cement should be subject to the inspection of the United States government inspector, and at Pensacola, as is fairly to be inferred.- The referee finds that three hundred barrels did not pass such inspection. Here was a failure of duty on the part of the plaintiffs, by which the defendant may have suffered damage, and on account of which he claims to defeat the plaintiffs’ right of recovery in the present action. The referee held against this view of the defendant, on the ground, which he finds to exist, that he did not return the cement after its "rejection, or notify the plaintiffs to take it back, and that he had not shown what’ disposition was made of it, or what damage, if any, he had sustained by its defective packing, or its not passing inspection. It is certain that there was not a complete performance in delivering the three hundred barrels which failed to pass inspection; but it is equally certain that this circumstance does not alone furnish a cause of action or of counter-claim to the defendant. He had received the three hundred barrels at New York or Rondout, and had himself transported them to Pensacola. They were there condemned, and thenceforth are entirely lost sight of. Whether they were afterward received by the United States authority, whether they were converted to some other use, whether such use resulted in a loss or an advance, is entirely undisclosed, This proceeding the law will not justify. When the government inspector refused his approval of the three hundred barrels, it was the duty of the defendant, at once, to have returned the same to the plaintiffs, or to have notified them of such refusal, to have informed them where the cement was stored, and that it was subject to their order. Reed v. Randall, 29 N. Y. 358. The defendant did none of these things." He gave the plaintiff no opportunity to ascertain whether an inspection ought to have been allowed, or whether it could yet be obtained. He allowed no opportunity to turn the cement into money, either at a full price or at a reduced valuation. He simply did nothing, and, so far as the plaintiffs are concerned, permitted the cement to be destroyed or wasted. • Under such circumstances, he has no claim against the plaintiffs for the reason that the cement did not pass inspection.
+Upon the main point of argument, I am, therefore, of opinion that the cause was rightly decided below.
+The ease contains many exceptions to the admission or exclusion of evidence. The most- of them are disposed of by the ■ view of the rights of the parties already taken. The others are carefully considered, and, I think, fully answered, in the opinion of the general term of the superior court. 9 Bosw. 1. They afford no just ground for ordering a new trial. In my opinion, the judgment should be affirmed.
+• All the judges concurred, except Bocees, J., absent.
+Judgment affirmed, with costs.
