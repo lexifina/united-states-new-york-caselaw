@@ -1,0 +1,18 @@
+---
+court: "New York Court of Appeals"
+decided: "1887-10-04"
+citations: ["11 N.Y. St. Rep. 882"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERT W. BARROW, App’lt, and HORACE E. DARROW, v. ISAAC O. HORTON, Jr., Purchaser, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0882-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990511
+---
+
+# Barrow v. Horton
+
+## Majority
+
+Appeal dismissed, with costs. All concur.
