@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-01-17"
+citations: ["13 N.Y. St. Rep. 480"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Coplay Iron Co. (Limited), Resp’t, v. Thomas J. Pipe et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/13/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1995545
+cites_cases: ["13 Daly, 144", "5 N. Y., 13"]
+---
+
+# Coplay Iron Co. v. Pipe
+
+## Majority (Earl, J.)
+
+Earl, J.
+We must assume that the sale of iron alleged in the defendant’s counterclaim was an executory sale, as-that is the fair and just inference from the facts alleged. The plaintiff was a manufacturer of iron, and the contract of sale was made on the 8th day of December, 1879. It covered 900 tons of iron, and it was to be delivered in the future as and when the defendants ordered it to make delivery. There is no allegation that the plaintiff at the time of this sale had the identical 900 tons of iron on hand, or that that quantity was separated from other iron. It would be against all experience, and certainly against the usual course of business, to suppose that the manufacturer had the iron on hand, and that upon its purchase by the. defendants it was separated and set apart and stored for them. It is reasonable to suppose, and as all the facts were submitted to the court, neither party asking to have them submitted to the jury, the court had the right.to draw the inference that the iron was to be thereafter manufactured, weighed, designated and delivered; and thus this was an executory contract of sale. In such a case the fact of payment has very little significance. It is sometimes a controlling fact to show that the sale was not executory and was completely executed. It is always evidence upon that question, but in a case like this is not important. The price of property purchased may be paid, and yet the contract of sale in every sense be executory.
+Treating this then as an executory contract of sale, the defendants are not in a position to complain of the quality of the iron, because they never offered to return it, and never gave the plaintiff notice or opportunity to take it back. They must, therefore, be conclusively presumed to have acquiesced in the quality of the iron. Hargous v. Stone, 5 N. Y., 13; Reed v. Randall, 29 id., 358; McCormick v. Sarson, 45 id., 265; Dutchess Co. v. Harding, 49 id., 323; Gaylord Mf’g Co. v. Allen, 53 id., 515.
+Here there was no collateral warranty or agreement as to the quality of iron. The representation as to the kind and quality of iron was part of the contract of sale itself, descriptive simply of the article to be delivered in the future; and clearly within the cases cited an acceptance of the property by the defendants, without any offer to return the same at any time, deprives them of any right to make complaint of its inferior quality.
+The judgment should be affirmed, with costs.
+All concur except Andrews, J., not voting.
+Affirming 13 Daly, 144.
