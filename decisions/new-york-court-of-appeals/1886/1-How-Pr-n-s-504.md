@@ -1,0 +1,26 @@
+---
+court: "New York Court of Appeals"
+decided: "1886-01"
+citations: ["1 How. Pr. (n.s.) 504"]
+reporter: "how-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur, except Miller, J., absent"]
+parties: ["Evans and others agt. Backer and others."]
+source_url: "https://static.case.law/how-pr-ns/1/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2288724
+cites_cases: ["26 N. Y., 418", "68 N. Y., 456", "76 N. Y., 165", "76 N. Y., 325", "78 N. Y., 230"]
+---
+
+# Evans v. Backer
+
+## Majority (Ruger, O. J.)
+
+Ruger, O. J.
+The omission to indorse upon papers served or filed the post-office address or place of business of the attorney serving them, as required by number 2 of the supreme court rules, is a mere irregularity, and does not necessarily vitiate either the paper or its service (Clapp agt. Graves, 26 N. Y., 418). Such omission entitles the party served either to return the paper or move to set it aside; but he cannot, after receiving it,, without objection, safely disregard the function which the paper is designed to perform. In Kelly agt. Sheehan (76 N. Y., 325), this court held that an omission to make such indorsement upon a notice of the entry of judgment, which was intended to limit the right of appeal, rendered it ineffectual for that purpose. It was there held that a notice upon which it was intended to build a claim for a penalty or forfeiture, must be-regular in every respect, and that in such case the party would be Held to strict practice. The reason of this decision is quite obvious, and does not require the extension of its principle to - cases not within its spirit. In Kilmer agt. Hathorn (78 N. Y., 230), the objection was described as a technicality, and its use in that case was justified upon the ground that it defeated a point equally technical raised by the adverse party. The case of Rae agt. Beach (76 N. Y., 165) is not an authority on the point. The notice in that case did not give the information which is expressly required by statute as the condition of the maintenance of the action, viz., the entry of the order or judgment.
+The supreme court rule in question does not prescribe the consequence or penalty for a violation of its requirements. It is peculiarly the province of the body framing them to interpret its own enactments, and, as a general rule, we have considered it the office of the supreme court to construe and administer its own regulations, and, in their discretion, to impose such penalties and relieve from such defaults as may have been incurred by attorneys through neglect to comply with their modes of procedure (Martine agt. Lowenstein, 68 N. Y., 456). In the exercise of their office they have determined, in this case, that the omission to comply with rule 2 was a mere irregularity, capable of being waived, and not affecting the object intended to be accomplished by the service of the notice in question. "We are not disposed to disturb their decision of the question.
+Of course, the requirement of ten days’ written notice of the-entry of judgment, or order affirming a judgment, provided by section 1309 of the Code of Civil Procedure as the condition of' an action against the sureties upon an undertaking on appeal, is fundamental, and cannot in any essential particular be safely disregarded. But this requirement has been fully complied with in this case, and the attorney has been informed of every particular contemplated by the statute. The notice served satisfied its object and fully performed tbe office designed for it, and there is no justice in saying, because tbe attorney bas disregarded a rule intended solely to promote tbe convenience of tbe opposite attorney, and having no reference to the object of the notice, that, therefore, a meritorious action, commenced and prosecuted in strict conformity to tbe statute giving it, shall be defeated. It would be a perversion of its object and design, and contrary to established rules of interpretation, to give it tbe construction claimed by tbe appellant. As was said in Rea agt. Beach (supra), tbe notice being required by statute, it is not competent for tbe attorney to waive a compliance with it. The rule, however, being intended for. tbe benefit of the attorney alone, there is no reason why he may not waive its performance, and by accepting and retaining the notice we think be has done so.
+Tbe fact that tbe defendants are sureties works no change in the aspect of tbe question. Their covenant was to perform then undertaking upon condition that tbe judgment appealed from was affirmed, and the attorney for tbe appellant should have ten days’ written notice of its entry before action brought. These conditions have been strictly complied with, and they are not entitled to claim tbe benefit of a rule not designed for their protection, and in tbe application of which they are not interested.
+We have found no case in this court conflicting with tbe determination of tbe general term, and we think it conforms to tbe real meaning, and intent of tbe rule in question. The order of tbe general term should therefore be affirmed, and judgment absolute ordered for tbe plaintiff.
+All concur, except Miller, J., absent
