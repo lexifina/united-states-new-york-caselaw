@@ -1,0 +1,37 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-02-24"
+citations: ["3 Silv. Ct. App. 438"]
+reporter: "silv-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Catherine Mehegan, as Administratrix, etc., Respondent v. The New York Central & Hudson River Railroad Co., Appellant."]
+source_url: "https://static.case.law/silv-ct-app/3/cases/0438-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786652
+---
+
+# Mehegan v. New York Central & Hudson River Railroad
+
+## Majority (Earl, J.)
+
+Earl, J.
+This action was brought to recover the damages caused to the next of kin of the deceased by his death.
+On the 20th day of February, 1888, about nine o’clock in the forenoon, the deceased started south upon the easterly sidewalk of Michigan street, in the city of Buffalo, with a small cart and a dog, and as he was attempting to cross one of the tracks of the defendant’s railroad he was struck by a train of cars which was backing from the east, and was so injured that he soon thereafter died. He was an intelligent young man, eighteen years old, and was perfectly familiar with the railroad.
+A short time before the accident the. engine drawing seven cars passed from the west side of the street on what is called the House track to the round house, which was at least 600 feet east of the street, and then it was backed upon a switch track called the Scale track, which was about 449 feet long, and was by means of switches connected at both ends with the House track. Upon the Scale track four freight cars were standing, and the train was backed against them, and they were coupled to the rear of the seven cars, and then the two rear cars of the four were uncoupled, the purpose being to back them and shunt them across the street into the yard on the west side. After the four cars were thus coupled, the rear end of the train was about 114 feet from the street. After the deceased came upon the sidewalk, within about twenty-nine feet of the northerly rail of the track, he had a plain view without any obstruction of the whole of the switch track and of the House track east to the round house, and he also had an unobstructed view of the House track for a considerable distance west of the street.
+The theory on the part of the plaintiff is that as the deceased approached the track the train was standing just east of the sidewalk, and that it suddenly started back without any warning to him just as he stepped upon the track and thus ran over and killed him; and it is upon this theory alone that his counsel seeks to maintain this recovery. The theory is not very probable, and it'can scarcely be conceived that a standing engine could suddenly back eleven cars and give them such momentum that by moving less than the width of the sidewalk the near car would come upon the deceased, with such rapidity and force that he could not, by the exercise of ordinary prudence, escape the peril. If he had given any attention to the train, he would have seen that ■ it was not, "in any proper sense, a stationary train; that there were men there operating it and that if not actually moving it would immediately be in motion. The whole situation must have been apparent to any one who would look. Yet if there was some substantial evidence to sustain this theory and the deceased exercised the care proper under the circumstances, the case was properly submitted to the jury. I am unable to find an atom of evidence sustaining it.
+The theory of the defendant is that the train, at least from the time when the four cars were coupled to the other cars, was continuously backing from the east until the rear car struck the deceased, and that he could have seen the moving train and escaped danger if he had looked to the east, the only direction from which there was any danger at that time. If this theory has the support of the undisputed evidence then the deceased was guilty of carelessness in stepping upon the track immediately in the rear of the backing train, and that carelessness stands in the way of a recovery in this action. A careful scrutiny of the evidence has convinced me that all of it sustains this theory and that there is no room to doubt that the deceased came to his death by heedlessly placing himself immediately behind the train thus backing.
+I will call attention to all the evidence relating to the subject.
+Louis Spohr testified that at the time of the accident he was passing north on the same street; that he saw the train coming and was not “ going to run the risk of crossing, as the train was coming; ” that “ the engine was at the round house when they first started to back up. They continued to back on until they stopped very near across the street.”
+William McGuire testified that he was coming down the street, about fifty yards behind the deceased, and saw a train of cars back up and strike and run over the deceased, and that he did not hear any bell or whistle.
+John Cotton testified that he was the switchman directing the movements of this train, and that it began to back when the rear end thereof was 114 feet east of the street, and that it continued to back slowly without stopping until the accident happened.
+John Wagoner testified that at the time of the accident he was driving a horse and wagon on the street, going south; that he saw nothing in the street; that “ all at once that train pushed on us from the east; ” that he did not see the train until it was nearly upon him, and that he had a narrow escape.
+Charles Flynn testified that he was the engineer in charge of the engine, and that after the four cars were coupled on to the train he continued backing the train, without stopping, for a distance of at least ninety feet, probably 114 feet, until it struck the deceased.
+James McMahon testified that he was a switchman, stationed at the time of the accident at the switch at the westerly end of the Scale track; that the westerly end of the four cars standing upon the Scale track was 114 feet east of the street, and that after those cars were coupled on to the train, the train was in motion all the time, backing and not stopping, until it struck the deceased.
+These witnesses were all called by the plaintiff.
+Witnesses were also called by the defendant who testified to the same effect.
+Henry S. Towles testified that he was in plain view of the accident, and that the train was backing about as fast as one could ordinarily walk, and that the deceased was looking in a south-westerly direction away from the train.
+Charles B. Eeid testified that he was the flagman at the crossing, and that he saw the train coupled to the four cars and that then, without stopping, it backed slowly until it struck the deceased, who was looking in an opposite direction.
+I have thus called attention to all the evidence hearing upon this point, and there can be no dispute that this train was backing from the east at the time the deceased heedlessly approached and entered upon the track where he was killed. The theory that the train was standing still at the time and then suddenly started back and thus struck the deceased without any warning or time for escape, is at most based upon an improbable guess and cannot be the basis for upholding this verdict.
+I am, therefore, of opinion that the judgment should be reversed and a new trial granted, costs to abide event.
+All concur, except Andrews, J., not voting.
