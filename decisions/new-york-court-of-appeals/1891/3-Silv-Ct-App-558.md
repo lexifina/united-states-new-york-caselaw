@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-10-20"
+citations: ["3 Silv. Ct. App. 558", "40 N.Y. St. Rep. 496"]
+reporter: "silv-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Quinlan, Respondent, v. Emily A. Stratton et al., Appellants."]
+source_url: "https://static.case.law/silv-ct-app/3/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786706
+---
+
+# Quinlan v. Stratton
+
+## Majority (Finch, J.)
+
+Finch, J.
+The plaintiff established his cause of action ■so far as it asserted a right to judgment of foreclosure. That the defendant, Emily A. Stratton, borrowed $2,000 of her mother, Emily Stratton, and executed the bond and mortgage in controversy as security for the loan; that it was assigned by the mortgagee to Mrs. Currie, who assigned it to the present plaintiff; and that it was due and payable at the •date of the commencement of this action, are all facts fully proved and in no respect the subject of doubt or contradiction. So far the right of the plaintiff to a judgment of foreclosure was put beyond dispute.
+• But he sought additional and further relief, and made the defendant Judson a party for that purpose. There was a prior mortgage on the came premises executed by Emily A. Stratton to one Hicks; by him assigned to Fitch, upon whose death it passed to his wife as executrix; while in her ownership was sued and the action carried to a judgment of foreclosure; by her was assigned to Joseph Fitch, Jr., by whom both were assigned to the defendant Judson. The amount then due upon the judgment, and which Judson paid, was $2,015.83. He testified to that fact himself. This prior lien the plaintiff sought to destroy as such and postpone to his own mortgage by proof that the -consideration of the latter was advanced to pay off the former under an agreement that pro tanto it should take the place of the prior lien. The proofs indicated that some of the money borrowed of the mother was applied by the daughter upon the Hicks mortgage under an agreement like that ■alleged, but before the purchase by Judson and without ^knowledge on his part.
+The purchase by him was made with his own money, and .so this effort of the plaintiff failed as against Judson. The court adjudged the validity and priority of his lien; awarded a foreclosure subject to that lien; and gave to the plaintiff a right of subrogation only upon paying it in full. Of this-result the plaintiff does not complain and Judson cannot, for he is protected and not harmed by its provisions. The priority of his lien for its full amount is recognized and preserved. The plaintiff’s foreclosure and sale can do him no harm, and the result is the same as if he had sold on his own judgment and the plaintiff as subsequent mortgagee had bid in the property for more than the amount of Judson’s lien in order to. collect the second mortgage out of the surplus-value. Judson has no possible ground of complaint unless he had other liens or rights which the judgment failed to-recognize. He claims in his answer to have had them, but gave no proof of them on the trial, and the same thing is true of the other appellant, the mortgagor. .Each of them attempts to fasten a counterclaim upon the mortgage in controversy while in the hands of Mrs. Currie ; alleging a debt due from her to the mortgagor for more than the amount of the mortgage, but there is not the least evidence of any such debt. Judson also claims in his answer to have had other prior rights and liens, but gave no proof of them.
+The appellants seek to overcome this difficulty in two ways. They say that the answers are in evidence, and their allegations must be taken as true. They were not putin. evidence at all. There is in the case no trace of any such fact, nor of any use of admissions so connected with other allegations as to be inseparable.
+But an explanation of this lack of proof is made on the part of Judson. Among the papers printed is what purports to be an extract from the clerk’s minutes, which reads, “ Judgment for plaintiff with costs and dismissing complaint as against defendant Judson.” This memorandum is dated March 14, 1887. It formed no proper part of the judgment roll and is not the decision actually made, for that bears date July 3,1888, is signed with the initials of the trial judge, orders judgment of foreclosure and sale subject to the lien of Judson’s mortgage, is followed by the formal findings and the judgment in accordance therewith. If the appellant Judson was misled or deceived by the court so as to have deemed his proofs needless, his remedy, I think, was an application to open the case and be let in to make his further proofs. Instead of that he seems to have proposed findings and filed exceptions with a perfect understanding that the action was not dismissed as to him.
+I can discover no error in the record which warrants a reversal, and the judgment should be affirmed, with costs.
+All concur.
