@@ -1,7 +1,8 @@
 ---
 court: "New York Court for the Correction of Errors"
 decided: "1843-04"
-citations: ["4 Hill & Den. 608", "4 Hill & Den. 589"]
+decided_precision: "month"
+citations: ["4 Hill & Den. 608"]
 reporter: "hill"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
