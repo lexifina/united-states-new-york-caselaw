@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1866-09"
+citations: ["3 Abb. Ct. App. 297"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILLS v. GARRISON."]
+source_url: "https://static.case.law/abb-ct-app/3/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1115535
+cites_cases: ["16 N. Y. 548", "20 Barb. 481", "5 Den. 545", "8 Wend. 492"]
+---
+
+# Mills v. Garrison
+
+## Majority (James C. Smith, J. Davies, Ch. J.)
+
+James C. Smith, J.
+The only question is, whether the recovery in the marine court is a bar to this action. It is a settled and familiar rule that a single claim, arising either upon a contract or from a wrong, cannot be divided and made the Subject of several suits; and if several suits be brought for different parts of such a claim, a judgment upon the merits in either will be available as a bar in the other suits. 16 N. Y. 548. The reason of the rule is, that the practice which it prohibits, if encouraged, would lead to intolerable oppression upon debtors, by subjecting them to a needless multiplicity of suits! 8 Wend. 492. But it is competent for a debtor to waive the protection of the rule; and no more complete waiver can be suggested than an agreement by the debtor, that if the creditor will forbear suing upon the whole demand, and will sue upon a part of it, then, in case he recovers, the defendant will pay the balance of the claim.
+The evidence in the present case would have authorized the jury to find that precisely that agreement was made by the defendant. It does not appear that the defendant asked to have that point submitted to the jury, and therefore he cannot now complain if it was passed upon by the court. But that it was passed upon, either by the court or jury, and found in favor of the plaintiff, must be presumed, in support of the judgment. How, after the defendant has thus deliberately waived the benefit of the rule, and the plaintiff has acted upon the faith of the waiver, the defendant cannot be allowed to invoke its protection, in order to defeat the plaintiff’s just claim. He must abide by his waiver. It is not to be tolerated that a rule of law which was designed to protect debtors from oppression shall be used by them as an instrument of fraud.
+The judgment should be affirmed.
+Davies, Ch. J.
+[After stating the facts.] — The defendant contends that a judgment recovered and collected of the defendant for the sum of three hundred and ninety-two dollars, represented by said bond for five hundred and forty-four dollars and forty-five cents, was a bar to the action. But this position cannot successfully be maintained. By the true construction of the contract, the plaintiff had the right to demand of the defendant the whole sum due to him, on a tender to him of the four bonds received from him, or similar bonds. The bonds were held as security for the sum, and each bond was held as a security for its proportionate amount thereof. It was optional, therefore, with the plaintiff, at any time to demand the whole sum represented by all the bonds, or the particular sum represen ted by each bond. They elected, in the first instance, to demand the sum represented by the smaller bond, which it was conceded was three hundred and ninety-two dollars; and cn payment thereof being refused, the action for that sum was commenced in the marine court, and judgment recovered therefor, and, on payment of the same by the defendant, the bond for five hundred and forty-four dollars and forty-five cents was surrendered to him. That judgment is claimed to be a bar to the present action.
+As already observed, the claim of the plaintiff, by the terms of the contract between the parties, was severable into four distinct parts or sums, being each for the proportionate part represented by each bond. The plaintiff could, therefore, at any time have demanded payment for the whole sum, or separately for the amount represented by each bond. He elected to demand the sum represented by the smallest bond, and on refusal of the payment of that sum the plaintiff’s right of action for such amount was complete. He claimed only to recover this sum in the action in the marine court, and his rights to that were all that were in litigation in that action or passed upon by that court. It is true, that by an arrangement between the parties the defendant agreed to pay the residue due the plaintiff if a recovery was had for that sum; but his non-compliance with that agreement furnishes no ground or reason why the plaintiff cannot recover on the original contract; nor can that action, which by agreement and in fact was limited to the sum represented by the smaller bond, be availed of as a bar to this action. The plaintiff was clearly entitled to recover the balance, which it was conceded to be due to him; and the judgment appealed from should be affirmed, with costs.
+All the judges concurred, except Morgan, J., who did not vote.
+Judgment affirmed, with costs.
