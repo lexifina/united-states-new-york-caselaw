@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1866-12"
+citations: ["1 Abb. Ct. App. 351"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARK v. BROCKWAY."]
+source_url: "https://static.case.law/abb-ct-app/1/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1111929
+cites_cases: ["13 Wend. 240", "17 How. Pr. 553", "18 Johns. 493", "19 N. Y. 369", "21 Barb. 469", "25 N. Y. 489", "31 N. Y. 631", "5 Sandf. 610", "9 Abb. Pr. 79", "9 N. Y. 149"]
+---
+
+# Clark v. Brockway
+
+## Majority (Hunt, J.)
+
+Hunt, J.
+[After stating above facts.] — The defendant, in his suit against the present plaintiff, as receiver, and others, recovered a judgment, directing the receiver to pay the amount of the notes held by him, three hundred and forty-five dollars and forty-eight cents, with the costs, and he claims that judgment to be decisive of the present suit. In this I think he errs. His judgment is a legal determination of the validity of his claim, but it does not determine when it shall be paid, or what, if any, shall be its preference over other debts. By obtaining an off-set against the notes in suit, the defendant would at once obtain payment of his claim to that amount, and this without regard to the amount of debts or assets applicable to the general settlement of Wm. Sherman’s affairs. He might thus obtain a large proportion or the whole of his debt, while others, equally entitled, might be compelled to accept a much smaller proportion. This the law does not allow. Equality in the payment of debts by a receiver is the rule of law, unless by diligence, or for some special reason, a preference is declared of one creditor, or of one class, over creditors generally. Ho such circumstance exists in this case, and the judgment is to be regarded as determining simply the validity of the plaintiff’s claim on the nofes held by him. His debt is adjudged to be valid, but it must take its chances of payment with other valid debts in the general administration of the estate of Wm. Sherman.
+The defendant also claims that the title to the notes in suit' became vested in the plaintiff, as receiver, only from the time of his appointment as such; that he obtains his title by the act of the law, and not by or through the assignees. It is further claimed that the receiver took title to the notes subject to all liens and equities then existing against them; that the defendant’s right to a set-off against Sherman was perfect; and, as the receiver derives his title by the act of the law, through Sherman, the right to the set-off remains perfect against the present plaintiff, the receiver.
+It is true that the present action is not brought by the assignees, nor by one acquiring title from them. It is true that the plaintiff does not hold under the assignees, but directly from the assignor, under an order directing an assignment by him to the plaintiff as receiver. It is also true that, as to some classes of property, his title commences from the filing of the order directing the appointment of a receiver; that it relates back to the date of that order only, overreaching all intermediate liens. To this effect aye the following cases, viz: Chautauque County Bank v. Risley, 19 N. Y. 369, 374; Porter v. Williams, 9 N. Y. 149; Van Alstyne v. Cook, 25 N. Y. 489; Becker v. Torrance, 31 N. Y. 631; Code of Pro. 1862, § 298.
+A distinction, however, is established by the cases, as to the kind of property to which this principle is applied. It is conceded that, as to real estate, and as to tangible personal estate, the law is as claimed by the appellant. In other words, if the appellant had issued an execution upon his judgment and levied upon the real estate or upon the horses and cattle, held under the assignment, the subsequent appointment of a receiver would not have divested his lien. This circumstance, however, did not exist in the case before us. On the contrary, the fund which the appellant seeks to appropriate in part satisfaction of his debt was not the subject of a levy, but existed in the form of a chose in action in the hands of the assignees. The filing of the bill in equity by Horton, seeking to set aside the assignment and asking that all the funds, so far as might be needed, should be applied in satisfaction of his debt, created a lien on all the assigned property in the form of choses in action. See authorities, supra. The set-off claimed by the appellant, if allowed, would destroy this lien, and give him preference in the payment of his debt. It cannot be allowed.
+It is to be observed, further, that the notes in suit were never the property of William Sherman. They were given to his assignees. For what precise purpose, or upon what consideration, is not disclosed in the case. Uor is it material. When the assign-, ment was vacated, it was -vacated as to creditors only. The title to the notes did not thereupon vest in William Sherman. As to him, every thing in which he was interested passed perfectly under the assignment, and did not revest in him when the assignment was set aside. The law transferred the title of the notes from the assignees to the receiver, no gap intervening. If he had ever had title to the notes, it would not have returned to him on the setting aside of the assignment. But he never had title at any time.
+The judgment should be affirmed.
+All the judges concurred except Porter, J., tiot voting.
+Judgment affirmed, with costs.
