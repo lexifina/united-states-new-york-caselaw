@@ -1,0 +1,30 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-01"
+citations: ["1 Trans. App. 26"]
+reporter: "trans-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAMUEL COTT, Executor of ISAAC COTT, Deceased, v. THE LEWISTON R. R. CO., Appellants."]
+source_url: "https://static.case.law/trans-app/1/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1999504
+cites_cases: ["23 N. Y. 42"]
+---
+
+# Cott v. Lewiston R. R.
+
+## Majority (Grover, J.)
+
+Grover, J.
+The exceptions to the refusal of the Court to charge as requested, and to the charge as given, fairly I think raise the question whether, if a railroad company in the construction of its road finds it necessary to change the channel of a stream, and thus divert its course, and for that purpose constructs a new channel, the company is bound to keep such new channel in a suitable and proper condition, so as not only to restore but preserve the stream in its former state of usefulness as near as practicable.
+The 5th clause of See. 34 of the General Paihoad Act(2 R. S. 681) among other things empowers railroad companies to construct their road across, along, or upon any stream of water, watercourse, &c.,which the route of their road shallin tersect or touch, but requires such companies to restore the stream, or watercourse, to its former state, dr to .such a state as not unnecessarily to have impaired its usefulness-.' The position of the Defendants is that having constructed the new channel with proper care, and in such a manner as that for the time being the stream is restored to its former state of usefulness, and for aught that can then be discovered, will permanently so remain, the-company is thereby relieved from all responsibility, although it should turn out from the nature of the soil or rocks through which such new channel is constructed, it in a few months permitted" the. escape of the entire water, and thus, as in the present case,-an owner of land situate below the point where the new channel -is constructed, is wholly deprived-of the use of the stream. -1 am unable to assent to this position. It is insisted that it is a fair deduction from the doctrine of Billinger v. The N. Y. Central Railroad (23 N. Y. 42), and kindred cases.
+That principle is that, when legal authority for interfering with a stream upon making compensation • exists, the party interfering-is not absolutely responsible for a consequential injury arising therefrom, but only where- such injury is the result of negligence on his part. An examination of that case will show that although the apertures for discharge of the water through the embankment were properly constructed, and that due care was taken at the time to secure sufficient capacity for that purpose, yet if subsequent experience showed them deficient, the' company was bound to make them suitable and proper for that purpose, and a neglect so to do -would render -them liable. - The - duty imposed upon the company 'in' the present case, was to restore the stream to its former state of Usefulness as near as might be.
+■The company had'the right to divert the stream, and construct the new- channel therefor,' if necessary for the construction of its road ; and -having the legal right to do this, were not responsible for the consequential injuries- to--others while the work was being done, if-prosecuted-with proper-energy and dispatch. The change the stream was made by the road for' its own benefit. The plain intention of the statute in such a case is that the -company shall restore the stream to its former proprietors as little impaired in its utility as practicable, so as. to subject such owners to no loss or injury, or at any rate to make the loss as trifling as possible.
+To effectuate this clear intent it must be held that the company must not only in the first instance make the channel as perfect as practicable, but continue and preserve it in that state as long as it continues to divert the water from its natural channel.
+The testator had the right, as owner, to the continued, undiminished flow of the stream in its natural channel over his farm, and of this right he could not be deprived by the legislature without compensation. This right only includes the water flowing in the stream, and does not embrace any surface drainage that may flow into the Niagara Eiver through the Defendants’ cutting for their road.
+This cutting the Defendants had a right to make, and for the flowing of surface drainage through it there is no liability.
+The Defendants’ counsel cites authorities showing that an owner digging in his soil, and thereby severing a vein of water running below the surface, and causing a spring upon the lands owned by another below, is not responsible for thus destroying the spring, for the reason that the digging being lawful, there is no liability for the consequences of the act.
+That principle is not at all applicable to the present case. In this, but for the legislative permission for public purposes, the Defendant had no right, nor had Voght the power to grant to it any right to divert the stream from its natural channel to the prejudice of the testator. That permission is given, charged with the duty of restoring the stream to the testator as near as practicable to its former usefulness.
+This is not by any means done if the testator has it restored burdened with the charge of keeping the new channel in repair.
+That is a burden to which his previous enjoyment of the stream was not subject, which charge may exceed the whole value of the stream, and thus deprive the testator of his entire property therein. A construction leading to such a result must he rejected. The judgment appealed from must be affirmed. All concur.
