@@ -1,0 +1,23 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-05"
+citations: ["1 Denio 272"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte Raymond."]
+source_url: "https://static.case.law/denio/1/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483954
+cites_cases: ["20 Wend. 555"]
+---
+
+# Ex parte Raymond
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+The assignment of the judgment in favor of Lucy Adams and others, admits payment of the full amount by the relator, although the affidavits show that five dollars only were actually paid, a contingent arrangement being made as to the residue. This, however, cannot invalidate the assignment. The transfer of the judgment was absolute and •unqualified, although the stipulation for payment was, in part, contingent. By this transfer the relator became a creditor of Wheeler as assignee of that judgment, and consequently had a right to become a purchaser of the land previously sold on execution against Wheeler, and which had then been redeemed by Wool as assignee of the judgment in favor of Davis. (2 R. S. 371, §§ 51, 55.) When the relator sought to redeem, he was not only a creditor as assignee of the Adams judgment, but by the judgment in his own name, and he made the effort to redeem accordingly. It is not denied that he paid the necessary sum to effect his object, nor that his proceedings were in all respects formal and correct: he is therefore entitled to a deed from the sheriff, unless the land was duly purchased from him by what was subsequently done on the part of Wool. That Wool intended to acquire the rights of a purchaser by paying the necessary sum, and that he believed he had fully complied with the law,' cannot admit of doubt. But in this, as it appears, he was mistaken. He was bound to pay the amount of the first purchase and interest thereon, in addition to the full amount of the two judgments then owned by the relator. (Stat. above referred to.) These sums amounted to $1189,06, and he paid but $930,78, thus leaving a deficiency of $258,28. This was a fatal error. A party who seeks to acquire the rights of a purchaser under this statute must take care to comply fully with its requirements. (Waller v. Harriss, 20 Wend. 555 ; Ex parte The Peru Iron Co., 7 Cowen, 540; Dickenson v. Gilliland, 1 id. 481.) The subsequent payment, after the time for redemption had expired, of the deficient amount, cannot affect the case: the rights of the several parties were then fixed, and the sheriff could not, by receiving a further sum, in any degree impair or change those rights.
+It was urged that what was done by the relator and his counsel concluded the former, as to the amount which Wool was bound to pay; that by their acts and declarations they assented to the amount paid as the true sum, and therefore should not now be allowed to dispute it. This, I think, cannot be maintained. It is not pretended by any one that the sheriff or Wool acted at the time, or were influenced in making up the amount to be paid, by any such assumed or supposed assent. And although it does appear that inquiries were made of the relator and his counsel- as to the regularity and sufficiency of what had been done by Wool, it also appears that the counsel expressly declined to advise upon that subject, stating that he was there as counsel for the relator, and therefore ought not to advise his opponent: that Gen. Wool had his own counsel, and must act upon his own responsibility, as each party stood on his legal rights. This is the substance of what appears to have occurred, and I cannot say that any one was, or could have been, misled by such declarations. The papers in the hands of the sheriff showed what sum was required to be paid to make a legal purchase of the land, and although the relator and his counsel were present, they were not bound to volunteer any thing on the subject. If addressed by a party in interest, they were certainly, in honesty and in law, required not to deceive or mislead him; but if they declined to answer," informing the party that he must act for himself, and on his own responsibility, he cannot set up that he was thereby deceived or misled. The matters of fact were equally well known to all the parties, and as to the law each would determine for himself and act at his peril.
+The relator is entitled to a deed from the sheriff, and a mandamus must issue. Either party is at liberty to apply for such further order on this subject as may be deemed necessary.
+Motion granted.
