@@ -1,0 +1,18 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-03-04"
+citations: ["29 N.Y. St. Rep. 993"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. The Pres’t, etc., D. & H. C. Co."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0993-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664697
+---
+
+# People v. President of Delaware & Hudson Canal Co.
+
+## Majority
+
+See 27 N. Y. State Rep., 624.
