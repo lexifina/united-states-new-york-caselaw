@@ -1,0 +1,34 @@
+---
+court: "New York Court of Appeals"
+decided: "1866-01"
+citations: ["2 Keyes 323"]
+reporter: "keyes"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amedee Boisaubin and others, Respondents, v. Lauren H. Reed, Appellant."]
+source_url: "https://static.case.law/keyes/2/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 455442
+cites_cases: ["2 Barb. S. C., 613"]
+---
+
+# Boisaubin v. Reed
+
+## Majority (• Leonard, J.)
+
+• Leonard, J.
+The-judgment rendered at the Special Term in the Supreme Court enjoins the defendant permanently from • entering upon- the lands of the plaintiffs, and taking, converting or interfering with the logs and timber which he has cut upon the said land.
+The defendant claims the said logs and timber under a deed executed by the special guardian of the plaintiffs, while they were infants, pursuant to an order of the.late court of chancery of this State, whereby all the oak and pine timber, measuring over eighteen inches in diameter, at four feet above the ground, or above the root, growing on several tracts of land in Sidney township, Broome county- (containing about 5,000 -acres), was granted, bargained and sold to Christopher Eldridge, his heirs, assigns and executors; “ and also the right to enter upon 'and occupy said lands for-and during the term of ten years, commencing on the 1st day of July, "1847, for the purpose-of cutting and-taking and carrying away said timber,- and manufacturing timber on said land, "and erecting a steam mill or -mills, and other necessary buildings for the business of a saw-mill or mills, and of lumbering or manufacturing timber on such part or parts of said land as the1 party of the second-part (Eldridge) shall deem best suited for that purpose.”
+■ Eldridge assigned the same rights and privileges to the defendant, who, during the winter and spring preceding the expiration of said term, cut down timber and made saw logs ready to be removed, to the value of several thousand dollars, and insisted on entering upon the said premises and taking the same away after July 1st, 1857, notwithstanding the expiration of the said term of ten years.
+The plaintiffs, alleging the insolvency of the defendant, procured a temporary injunction restraining the defendant from removing the logs after the last mentioned date, which, at the trial, was made permanent, and afterward, upon appeal to the General Term, was there affirmed.
+The solution of the question involved, depends upon the construction of the deed ; whether the sale of “ all the oak and pine timber ” on the land is limited to the term of ten years within which the defendant may enter, “ for the purpose of cutting, taking and carrying away.”
+The judgment below appears to me to give the true interpretation.
+The parties fixed the time within which the vendee or his representatives, might enter the land and carry away the timber. After the expiration of the term, every entry upon the land for the purpose of taking timber away, was without the license of the deed. Had there been.no term named, the vendee would be entitled to enter and carry away timber for a reasonable time, which would have depended for its limit upon the facts of the case: as to the amount of timber; the extent of the land; the natural impediments to be overcome in removing it, and other attending circumstances.
+, But to hold to the continuation of the right to remove the timber from the land, after the term for so doing has been agreed on by the parties, and has expired, is to disregard their agreement, or to make a new one. Every entry upon the land by the defendant, to carry away timber or logs, after the expiration of the term, was an entry without license, and a clear trespass: and if he or his servants carried away timber the plaintiffs could be made good for the injury committed only by damages to the extent of the value of the timber removed.
+These facts indicate clearly, to my judgment, that it was fhe intention of the parties to the original agreement to limit the right to take and carry away timber, to the term within which the vendee or his representatives"might lawfully enter upon the land; and that the vendee has no title to the timber by cutting logs and leaving them upon the land ;• but to complete his title he must also remove the logs within the term. If the defendant were responsible, the practice in equity might require that the plaintiffs should be left to their action at law for such damages as they might sustain. In a case like the present, where, by reason of the defendant’s insolvency, the remedy at law would be ineffectual, the plaintiffs are entitled to an injunction. The American authorities cited by Justice Mason, in delivering the opinion at the General Term in the court below, fully sustain the conclusion to which he arrived, and must be held to overrule the ancient case of Stukely v. Butler (Hobart’s Reps., [Boston ed. 1829], p. 300, [original paging 168]) so far as it is in conflict with the cases cited.
+It would be inferred from reading that case that' the defendant had entered upon the land and carried away the - timber without any notice from the landlord that he was a trespasser, or acting without the authority of his contract. This fact, however, is not mentioned as a ground for denying the right of the landlord to recover for the alleged trespass. The facts are otherwise quite analogous to the present case. The Common Pleas hold in that case, that if the covenant were on the part of the lessee not to take away after the term, it would not extinguish his property in the trees, nor consequently his right to take them; he might plead not guilty in trespass, but should be answerable to an action of covenant for it. The rules of evidence applicable to the two forms of action are different, and the decision of that venerable case may have turned on the form of the action. This might answer as a dry technicality in a court of, common law three hundred years ago, but is not in harmony with the decision of a case in equity like the present one.
+In the case of Warren v. Leland (2 Barb. S. C., 613), Judge Paige, in delivering the opinion in that case, refers to the other American cases cited by Justice Mason, and says .(p. 623):. “I am inclined to the opinion that those decisions were correctly made, notwithstanding the case of Stukely v. Butler.”
+The defendant here cut down more timber than he could remove, within his. term.. He knew that his right to enter and.carry, away expired at-a particular day. He attempted to overreach the letter of his covenant,-and must be allowed to bear his loss without remedy.
+The judgment should be affirmed with costs.
+. Hunt, J., dissented^ All the other judges concurring,
+Judgment affirmed-. -
