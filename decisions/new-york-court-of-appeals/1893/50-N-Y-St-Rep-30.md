@@ -1,0 +1,29 @@
+---
+court: "New York Court of Appeals"
+decided: "1893-01-17"
+citations: ["50 N.Y. St. Rep. 30"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grove M. Harwood, Resp’t, v. Oscar H. LaGrange et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096059
+cites_cases: ["106 N. Y., 654", "117 N. Y., 320", "125 N. Y., 237", "27 St. Rep., 411", "35 St. Rep., 4", "42 St. Rep., 905", "5 St. Rep., 531", "8 St. Rep., 874", "89 N. Y., 508"]
+---
+
+# Harwood v. LaGrange
+
+## Majority (Earl, J.)
+
+Earl, J.
+We think there was sufficient evidence to authorize the finding of the trial judge that the plaintiff rendered services in the Santa Maria actions under the agreement, substantially alleged in the complaint, that he was to receive his compensation out of the proceeds of those actions. We think all the facts and circumstances and the just inferences from them tend to establish such an agreement. It was not important for the plaintiff to show that the agreement was made directly with the plaintiffs in those-actions. It was sufficient that he was employed under the agreement made with La Grange, who acted in making it with the authority of those plaintiffs and on their behalf.
+That the agreement gave the plaintiff an equitable lien on or ownership as equitable assignee in the proceeds of the actions is not open to doubt. It has been so determined in many cases. Williams v. Ingersoll, 89 N. Y., 508; Fairbanks v. Sargent, 104 id., 108; 5 St. Rep., 531, and 117 N. Y., 320; 27 St. Rep., 411; Boyle v. Boyle, 106 N. Y., 654; 8 St. Rep., 874; Chester v. Jumel, 125 N. Y., 237; 35 St. Rep., 4.
+The agreement as to the compensation of the plaintiff did not fix any sum or rate, and hence he was bound to show and establish upon the trial the value of his services, and this he was bound to do by evidence competent against not only La Grange, but the defendants Smith and Wibert, who were plaintiffs in some of the Santa Maria actions, and who were interested in the proceeds of those actions. There was upon the trial' absolutely no competent evidence of the value of plaintiff’s services in those actions. The trial*1 judge took as a basis for his division and distribution of the funds in thé hands of the trustee an agreement in reference thereto ■claimed by the plaintiff to have been made between him, La Grange and Buel. It appears in the evidence that subsequent to the commencement of this action these three parties met and came to an oral agreement as to the share each one was to have in the funds. That agreement was reduced to writing, and signed by the plaintiff and Buel. But La Grange refused to sign "it. It was evidently understood that the agreement was to be in writing signed by the parties. Finally La Grange refused to sign it or to complete the arrangement. It is not important now to determine whether, under such •circumstances, he was bound by what took place between the three parties as an agreement. Such an incomplete transaction may furnish some evidence of facts stated and admitted, even if it may not be treated as a completed agreement. But the alleged .agreement, so far as we can perceive, was not of the least importance in this case. The three parties acted for themselves in making it and for no one else. La Grange did not assume to act for his clients in this action. They simply came together and agreed what share each should have in the funds. They did not even ■determine, or assume to determine, what was the fair value of the services rendered by each in the Santa Maria actions. They .simply determined what share each wanted in the funds. The three lawyers got together and divided up the proceeds of the litigation to suit themselves without consulting their clients. Such a transaction furnishes no evidence whatever of the value of their ■services, and could not properly furnish any basis for the judgment in this action. Smith and "Wibert were not bound by that arrangement. If five or more freebooters should go forth upon a foray and when they returned three of the number should divide up the plunder among themselves, that would furnish no evidence against the others of the value of their services, or the just amount of their share.
+There is no possible theory upon which it can be claimed that La Grange had authority to make the settlement. As the attorney in the Santa Maria actions, he had no more authority as against his clients to adjust the compensation of counsel employed by him than he had to adjust his own compensation. As attorney for Smith and Wibert in this action, he could not, even if he had attempted to do so, make a settlement with the plaintiff and Buel, determining what share he and they should have in the funds. But, as before said, he did not assume to act for his clients in making the settlement.
+There is no difficulty about the pleadings in this action. The very purpose of the action is to determine the rights and interests of all the parties' in the funds in the hands of the trustee, and unless that be accomplished the action will prove abortive.
+This case should be tried again, and the value of the services of the three lawyers should be properly proved by evidence competent against all the parties interested, and should be found by the court.
+It was alleged in the answer, and evidence was given upon the trial tending to show, that Taylor and Mrs. La Grange were also interested in the funds, and the suggestion is made that it would be well to bring them in as defendants in this action.
+The judgment should be reversed and a new trial granted, costs to abide event.
+All concur.
+Reversing 42 St. Rep., 905.
