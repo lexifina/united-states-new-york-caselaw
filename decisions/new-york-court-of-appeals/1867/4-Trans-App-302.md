@@ -1,0 +1,31 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-09"
+citations: ["4 Trans. App. 302"]
+reporter: "trans-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All the Judges concunmg, except BooKes, J., who was absent,"]
+parties: ["THE FARMERS & MECHANICS’ BANK OF GENESEE, Respondent, v. JASON PARKER, Impleaded with JOHN STEVENS AND HARRY CHASE, Appellant."]
+source_url: "https://static.case.law/trans-app/4/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6701286
+cites_cases: ["8 Ohio, 257"]
+---
+
+# Farmers & Mechanics' Bank of Genesee v. Parker
+
+## Majority (Porter, J.)
+
+Porter, J.
+The defence alleged in the answer is founded on the supposed violation of a statute of Ohio by the parties to the original discount. The Appellant is met at the outset with the serious difficulty that he produces no finding, as matter of fact, that the discount in question was in violation of the laws of Ohio. The Judge, on the contrary, finds that it was not in contravention of those laws ; and, as the cause was tried without a jury, we are bound, in support of the judgment, to make every rational intendment consistent with the facts specifically found (Carman v. Pultz, 21 New York, 547; Grant v. Morse, 22 id. 323).
+There is nothing to warrant us in assuming, against the finding of the Judge, that the reservation in Ohio, by one of the banks, of the usual percentage for collection on. bills payable elsewhere, was an unauthorized or illegal exaction. The amount retained as -interest, eo nomine, was just what the bank was entitled to claim. It appears that, on cash transactions, the rate of exchange was then in favor of Buffalo; but, on time loans payable in Buffalo, we are bound to assume, in accordance with the tenor of the findings, that there wras a current discount at Toledo of one-half of one per cent., being the customary cost of collection. The section of the statute on which the Defendant relies, provides, in substance, that the discount of a bill of exchange payable elsewhere at the “ current discount,” shall not be considered as a taking or reservation of interest within the meaning of the act, unless there be an understanding that the bill is not to be paid at the place so named. In this case, it is not claimed that there was any such understanding; and there is nothing in the findings to justify us in holding that the customary charge of the Toledo banks for collection was a mere cover for usurious extortion.
+If the discount was at a rate allowed by law, it was not rendered usurious by any legitimate use which .might afterwards be made of the paper, or by the acknowledged purpose of the bank at the time to apply it to such future use. That was a matter in which the borrowers had no concern. The lender was entitled to retain the security in his own hands, or to make any lawful disposition of it which would tend to his interest or advantage. If the bank, by submitting to a rediscount at the rate of seven per cent., could supply itself at once with current funds in New York at an expense equivalent to the mere cost of collecting the draft at maturity, the rediscount secured a legitimate benefit to the lender, without prejudice or loss to the borrower. Indeed, in the present case, the course adopted seems to have been attended with advantage to both; for the drawers, in the first instance, proposed a discount of their draft on New York which would have been perfectly legal, but would have added one-lialf of one per cent, to the amount to be paid at maturity, by reason of the difference of exchange, aside from the current charge for collection. In any view of the case which we are at liberty to take upon-the facts found by the Judge, the transaction was not usurious under the laws of Ohio.
+But even if this were otherwise, the defence, under the usury laws of that State, would be unavailing against the Plaintiffs, who were purchasers in good faith, without notice of the antecedent facts. 'With us the rule is different; but it is to be borne in mind that the Defendant’s answer does not allege a usurious agreement in violation of the laws of New York, and no application for an amendment was made at any time in the Court below. The rights of the parties must be determined with reference to the laws of the State in which the discount was made.
+The usury statute of Ohio is applicable only to banking corporations; and, unlike our own, it merely declares a forfeiture of the debt as between the lender and borrower, without annulling the contract. In respect to the bank making the illegal loan, the contract is void; not because the statute so declares it, for it contains no such declaration, but simply because the contract is ultra vires, as the Courts of that State have repeatedly held (Bank of Chillicothe v. Swayne, 8 Ohio, 257; Creed v. Commercial Bank of Cincinnati, 11 id. 489; Miami Exporting Co. v. Clark, 13 id. 1; Bank of Wooster v. Stevens, 1 Ohio State R., N. S., 233; Busby v. Finn, id. 409; Preble Co. Bank v. Russell, id. 313). In respect to purchasers of commercial paper in good faith for value, it is no defence, under the laws of Ohio, that the contract was usurious as between the original parties. It so happened that this precise point was adjudged in that State, by the ultimate appellate tribunal, in the interim between the trial of the. present action and the decision rendered by Judge Clinton (Pickaway Co. Bank v. Prather, 12 Ohio State R., 497, 511). Even if the question were doubtful, we should hesitate to oppose our opinion of the true construction of a statute of another State, to the judgment of its own Court of last resort; but in this instance, it is proper to say, that we fully concur in the reasoning, as well as the conclusions, of the tribunal by which that judgment was pronounced.
+As these views are controlling, it is needless to consider other questions very fully and ably discussed by the respective counsel, but not necessarily involved in the decision.
+The judgment should be affirmed.
+All the Judges concunmg, except BooKes, J., who was absent,
+Judgment affirmed.
+All affirm.
+JOEL TIFFANT, State Reporter.
