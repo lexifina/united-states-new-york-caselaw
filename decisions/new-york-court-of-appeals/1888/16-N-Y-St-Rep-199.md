@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-06-05"
+citations: ["16 N.Y. St. Rep. 199"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The President and Directors of the Manhattan Co., App’lts, v. William I. Phillips et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004610
+cites_cases: ["104 N. Y., 394", "97 N. Y., 320"]
+---
+
+# President of the Manhattan Co. v. Phillips
+
+## Majority (Danforth, J.)
+
+Danforth, J.
+We agree with the court below that the publication of the certificate was in substantial compliance with the statute, and that there was no material variance between the statement as to the nature of the business to be conducted, as the same was embodied in the certificate, and the description given in the advertisements.
+We are, however, of opinion that the jury should have been permitted to enquire whether the money of the special partner was paid in good faith, as a real contribution to the capital of the concern, or whether it was formal only. Both parties went into evidence The principal witness called for the plaintiff was the defendant Laimbeer. From his evidence, and the documents put in during his examination, it appeared that the firm of Phillips & Co.. was formed on the 1st day of June, 1882; that it continued in existence until October 1, 1883, when, by mutual consent of the copartners, it was dissolved; that on the same day a copartnership was formed under the name of William I. Phillips. The defendant, Laimbeer, was a special partner in the firm of William I. Phillips & Co., putting in $20,000. He was also a special partner in the firm of William I. Phillips, and was to pay in as capital for that firm, the sum of $20,000. William I. Phillips was one of two general partners in the first named firm, and was the sole general partner in the last. On the first of October, Laimbeer made a check on the Hew York Produce Exchange Bank for $20,000, payable to the order of -, presented it to the paying teller, and for it received twenty bank bills, each of $1,000. These bills were, on the sameday, “about noon,” handed by him to “Williaml. Phillips, ” and the transaction constitutes the alleged payment in of the capital of the firm of William I. Phillips. On the same day William I. Phillips, in the name of “ William I. Phillips & Co.,” drew its check on the Manhattan Bank for $20,000, to the order of R. H. Laimbeer, and delivered it to him: and the teller says, “ I received it about noon, I think.” He deposited the check the same day in the Produce Exchange Bank, and it was passed to his credit. Without it, his account would have been good for less than $14,000, and the payment of the check given by him to Phillips would have overdrawn that account. It appears that there were two deposits to the credit of Phillips & Co., in the Manhattan Bank on the first of October, one of $20,000, the other of $1,572.54. On the next day, October second, a check of Phillips & Co., for $20,000, came in through the clearing house.
+Evidence was offered to show that on the 1st of October, 1883, the firm of Phillips & Co. was insolvent, and that on the same day a check signed William I. Phillips, for $20,000, to the order of Phillips & Co., was deposited to its credit. In the absence of some explanation it might be inferred from these facts that the transactions of October 1st were simultaneous, that the intention was to use the capital contributed by Laimbeer to the firm of “William I. Phillips,” to make him good for the capital contributed to the firm of William I. Phillips & Co. If so, the payment could not be upheld as one made in good faith, for the new firm would have had only the right of money, but no continued possession, nor any benefit from it. The appropriation would have been made before its formation. Metropolitan Bank v. Sirrett, 97 N. Y., 320. It is true an explanation was given; one which the appellant concedes might in some view authorize a jury to nnd in favor of the defendant, and so uphold the transaction. But because that explanation came from a witness called by the plaintiff, notwithstanding the witness was the defendant, the court held it must be taken as true, made the concession of the plaintiff final, and so disposed of the issue without the intervention of the jury.
+A similar ruling was presented in Becker v. Koch (104 N. Y., 394; 5 N. Y. State Rep., 688), under circumstances in their effect not unlike those now before us, upon the evidence of a party interested and called by his adversary, and it was held that it was a proper question for the jury as to what degree of faith should be given under the facts of the case to the explanatory testimony. The principle of that case governs and requires that the appeal should succeed.
+The judgment is therefore reversed and a new trial granted, with costs to abide the event.
+All concur.
