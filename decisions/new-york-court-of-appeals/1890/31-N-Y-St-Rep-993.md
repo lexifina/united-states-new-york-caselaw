@@ -1,0 +1,19 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-06-03"
+citations: ["31 N.Y. St. Rep. 993"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlotte A. Baldwin, App’lt, v. The N. Y. C. & H. R. R. R. Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/31/cases/0993-09.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036311
+---
+
+# Baldwin v. N. Y. C. & H. R. R. R.
+
+## Majority
+
+Judgment affirmed, with costs. All concur.
+Affirming 18 N. Y. State Rep., 958.
