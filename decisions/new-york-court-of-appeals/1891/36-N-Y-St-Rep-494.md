@@ -1,0 +1,44 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-03-17"
+citations: ["36 N.Y. St. Rep. 494"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emily Ford, Adm’rx, Resp’t, v. The Lake Shore & Michigan Southern R. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050635
+cites_cases: ["53 N. Y., 549"]
+---
+
+# Ford v. Lake Shore & Michigan Southern R. Co.
+
+## Majority (Brown, J.)
+
+Brown, J.
+Upon the first appeal of this case the judgment which the plaintiff had recovered was reversed by this court on the ground that the cause of accident was attributable solely to the negligence of the fellow servants of the deceased in improperly loading the lumber upon the cars.
+There was then no question whether the defendant was guilty •of negligence in failing to establish a proper rule or method for the loading of lumber.
+The court on the first trial charged the jury that there was no evidence that the defendant was called upon to establish any system of rules which should provide for any different or safer method in the loading of the lumber than that described by the witnesses, and as the plaintiff had a verdict, no question was or could be raised on appeal as to' the correctness of that charge.
+Upon the last trial it appeared that the only written rule that the defendant had established, which it was claimed had reference to the loading of lumber, was one known as Eo. 82, and which required its employes “ to attend to the loading of all freight, whether loaded by station men or by shippers, to see that it is safely stored, and so that it cannot fall off the cars.”
+It appeared that the defendant had also furnished to its employes stakes to be used in making secure freight placed upon flat or gondola cars and the witnesses for the defendant who had loaded or inspected the cars in question testified that they knew that stakes were' necessary in making the lumber secure, and that when there were no brackets on the side of the cars, as in this ■case, the stakes could be placed inside the box between the side ■of the car and the lumber and fastened by being nailed or spiked to the side. But that course was not pursued in this case for the reason that on account of the short distance the lumber was to be ■carried it was not deemed necessary.
+The plaintiff also gave proof tending to show that on other roads a verbal rule existed that in loading lumber it should be .secured by stakes on the sides and stays across the top of the load whenever it was loaded above the side of a car, and that the rule applied in all cases no matter what the distance was over which the lumber was to be carried. That no verbal rule of this •character prevailed on defendant’s road and no instruction to that effect was ever given to its employees. This testimony was not given upon the first trial.
+At the close of the evidence the trial court submitted eight special questions to the jury, stating that upon the answers to those ■questions it would determine which party would be entitled to judgment. Upon the special findings thus made judgment was directed for the plaintiff.
+This mode of submitting the case to the jury was acquiesced in by both parties, but the defendant claimed and now claims that there was not evidence sufficient to justify a verdict for the plaintiff and that the complaint should have been dismissed, and by appropriate exceptions the question is presented here whether the. findings of the jury have support in the evidence.
+That the car in question was improperly loaded and that such was the cause of the intestate’s death and that he was free from any negligence contributing to the injury, are facts found by the answers, to the first three questions and are not disputed on this appeal.
+The seventh and eighth findings related 'to the question of plaintiff’s damages and the amount. The fifth question was as follows : “ Did the defendant provide, make and promulgate a proper and sufficient rule with respect to the loading of the cars-with lumber, including the car from which the lumber fell, which if faithfully observed would have given reasonable protection to its employes.” Which question the jury answered in the negative.
+We are of the opinion that the answer to this question supports, the judgment rendered.
+The intestate upon entering the defendant’s employ assumed and assented to the ordinary risks incident to the service. But. employers cannot avail themselves of this assent unless they take reasonable precautions to insure the servant’s safety while in the performance of his duties, and there can be no exemption from liability for injuries sustained by a servant when such injuries, are traced to the employer’s failure to take such precautions.
+Within the operation of this principle a corporation is bound to carry on its business under a proper system and under reasonable rules and regulations, and if through a failure to establish such a servant is injured the corporation is liable.
+The master is responsible for his own negligence and want of care and this may appear from his failure to furnish proper machinery and materials for the work, or from the employment of incompetent and unfit servants and agents, or from a failure to make proper rules or establish a proper method for the conduct of his business.
+These are the master’s duties, and responsibility cannot be-evaded by their delegation to agents. As to such acts the agent occupies the master’s place, and the latter is deemed present and liable for the manner in which they are performed. Flike v. B. & A. R. R. Co., 53 N. Y., 549; Fuller v. Jewett, 80 id., 46.
+In the case before us it was clearly the duty of the defendant to adopt some system for the loading of lumber upon open cars that would have regard for the safety not only of its servants and those traveling over its road, but to the safety of all persons who should be in the vicinity of its cars. The importance and extent of the business, and the manifest danger from the falling of heavy sticks of timber from the cars required this.
+But there was no rule on the subject. The only rule shown to. exist had no particular reference to lumber more than other freight, and it expressed nothing more than the obligation which the law put upon the corporation, viz.: to take due care that freight was safely loaded and should not fall from the car.
+But method or system as to loading lumber there was none. Having furnished a good car and stakes that might be used, the manner of loading lumber was left to the judgment and discretion of its agents and servants.
+It was not sufficient for the defendant to show that its employes knew that the rule I have quoted applied to lumber, and also knew that the general usage required it to be staked and that stakes were furnished and available to the men in the particular case before us. All this may be assumed to be true, and yet the fact exists that the use of the stakes was not enjoined upon the servants by any rule of the defendant or by any instruction ever given them. Having furnished the car and the stakes, it was left to the judgment and discretion of the foreman whether to use the stakes or not, and in this particular instance they were not used, for the reason that they supposed the lumber would stay on the car over the short distance it was to be carried. And it is because of the failure of the defendant to require the use of the stakes in all cases that the neglect of its servants in this case is imputed to it. There was no rule, and the only method or system was such as the foreman in each particular case should deem the safe and proper one to pursue.
+Under such a state of facts the employer must be deemed constructively present during the loading of the cars, and the acts of his agents are in law deemed to be his acts.
+The improper and negligent loading of the cars is thus traced directly to the defendant and its negligence established.
+Thus far I have treated the construction of rule 82 as a question of law, but in the question submitted to the jury there was opportunity for a finding of fact that the making of that rule was a sufficient performance on the part of defendant of its duties, towards its servants, and it is unnecessary to say more upon the exception of the defendant to the submission of that question as one of fact to the jury than that it was a ruling as favorable towards it as the facts of the case warranted.
+The view of the case herein expressed renders unnecessary any reference to the other findings of the jury which the respondent claims establish the negligence of the defendant.
+We find no error in the record and the judgment must be affirmed.
+All concur, except Rollett, Ch. J., dissenting.
