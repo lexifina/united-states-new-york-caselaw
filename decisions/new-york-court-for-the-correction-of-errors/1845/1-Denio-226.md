@@ -1,0 +1,25 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-05"
+citations: ["1 Denio 226"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Newcomb vs. Clark."]
+source_url: "https://static.case.law/denio/1/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 484060
+cites_cases: ["10 Wend. 87", "12 Wend. 520", "19 Wend. 361", "2 Hill, 216", "2 Hill, 584", "21 Wend. 101", "21 Wend. 110", "24 Wend. 285", "3 Hill 584", "3 Hill, 584", "3 Hill, 72", "4 Hill, 276", "7 John. 25", "9 Wend. 149"]
+---
+
+# Newcomb v. Clark
+
+## Majority (By the Court, Jewett, J.)
+
+By the Court, Jewett, J.
+The statute (2 R. S. 135, § 2) provides, that in the following cases every agreement shall be void, unless such agreement, or some note or memorandum thereof expressing the consideration, be in writing and subscribed by the party to be charged therewith: 1. Every agreement that by its terms is not to be,performed within one year ; 2. Every special promise to answer for the debt, default or miscarriage of another person. It is not denied but that the guaranty signed by the plaintiff in error falls within that class of agreements provided for by the second subdivision of the second section of the statute referred to. It was executed to answer for the debt, default or miscarriage of another, and it does not express any consideration for the promise, nor can ,any be discovered by fair inference from the terms of the writing; and for that reason I am of opinion that it is clearly within the statute and void. If the plaintiff can recover in this action upon this guaranty, there would be very little left of the statute. It would plainly overrule the statute so far it is' supposed to require that the consideration should be expressed. I am-for sustaining the provisions of the statute as they are enacted, by holding that the writing shall express the' consideration as well as the other parts of the agreement. I cannot think that the case of the defendant in error is sustained by any principle decided in Andrews v. Pontue, (24 Wend. 285,) or in Manrow v. Durham and Moulthrop, (3 Hill 584,) cited by counsel. I cannot subscribe to the soundness of the position, that the word “ agree,” contained in the guaranty, even imports in law a consideration. I suppose that if the guaranty had read, “ I hereby promise to pay,” &c. instead of “I hereby agree to pay,” &c. it would not have been pretended that such expression could be construed to import or imply a consideration, within the meaning of the statute; and yet in legal sense a promise is defined to be a declaration, verbal or written, made by one person to another for a good or valuable consideration, by which the promisor binds himself to' do or forbear some act, and gives to the promisee a legal right to demand and enforce a fulfilment.- The word “ agree” implies nothing more than a promise. The statute, in my opinion, makes the agreement void, as well where the term “agree” is used, as where the word “promise” is adopted. In either case the consideration must be expressed in some unequivocal manner, or the contract is not binding.
+The plaintiff before the justice gave in evidence the written guaranty, as also the testimony of Peters, without objection— but there was no valid contract proved, either by the writing or the evidence of the witness; and of course the defendant before the justice waived no right. The defendant insisted upon the statute before the justice. (Pease v. Alexander, 7 John. 25.)
+But there is another difficulty in the way of holding the judgment of the justice erroneous: it is, the objection raised that Clark could not sustain an action at law in his own name upon the contract or guaranty in question. The rule in regard to parties to actions seems to be, that every action on an express contract must be brought in the name of the person to whom the engagement violated was originally made, unless it is 'transferable, as a negotiable note, &c. In the present case, the promise or agreement is expressly made with Peters; Clark’s name does not appear in the writing. It was not competent to contradict or amend the agreement by parol proof, by substituting Clark’s name as the promisee in place of Peters. (Lincoln v. Crandell, 21 Wend. 101; Harp v. Osgood, 2 Hill, 216.)
+It is objected by counsel for the defendant in error, that the plaintiff in error must be confined to such objections as he made before the justice, and is not permitted to raise new objections on error. As I understand the rule, it has no application in this case. If the justice had decided against the defendant and given a judgment in favor of the plaintiff, and the defendant in the justice’s court had brought the certiorari, he would have been within that rule, he would have had to abide by his objections made before the justice. (Potter v. Deyo, 19 Wend. 361; Hanford v. Artcher, 4 Hill, 276; Pike v. Gandall, 9 Wend. 149.)
+The judgment of the common pleas must be reversed, and that of the justice affirmed.
+Judgment accordingly.
