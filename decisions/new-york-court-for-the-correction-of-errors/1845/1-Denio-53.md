@@ -1,0 +1,26 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-05"
+citations: ["1 Denio 53"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Boynton & Yeomans vs. Hoyt."]
+source_url: "https://static.case.law/denio/1/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483898
+cites_cases: ["10 Wend. 540", "16 Wend. 61"]
+---
+
+# Boynton v. Hoyt
+
+## Majority (By the Court, Bronson, Ch. J.)
+
+By the Court, Bronson, Ch. J.
+The judge was right in holding that it was not necessary for the trustees and executors, Boynton and Yeomans, to show that the testator had title to the premises in question. This is not a proceeding for the purpose of trying the title to the property as between the original parties to the suit; but a proceeding to prevent an abatement of the action, by substituting in the place of the original plaintiff the persons who have succeeded to his title, whatever it may be. (2 R. S. 308, § 32; and see James v. Bennett, 10 Wend. 540.) When the substitution has been made, the scire facias will have performed its appropriate office, and then the question of title will remain to be tried.
+But it is necessary in this proceeding to show that the persons asking to be substituted for the original plaintiff have succeeded to such title as he had in the property. And this presents the inquiry whether the trustees took an estate in the land under the will; for if they did not, the property descended to the heirs at law of the testator, and they, and not the trustees, should be substituted as plaintiffs.
+Under our statute of uses and trusts, when the trust is created by will, two things are necessary to vest an estate in the trustee ; it must be an express trust, and a trust to receive the rents and profits of lands for certain specified purposes. Such a trust, when legally created, suspends the power of alienation, and vests the whole estate in the trustee. But no other trust, though expressly declared, prevents the estate from descending to the heir at law, or passing to the devisee. (1 R. S. 728, §§ 49, 55, 56, 60; Hawley v. James, 16 Wend. 61.) We need not, therefore, inquire whether the testator has created a good trust tinder either of the two first subdivisions of the 55th section. Unless there is a valid trust to receive the rents and profits of the land, the trustees have not got the title.
+Although the fact is not stated in the case, it may he gathered from the will that the testator left a wife and two daughters. He fixed on the period when the youngest child or daughter would, if living, attain to the age of twenty years, as the time for dividing the property between the widow and children. In the mean time, the property was devised to Boynton and Yeomans, in trust .to receive the rents and profits, and apply them to the use of the family. I see no reason to doubt that this was a valid trust under the third subdivision of the 55th section of the statute, so far as relates to the object or purpose for which it was created. There is also a trust for accumulation ; but that is void for the reason that it directs an accumulation of rents and profits for the benefit of an adult—the wife—as well as the minor children. Such a trust must be for the benefit of minors only. (§§ 38-38; Hawley v. James, 16 Wend. 61.) But there is one good trust, unless it is open to the objection, which remains to be considered.
+Trusts to receive the rents and profits of land suspend the power of alienation, and unless their continuance is limited according to law, they are void in their creation. With a single exception not affecting this case, the absolute power of alienation cannot be suspended by any limitation or condition whatever beyond the continuance of not more than two lives in being'at the creation of the- estate. (§§ 14, 15.) The utmost limit for the continuance of the estate must be bounded by life, or the estate will be void in its creation. No absolute or certain term, however short, can be supported. (Hawley v. Jam,es, before cited.) Now here, the trust is to continue “ until the period when my youngest child would, if living, attain to the age of twenty years.” The same thing is afterwards expressed as “ the period when my 3mungest daughter, if living, would attain to the age of twenty years.” The limitation is not bounded by the life of the youngest child or daughter; nor by life in any form. Although the daughter may be then dead, the estate is to continue until the time arrives when she would, if living, have attained the age of twenty years. • This is precisely the same thing as. fixing an absolute or certain term for the continuance of the trust. If the youngest child was five years old at the death of the testator, the trust estate was then to continue for the definite period of fifteen years, without any reference whatever to the continuance of life. It is settled that such a trust cannot be supported.
+As the trust, so far as relates to the land, is void, it follows that the title is in the heirs at law of the testator, and they, instead of the trustees, should be made plaintiffs.
+New trial granted.
