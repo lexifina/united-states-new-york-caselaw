@@ -1,0 +1,32 @@
+---
+court: "New York Court of Appeals"
+decided: "1848-01"
+citations: ["1 How. App. Cas. 547"]
+reporter: "how-app-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Partridge, appellant, agt. Menck and others, respondents."]
+source_url: "https://static.case.law/how-app-cas/1/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990597
+cites_cases: ["3 Story Rep. 449"]
+---
+
+# Partridge v. Menck
+
+## Majority (Gardiner, Judge.)
+
+Gardiner, Judge.
+If the statements of the bill are analyzed, it will be found that the complainant claims the exclusive right to impose upon the public matches made by himself as those manufactured'by A. Golsh.
+He alleges that “ the label heretofore spoken of, which was used by said Golsh, had an imprint of a bee-hive, and the words of ‘A. Golsh, friction matches, 124 Twelfth-street, between 5th and 6th Avenues; New-York,’ which label has been and now is used by your orator without variation.” In every essential particular, as it respected the complainant, the statement of the label was false. The matches were not Golsh’s matches, in the sense in which it was intended that purchasers should understand these terms. He was in Europe, and had no interest or agency in their manufacture. Verbal declarations to a purchaser, of the same kind, with a view to a sale of this article, it was conceded would have, been fraudulent. That they were made to assume a more permanent form, and one better calculated to impose upon those who relied upon the reputation, personal skill, and integrity of Golsh, can make no difference in the character of the transaction. It is no sufficient answer to this view of the subject that the complainant obtained from Golsh the secret of the manner in which his matches were prepared, or that he manufactured an article in all respects equal to that offered by the former proprietor. So also did the defendants, if we may trust their answer. Nor does it alter the case that the complainant purchased the right to use the name of Golsh.
+The privilege of deceiving the public, even for their own benefit, is not a legitimate subject of commerce; and at all events, if the maxim that he who asks equity must come with pure hands,, is not altogether obsolete, the complainant has no right to invoke the extraordinary jurisdiction of a court of chancery in favor of such a monopoly. The bill is, therefore, defective for want of equity, and for this reason as well as for those assigned by the vice-chancellor and chancellor, I think | the order of the latter should be affirmed.
+Wright, Judge. A person having adopted and used a particular label, or trade-mark, to indicate to those who deal with him that an article is manufactured or sold by him, or by his authority, others, without his assent, have no right, with the viewT of deriving advantage from the same, to use such label or tradejmark, without change, or even with such colorable difference as is calculated to deceive the proprietor’s customers, or the patrons of his trade or business. Such label or trade-mark, when it has become known, is a species of property; and the owner will be protected against the attempts of others to appropriate to themselves, by its use, the benefit which such owner is entitled exclusively to enjoy. But there can be no harm done to. the owner, of which he has the right to complain, unless his label or trade-mark be appropriated without change, or unless it is similated in such a manner as probably to mislead his customers, or the patrons of his trade or business, inducing them to suppose that in purchasing the article marked they are purchasing that manufactured or sold by such owner. In this case the appellant alleges that the respondents have been offering matches for sale with a' label made in imitation of that used by him. This is denied in the answer of the respondents ; but the answer admits that the labels annexed to the appellant’s bill of complaint are of the kind used by the respondents. Specimens of labels, as used both by the appellant and respondents, are annexed to such bill. The question of similarity, therefore, can only be determined by inspection.
+Upon inspection, I am unwilling to conclude that the label used by the respondents bears such a resemblance to that used by the appellant as to deceive the customers of the latter, or ordinary purchasers, or that a purchaser may not readily discriminate between them by ordinary attention. The only approach to similitude is in the use of the imprint of the bee-hive and of the- name of “A. Golshbut even here there is a distinguishing difference. In all other respects there is no similarity. With ordinary attention no person can be deceived or misled; and consequently the appellant will not be deprived, by the use of the respondents’ label, of any gains or profits beyond what might be expected from a fair and successful competition in business.
+This case is peculiar in one respect. The label of the appellant is calculated to deceive the purchasers of matches; inducing all unacquainted with the agreement between him and Golsh to believe that they are purchasing an article manufactured and sold by Golsh himself, when in truth Golsh has no concern in the mapufacture, or interest in the business, and has left the country.
+It is unnecessary at this time to inquire whether, under such circumstances, a court of equity would be bound to protect the appellant, as the dissimilarity in the labels is a sufficient ground on which to determine the case in favor of the respondents.
+The decree of the chancellor should be affirmed.
+Decision—order affirmed, unanimously.
+Note.—Garbiner, J.—Held, that the bill was defective for want of equity,. because the complainant, by his own showing, claimed the exclusive right to impose upon the public matches made by himself, as those manufactured by A. Golsh.
+The privilege of deceiving the public for their own benefit was not a legitimate subject of commerce, and therefore it .made no difference that the complainant had purchased the right to use the name of Golsh. He must come with pure hands when asking for equity.
+Wright, J. Held, That it was then unnecessary to inquire whether, under the peculiar1 circumstances of this case, a court of equity would be bound to protect the appellant, as the dissimilarity in the labels was a sufficient ground on-which to determine the case in favor of the respondents.
+JYot reported.
