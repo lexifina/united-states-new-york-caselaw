@@ -1,0 +1,31 @@
+---
+court: "New York Court of Appeals"
+decided: "1864-12"
+citations: ["2 Abb. Ct. App. 132"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FISH v. JACOBSOHN."]
+source_url: "https://static.case.law/abb-ct-app/2/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1113587
+cites_cases: ["1 Bosw. 335", "11 How. Pr. 416", "19 Barb. 179", "2 Barb. 420", "23 Barb. 575", "28 Barb. 473", "3 N. Y. 443", "4 Johns. 235", "5 Bosw. 514", "5 Wend. 490", "5 Wend. 66", "6 Abb. Pr. 205", "6 Abb. Pr. 96", "6 Cow. 181", "6 How. Pr. 471", "7 Abb. Pr. 215"]
+---
+
+# Fish v. Jacobsohn
+
+## Majority (Wright, J. Ingraham, J.)
+
+Wright, J.
+It is insisted that the judgment is erroneous, and for the reasons, 1, that the check was without consideration ; and 2, that the action was improperly brought in the name of the plaintiff. Neither of these objections I regard as tenable.
+1. The check imported a consideration, and the onus was on the defendant to show that, in fact there was none. This was not necessarily shown by an admission in the pleading, nor by proving, that it was given in settlement of á balance of account due from Hllman to Lumley for Lumley’s share of the proceeds of the' Piccolomini operatic representations and concerts. If the money or funds for which the check was given were in the defendant’s hands at the time of giving it to the plaintiff, there was no want of consideration for the promise on the face pf the check. It was hot shown that he did not hold the funds for which the check was- given, and it is inferable from the facts found that he did. The facts were these: [The learned judge here recapitulated the facts.]
+The transaction, then, in substance, was this: The proceeds of the performances in which Lumley and Hllman were entitled to share, were collected and held by the defendant. The net receipts of the concerts had come into his hands. The fact of Ullman promising, and the defendant giving, his own check and taking a receipt in his own name for the amount due, shows conclusively that the very money for which the check was given was in the defendant’s hands. If it was, there was no want of consideration for the promise on the face of the check. Instead of paying over Lumley’s portion of the proceeds of the concerts held by him, the defendant substitutes his check therefor, and induces the plaintiff to accept it. Holding Ullman’s or Lumley’s funds in his hands, and inducing the plaintiff to take his order instead of the funds themselves, the objection that there was no consideration for such order is without force. Nor can the defendant, after thus inducing the plaintiff to accept his check, question the authority of the latter to receive it. No one hut the plaintiff’s principal could repudiate that authority.
+2. The plaintiff was the proper party to bring the action. The promise was made to him. It was a contract in writing with him personally. Before the Code, an action on the check would have been maintainable only in the name of the plaintiff. Since the Code every action must be prosecuted in the name of the real party in interest, “ except that a trustee of an express trust may sue without joining with him the person for whose benefit the action is prosecuted ” (Code of Pro. §§ 111, 116); and it is declared that the “ trustee of an express trust, within the meaning of the section, shall be construed to include a person with whom, or in whose name, a contract is made for_the benefit of another.” § 113. So that whether the contract was made for the benefit of the plaintiff individually or for the benefit of Lumley, the plaintiff was^equally entitled to sue.
+The judgment of the superior court should be affirmed.
+Ingraham, J.
+The defendant was the agent of B. Ullman. As such agent he, received the proceeds of operatic performances. The plaintiff claimed a balance due; and Ullman promised to deliver defendant’s check in payment, or assign the receipts of certain concerts. He requested defendant to give the check, and plain tiff gave a receipt for the same on Ullman’s account and credited Ullman with the amount. Afterward the concerts were held, and plaintiff paid to defendant the share of Ullman which he had received of the concerts, and claims that the said check was held upon a good consideration.
+The defendant objects to the recovery, upon the ground that the check was given without consideration, and that that fact may be" inquired into between the parties. Admitting the law to be as contended for on the part of the defendant, still there is another rule which takes this case out of the class of cases relied on by the defendant. This check was given by the defendant in payment of the claim of Lumley due from Ullman and at his request. It would be the same as a note borrowed by Ullman from the defendant for the purpose.of paying Lumley’s claim. In such a case it becomes accommodation paper in the hands of the party for whom it was made and to whom it was passed, and if Lumley had a good claim against Ullman he can collect the amount of this check passed to him by the defendant for the express purpote of paying this debt. This was so held in Seneca County Bank v. Neass, 3 N. Y. 443, in a case where the accommodation party put his name to the note without any restriction, and the court held it was rightly used when paid by the holder for a precedent debt, and that the consideration was sufficient. The present case is a stronger one, for the check was paid by the defendant himself in discharge of the debt due from Ullman to Lumley.
+An objection is made that the action should be in the name of Lumley. The evidence shows, and the referee finds, that the plaintiff credited Lumley with the amount, and afterward, having received the check, the plaintiff paid over to Ullman’s agent the proceeds of certain concerts in his hands and which were held by him as security. These facts gave Fish such an interest in the check as would enable him to maintain an action upon it in his own name, independent of the fact that the contract was with him and the check made payable to his order.
+The judgment should be affirmed.
+All the judges concurred.
+Judgment affirmed, with costs.
