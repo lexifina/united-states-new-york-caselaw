@@ -1,0 +1,28 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-06-03"
+citations: ["3 Silv. Ct. App. 43", "31 N.Y. St. Rep. 385"]
+reporter: "silv-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaretta Remsen et al., Appellants, v. George S. Wheeler et al., Respondents."]
+source_url: "https://static.case.law/silv-ct-app/3/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 786727
+cites_cases: ["105 N. Y. 573", "105 N. Y., 573", "51 Hun, 643"]
+---
+
+# Remsen v. Wheeler
+
+## Majority (Earl, J.)
+
+Earl, J.
+This case has been here before, 105 N. Y. 573 : 8 N. Y. State Rep. 202, and the decision then rendered makes it unimportant that much should be written now, as the essential facts are not materially changed. Upon the last trial the court held that both the flagging assessment and the water rates were void, and rendered judgment in favor of the plaintiffs. The general term held that the flagging assessment was valid, and hence reversed the judgment of the special term and granted a new trial. We need now therefore to concern ourselves only with the flagging assessment.
+The money was voluntarily paid to the city of Brooklyn to discharge the assessment claimed by it and the defendant Wheeler to be valid; and the plaintiffs seeking to recover back the money thus paid have the burden of showing that the assessment was void. The defendants have the money and can hold it until the plaintiffs can show better right thereto.
+The land assessed originally belonged to Thomas Poole, who died in 1831, leaving a will in which he devised the land to his executors, Margaret H. Poole, William Powers and Peter Wyckoff, in trust that they might in their discretion permit his daughter Eliza to • occupy the same during her life, or that they might rent the same during her life from year to year, or for a longer term, and receive the rents and profits accruing from the same, and therewith make all necessary repairs, and pay all taxes and other necessary charges and expenses in and about the same, and annually pay over the residue of such rents and profits to his daughter during her life for her sole use and benefit. In December, 1855, the daughter, together with her husband, conveyed all her interest in the land and the rents and profits thereof to George A. Powers in consideration of a clear annuity of $800 to be paid to' her quarterly during her life; and on that day she requested William Powers and Peter Wyckoff, two of the executors named in the will of Thomas Poole, to execute and deliver to him a lease of the land during her life.
+Whereupon on the same day they did execute a lease to him for her life, in consideration of the annuity to her of $800. This conveyance and the lease were both recorded in the register’s office of Kings comity. The flagging assessment was assessed upon the land to George A. Powers as owner, and the sole allegation against the validity of the assessment made in the complaint, and so far as appears upon.the trial, was that Powers was not the owner; and this claim is based upon the fact that the lease to him was executed by but two of the three trustees named in the will. The lease was executed twenty-four years after the death of Thomas Poole. - It was known to all his heirs, and was a matter of common knowledge to all the parties interested in the land. The annuity, as we must assume, had been for many years paid by the lessee Powers, and it does not appear that anyone ever disputed the validity of the lease. The beneficiary of the trust treated the two trustees as the only persons empowered to execute the lease, as she called upon them to execute it. There is no evidence that the third trustee was living, and if living, she may have renounced and been discharged from the trust. Under such circumstances, we think that the plaintiffs have failed to show that the lease was absolutely void, and that the assessment was not properly made against Powers as owner. We must certainly, in the absence of proof to the contrary, assume that the assessors made inquiry, and found that Powers had a valid lease, and, therefore, treated him as owner. They were not bound to disregard a lease which was treated as valid by all the persons interested therein, and who alone could question its validity.
+It is now further claimed that the lease to Powers was invalid under § 14 of article 1 of the constitution, because it was a lease of agricultural land, and for a longer period than twelve years. This point seems not to have been taken at the trial. But a sufficient answer to the claim is .that the land in question was not shown to be agricultural land, and there was no finding to that effect.
+As there was an exception to the ruling of law that the flagging assessment was void, we must assume here that the case contains all the evidence bearing upon that exception, and hence there is no ground for the claim made on behalf of the plaintiffs that some of the evidence given upon the trial may not appear in the record.
+There is no allegation in the complaint, and no evidence or finding, that the land was assessed for the flagging for an amount exceeding one-half of its value, and therefore it cannot be said that the provisions of §§ 4 and 5 of the act, chapter 169 of the Laws of 1861, even if applicable to an assessment for flagging, were violated.
+A careful consideration of the whole case, therefore, leads us to the conclusion that the order of the general term should be affirmed, and judgment absolute ordered for the defendants, with costs.
+All concur, except Finch, J., not voting.
