@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1886-04-13"
+citations: ["1 N.Y. St. Rep. 641"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moses Kessel, respondent, v. Andrew Yeiser, appellant."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637362
+cites_cases: ["1 Wall., 627", "5 N. E. Rep., 347", "5 N. E. Rep., 446"]
+---
+
+# Kessel v. Yeiser
+
+## Majority (Daneorth, J.)
+
+Daneorth, J.
+The case shows that Moses Kessel, the plaintiff, and Andrew Yeiser, the defendant, were rival candidates for the office of commissioner of charities in Kings county, in the fall of 1877. Kessel received the certificate of election, qualified as required by law, and took possession of the office. In January, 1878, an action in the nature of quo warranto was brought against Kessel by the attorney-general, in which Yeiser was joined as relator, to determine the title to the office. At the circuit the decision was in favor of Yeiser, who "was adjudged to be entitled to the office. Kessel then withdrew from- it. Yeiser qualified, took possession, discharged its duties, and drew its salary for a year and a half. Kessel appealed from that judgment. It was reversed in his favor. Yeiser withdrew, and Kessel again took possession. Yeiser appealed to this court, where, on the 17th of January, 1882, the appeal was dismissed, and in the supreme court final judgment was rendered in favor of Kessel. This action is brought by Kessel to recover from Yeiser the salary received by the latter while discharging the duties of the office, and he has thus far succeeded. The appeal to this court is by Yeiser.
+We think the decisions lately made by us in Nolan’s Case (5 N. E. Rep., 446), and in MacLean’s Case (5 N. E. Rep., 347), require us to dispose of this appeal in favor of the respondent. In the first, Nolan was in office by virtue of a certificate of election; in the second, MacLean was in office under an appointment duly made by the mayor of the city of New York. They discharged the duties of their respective offices; but in each of the cases we held, upon a full examination of the questions involved, that the relator, who was rightfully entitled to the office, should also recover from the defendant, as usurper, its salary. The distinction suggested in favor of the present case is more formal than real. Kessel has at all times been rightfully entitled to the office, and the fact that Yeiser was in for a short time, under a judgment of the supreme court, is of no importance, because that judgment was subsequently held to be erroneous, and the final judgment was in favor of Kessel. It was thus estabhshed that the judgment in favor of Teiser was wrong from the beginning, and his position no better than the one he occupied when, at the close of the election, Kessel was declared elected, and, receiving the certificate of the canvassers, went into office. Rev. St., 118, § 17. The final judgment accords with the adjudication of the board. Teiser made a false claim, and it would be strange, indeed, if he could profit by the temporary error of the court induced thereby.
+The case is not like one where rights acquired at a judicial sale are protected. The court did not appoint to office, nor did the appellant take anything on the faith of its order. On his invocation the court declared that he was already entitled to the office, and sought to remove the obstruction to its enjoyment. The subsequent reversal shows that declaration to have been a mistaken one; that he had in fact no title, and its effect was to leave the status of his adversary as it was before the action, and himself in no better condition than if his claim to office had never been heard or decided by any court. Of course, he can claim no advantage by virtue of the erroneous judgment. He took it at his peril.
+The cases cited by the appellant (South Fork Canal Co. v. Gordon, 2 Abb. U. S., 479; Gray v. Brignardello, 1 Wall., 627), do not apply. They relate to property rights which have been changed by the enforcement of a judgment, and hold that, as to them, the purchaser shall be protected, but even then it is added that “the unsuccessful party in the court below shall be restored, by reversal, to all things which he lost by the erroneous judgment, if the title to them has not passed by such enforcement, and in such cases he is to have a right of action for a money equivalent.” Here it is plain the title to the office did not pass; nor did the right to the emoluments; but if it were otherwise, the defendant would, even in that view, be required to pay the equivalent, and this, as is well settled, is the amount of salary received by him during the time he deprived the plaintiff of it. Nolan’s Case, supra; McLean’s case, supra.
+We think, therefore, the appeal must faü, and the judgment be affirmed, with costs.
+All concur, except Rappallo, J., absent.
