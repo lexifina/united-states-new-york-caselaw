@@ -1,0 +1,29 @@
+---
+court: "New York Court of Appeals"
+decided: "1889-03-19"
+citations: ["22 N.Y. St. Rep. 171"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter R. Weiler, App’lt, v. Gertrude M. Nemback, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020833
+cites_cases: ["47 N. Y., 216", "52 N. Y., 83", "56 N. Y., 407"]
+---
+
+# Weiler v. Nemback
+
+## Majority (Haight, J.)
+
+Haight, J.
+—This action was brought to compel the determination of a claim 'to real property. The defendant is an infant. The question is as to whether the court has jurisdiction of the person of the defendant. The provisions of the Code under which the action is brought provide that “where a person has been, or he and those whose estate he has have been, for three years, in the actual possession of real property, claiming it in fee or for life, or for a term of years not less than ten, he may maintain an action against any other person, except a person who is, when the action is commenced, an infant, an idiot, a lunatic, an habitual drunkard, or imprisoned on a criminal charge, or in execution upon conviction of a criminal offense, to compel the determination -of any claim adverse to that of the plaintiff which the defendant makes, to any estate in that property, in fee or for life, or for a term of years not less than ten, in possession, reversion or remainder. But this section does not apply to a claim for dower.” Code Civ. Pro., § 1638.
+No question is made but that under the provisions of this section, as it stands, the plaintiff cannot maintain the action. It is claimed, however, that the clause excepting infants has been repealed by section 1686 of the Code. That •section is as follows: “Any action specified in this title may be maintained by or against an infant, in his own name,” etc. Section 3355 provides that “ for the purpose of determing the effect of the different provisions of this act with respect to each other, they are deemed to have been •enacted simultaneously.”
+It, therefore, becomes our duty to construe them together, so as to allow the provisions of both to stand, if the language of the different provisions is capable of such construction. In construing statutes the legislative intent must be our guide.
+Section 1638 is a codification, with some amendments, of the Revised Statutes upon the subject. Under those statutes, proceedings were authorized for the determination^ of claims to real estate which were commenced by the service of a notice, but such notice could only be served upon persons who at the time were of full age, and not insane or imprisoned on any criminal charge or conviction. 3 R. S. (6th ed.), 580, § 3.
+And in the case of Bailey v. Briggs (56 N. Y., 407), it was held that an action for the determination of claims to real property is not authorized against infant defendants under the provisions of the statute. The fact that the exceptions •contained in the statute were incorporated into the provisions of section 1638 of the Code would seem to indicate an intention upon the part of the legislature to continue them, unless a different intention is expressly stated or clearly inferred from the other provisions ■ of the act. It must be home in mind that the repeal of a statute by implication is not favored in the law, and when both the latter and former statute can stand together, both will stand, unless the former is expressly repealed, or the legislative intent to ■repeal it is very manifest. People ex rel. Kingsland v. Palmer, 52 N. Y., 83-88.
+Is such intention expressed or clearly inferred from the provisions of section 1686? That section is speaking of all the cases embraced in the title of which it is a part, in many of which actions may be brought by or against infants. As to all such cases the provisions of the act clearly apply. But if we are to construe it in connection with the former section of the same title, we must hold that it has no application to actions provided for in the title wherein the express provisions authorizing such actions except those under age at •the time the action was brought. Section 1686 of the Code ■does not give a right of action. It only provides that it may be maintained by or against an infant where the right of action is given by other provisions of the title, and under section 1638, no right of action is given for the determination of a claim to real property, against an infant defendant.
+Again, the title of the Code under consideration contains nine articles; one for the recovery of real property; others for partition, dower, foreclosing of a mortgage, for waste, for nuisance, and so on, among which is the article to ■compel the determination of a claim to real property. The last article is headed by these words: “Provisions applicable to two or more of the actions specified in this title.” Then follow general provisions, among which is section 1686. Section 1638 is the- first section appearing under the article providing for actions to compel the determination of claims to real property, and when its provisions were framed and adopted, attention was, of necessity, called to_ the just requirements of that form of action. The provisions of section 1686, being general and made applicable to many causes of action, the attention of the legislature would not necessarily be so sharply drawn to the requirements of any one of the particular forms of action provided for.
+We think the provisions are consequently brought within the general rule, which is, that general provisions or the provisions of a general act do not repeal special provisions or a special act unless the intent to so repeal is expressed or was manifestly intended. In the Matter of Evergreens, 47 N. Y., 216.
+The judgment should be affirmed.
+All concur.
