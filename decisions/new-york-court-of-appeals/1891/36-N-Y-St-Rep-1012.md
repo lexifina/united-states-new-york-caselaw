@@ -1,0 +1,19 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-03-10"
+citations: ["36 N.Y. St. Rep. 1012"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Application of Philander D. Ellithorpe, for peremptory writ of mandamus."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/1012-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050623
+---
+
+# In re Ellithorpe
+
+## Majority
+
+Order affirmed, with costs. All concur.
+Affirming 30 N. Y. State Rep., 704.
