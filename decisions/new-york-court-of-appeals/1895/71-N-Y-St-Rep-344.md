@@ -1,0 +1,30 @@
+---
+court: "New York Court of Appeals"
+decided: "1895-01-15"
+citations: ["71 N.Y. St. Rep. 344"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Charlton et al., Resp’ts, v. Cora I. Scoville et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/71/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125638
+cites_cases: ["106 N. Y. 657", "52 St. Rep. 306", "8 St. Rep. 676"]
+---
+
+# Charlton v. Scoville
+
+## Majority (Peckham, J.)
+
+Peckham, J.
+The plaintiffs' take the point that the appeal to this court is unwarranted by the Code, inasmuch as the judgment, appealed from is for a less sum than $500, exclusive of costs, and they cite several cases as authority for their position. None of them, however, is applicable to this case. The judgment in favor of the plaintiffs here not only gives them the sum named therein of $277.50, but it extinguishes the counterclaim made by the defendants to the amount of some $650, and the real amount in controversy between these parties is not only the sum named in the. judgment for the plaintiffs, but is also the amount of the counterclaim contended for by the defendants, which, is extinguished by this judgment. Reed v. Trowbridge, 106 N. Y. 657; 8 St. Rep. 676. We have never held that where a counterclaim is extinguished by the judgment for plaintiff the amount of the counterclaim could not be added to plaintiff’s judgment for the purpose of discovering the real amount in controversy between the parties. The amount in controversy here is clearly more than $500.
+Upon an examination of the case we think that no error has-, been committed entitling defendants to a new trial.
+It is plain, and the court have so found, that the plaintiffs, prior to the service upon them of the notice signed by defendant Charles H. Scoville, have violated their contract in regard to the materials to be placed in the buildihg,'and also in regard to the manner of its construction, and that such violations were important and. substantial.
+They abandoned the work entirely and terminated the contract at least so far as their owa action could do so before the fourth of October, 1890. From that time on the defendants had full control, and they proceeded to tear down the portion already erected and to put a building in accordance with the plans of the old contract, but at an increased cost, as they alleged, of some $650. In the course of the work the defendants used some of the ma.terials belonging to the plaintiffs, and after deducting their value, the defendant’s claim a judgment for the balance they were compelled to pay for the completion of their building over and above the price mentioned in the old contract.
+The defendants claim, and we may admit, that the contract was not terminated by the wrongful abandonment of work by plaintiffs, and'that defendants were entitled to hold the plaintiffs liable thereafter in the manner provided for by the terms of such contract for all damages they might sustain by reason of the plaintiffs’ violation of their obligations as therein set forth.
+The defendants claim to. have proved the fact and extent of their damage by the certificate of the architect given, as they •assert, by virtue of the last part of the 12th subdivision of the ■contract. If that certificate had been given after full compliance with the previous provisions of that subdivision it would have been, under the terms of the contract, conclusive upon both parties. It was not so given. There is no evidence or pretense that the architect had ever given the prior certificate as to the character of the refusal or neglect of the plaintiffs which was necessary in order to permit the defendants to proceed thereafter in accordance with the terms of the contract and terminate the plaintiffs’ ■employment and themselves go on with and fulfill the provisions ■of such contract. Consequently they could not avail themselves of the certificate of the architect as proof of the amount of their ■damage. They had themselves failed to comply with the terms upon which they had the right, under the contract, to claim that the certificate was inadmissible to prove and conclusive as to the amount of their damage.
+■ Other and common-law evidence of damage was necessary, and it should have been uncontroverted in order that an exception to a refusal to find the fact might be available here.
+The trial judge refused to find upon this subject of increased -cost and damage, as requested by the defendants, and his opinion shows that his refusal was based not alone because in his judgment the alleged fact was immaterial but because it was untrue. The judge said that such a binding could, upon the evidence in the case, have been constructed within the contract price, which was amply sufficient for that purpose. The twelfth subdivision of the contract did not permit the defendant to pay any price they might choose for the further prosecution of the work and charge it to the plaintiffs. By its fair meaning they were restricted to such cost or price as might reasonably be necessary in order to ■complete the work according to the contract, and if it exceeded the contract price the plaintiffs would be responsible. For the reasons above stated the certificate of the architect was no evi- ■ dence of the cost or damage. The defendants have no finding that they had in fact sustained damage from the extra cost of the building, and the alleged fact is not established by uncontradicted evidence. That they paid $650 more than was provided for in the old contract may be true, but that it was reasonably necessary so to do in order to complete the building according to the original contract, does not appear and would seem not to have been the fact. All other damage they have been allowed for.
+We think the judgment should, therefore, be affirmed with costs.
+All concur, except Haight, J., not sitting.
+Judgment affirmed.
