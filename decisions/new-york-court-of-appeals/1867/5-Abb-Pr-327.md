@@ -1,0 +1,30 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-01"
+citations: ["5 Abb. Pr. 327", "3 Keyes 313", "1 Trans. App. 235"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PHILLIPS against TERRY."]
+source_url: "https://static.case.law/abb-pr-ns/5/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1959661
+cites_cases: ["14 N. Y., 310", "18 N. Y. 573"]
+---
+
+# Phillips v. Terry
+
+## Majority (Parker, J.)
+
+Parker, J.
+—In regard to the only conclusion of law found by the referee before whom this action was tried, to wit, that the plaintiff recover of the defendant the sum of fifty dollars and costs, there can be no doubt that it is sustained by the facts found; for the referee found that the creek described in the complaint was obstructed by the defendant in such manner as to cause the water to set back upon the land of the* plaintiff to his damage; and that, although after the creek was so obstructed, the controversy between the parties in relation thereto was submitted to arbitration, and the award of the arbitrator made, which settled all damages arising from said obstructions before said award ; yet that after the award, by reason of said obstructions, the waters were again caused to set back upon the meadow land of the plaintiff, and upon his growing grass, by which the same was damaged to the amount of fifty dollars.
+In regard to the findings of fact, it is enough to say that the exceptions taken to them do not bring up to this court the question whether they are sustained by the evidence or not (14 N. Y., 310 ; 18 Id., 573 ; 31 Id., 547).
+The defendant upon the trial took some exceptions to the admission of evidence which it is necessary to consider. The witness Haines, who was a surveyor and civil engineer, had made a survey of the creek, and a map, and had taken levels at various points upon the land of the plaintiff, which was then overflowed and liable to be overflowed at certain stages of the water, and had estimated the distance of these points from each other. His levels were from the surface of the water at a time when the creek was not at its height. He was asked by the plaintiff ’ s counsel, “ On these estimated distances, and the levels you took, how much more land would be overflowed with water, if the water was one foot higher?” To this the counsel for the defendant objected, “on the ground that the map does not show where the forest comes to,” which objection was overruled, and the witness answered, “ten acres.” The ground of the objection, so far as it is made to appear in the case, was no reason for excluding the evidence, which was entirely pertinent and material to the issues, the object being to show how much land would be overflowed at a given height of the water. Even if it had not already been shown that the water had ever reached the proposed height, evidence tending to show that fact was given afterward which would have cured the error if the objection had been placed upon that ground.
+The plaintiff himself being a witness, was asked by his counsel, “How long would the water usually be in going off, before the wall was built?” The counsel for the defendant objected on the ground that “ the witness must state the fact, and not give such evidence.” The witness had stated that, since the wall complained of was built, the water had continued to stand on his land eight or ten days after the rain had ceased, and longer than it had done before. The question, then, was intended to show the comparative effect of the rain upon his land, as to ‘ time of continuance, before and after the building of the wall. It called for a fact which was relevant and material, and was entirely proper.
+The plaintiff testified, in regard to injury from the water upon his meadow, that in June, 1853, there was high water over about ten acres, when the grass was about a foot high, and had just begun to head out. He was asked by his counsel, “ Taking that hay as it stood then, what would it yield to the acre ?” This was objected to on the ground that it called for the opinion of the witness. I think it was competent to ascertain the fact sought by this inquiry through the opinion of a witness. A person conversant with the growth of grass, and accustomed to compare its appearance in different stages of such growth with its ultimate yield to the acre, may well be said to have such knowledge of that subject as to make him competent to testify how much, in his opinion, a given- piece examined by him will yield per acre. The facts on which such an opinion is based, like those on which the value of a given article of property depends, are of such a character as not to be capable of being transferred to the mind of a jury so completely and intelligibly as to enable them to form an adequate determination for themselves (Clark v. Baird, 9 N. Y. [5 Seld.], 183, and cases there cited).
+The principle is the same as that on which the opinion of an expert is received. The farmer, acquainted with the subject-matter of such an inquiry as this under consideration, is an expert, and unless the witness has the peculiar knowledge which constitutes him an expert, his opinion would be excluded. Here it was assumed by the plaintiff’s counsel, and not denied by the defendant, that the witness was competent, but the objection was that the fact could not'be proved by, opinion.
+The same may be said in regard to the testimony of the witness Labar, to wit: “ There should have been one and one-half tons of hay to the acre.”
+But the testimony of both these witnesses related to damages which accrued prior to the arbitration and award, and the damages found by the referees accrued subsequent to the award. If, then, this evidence was erroneously admitted, no injury can have been produced to the defendant by receiving it, and it furnishes no ground for reversing the judgment.
+I am of the opinion that the j udgment should be affirmed.
+All the judges concurred.
+Judgment affirmed.
