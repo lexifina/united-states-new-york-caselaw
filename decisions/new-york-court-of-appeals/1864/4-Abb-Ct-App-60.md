@@ -1,0 +1,26 @@
+---
+court: "New York Court of Appeals"
+decided: "1864-12"
+citations: ["4 Abb. Ct. App. 60"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICKERSON v RAEDER"]
+source_url: "https://static.case.law/abb-ct-app/4/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1117437
+cites_cases: ["1 N. Y. 395", "1 N. Y. 496", "13 Barb. 677", "30 Barb. 616", "7 How. Pr. 351"]
+---
+
+# Rickerson v. Raeder
+
+## Majority (T. A. Johnson, J.)
+
+By the
+T. A. Johnson, J.
+In the action before the justice, the defendant justified the taking and selling the colt under his chattel mortgage.
+The plaintiff’s answer to this defense was, that the defendant had received payment of the amount due on the mortgage, except five dollars and the interest, and that he had agreed to discharge the mortgage for the residue, and look to the mortgagor for such residue. The alleged payment consisted of a note of hand for fifty dollars, against one Johnson, six dollars in money, and a credit of ten dollars on book account by the mortgagor. The evidence tends to show that the defendant agreed to release the colt from the mortgage in a day or two after the payment, bnt never did so. The note belonged to the plaintiff, who let the mortgagor take it, to apply on the mortgage, and toward the purchase price of the colt. The defendant had notice when he took the note, that the mortgagor was about- to sell the colt to the plaintiff. The plaintiff knew of the existence of the mortgage, which was duly filed. The defendant, instead of discharging the mortgage, returned the fifty dollar note to the mortgagor from whom he received it, within a few days after the same was transferred to him. The evidence tends to show that the plaintiff bought the colt, and paid the mortgagor for it, after the alleged agreement to discharge the mortgage, the price of ninety dollars, including the Johnson note. The action seems to have been tried before the justice, upon the assumption that the note was in fact of little or no value. The questions which appear to have been principally litigated before the justice were, the agreement on the part of the defendant to discharge the mortgage, and the fraud, on the part of the mortgagor, when he turned out the note in representing it to be good as cash. The plaintiff obtained a verdict for the value of the colt.
+It must be presumed, I think, that the jury passed upon the question of the fraud in turning out the note against the defendant. Otherwise they could not have rendered their verdict against him. This being the case, their verdict in favor of the plaintiff for the value of the colt, was, I think, clearly right. Upon this hypothesis the defendant, knowing that the plaintiff was about to purchase the animal of the mortgagor, provided he could have the note applied in payment, agreed to take this note belonging to the plaintiff and relinquish the claim of his mortgage upon the colt and look to his debtor personally for the small balance remaining unpaid. The plaintiff then buys the colt, being informed that the claim of the mortgage is by agreement to be relinquished, and pays the full price, including the note, which the defendant has already taken. After this it seems to me the defendant should not be allowed to enforce his ■ mortgage for any amount against the plaintiff, purchasing in good faith. The plaintiff in fact paid a part of the mortgage, which he was under no legal obligation to pay, and-the agreemeñt to discharge, as respects him, had certainly a: good consideration to support it. The defendant having consented in effect that the mortgagors might sell the colt discharged from the lien of the mortgage, and received a portion of his pay from the purchaser as a consideration of his agreement, ought not to be permitted now to turn round and enforce the mortgage against such purchaser. It is the same in principle as though the defendant had sold the colt himself to the plaintiff. It is no answer to say that the defendant did not in fact discharge the lien of his mortgage according to his agreement. He was bound to do so, and if other rights have intervened on the faith of his agreement, they must be protected. The plaintiff under the circumstances took the colt free from all claims of the defendant and discharged from the mortgage. The law effectuated the discharge, without any act on the part of the defendant, the moment the sale was completed according to the agreement.
+Although we may not be satisfied entirely with the verdict of the jury, still there was evidence tending to the conclusion at which they arrived, and a court of review has no right to interfere with the finding in such a case. I am of the opinion, therefore, that the judgment of the supreme court was erroneous and should be reversed, and that of the county court and of the justice affirmed.
+All the judges concurred, except Wright,' J., who was absent.
+Judgment of supreme court reversed, and judgment of county court and justice affirmed, with costs.
