@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Appeals"
 decided: "1862-09"
-citations: ["24 How. Pr. 97", "32 How. Pr. 262"]
+decided_precision: "month"
+citations: ["24 How. Pr. 97"]
 reporter: "how-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
