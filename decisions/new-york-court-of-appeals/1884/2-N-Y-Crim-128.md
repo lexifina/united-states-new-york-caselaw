@@ -1,0 +1,34 @@
+---
+court: "New York Court of Appeals"
+decided: "1884-02"
+citations: ["2 N.Y. Crim. 128"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur.-"]
+parties: ["PEOPLE v. MEYERS."]
+source_url: "https://static.case.law/ny-crim/2/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1167678
+cites_cases: ["34 N. Y. 657", "44 Barb. 170", "5 Hun, 25", "56 N. Y. 321"]
+---
+
+# People v. Meyers
+
+## Majority (Andrews, J.)
+
+Andrews, J.
+The question in this case turns upon the construction of section 4 of chapter 549 of the Laws of 1873 entitled “ An act to amend an act, entitled ‘ An act regulating the sale of intoxicating liquors’ passed April 11th, 1870, and the act entitled, ‘An act to suppress intemperance, and to regulate the sale of intoxicating liquors ’ passed April 16th, 1857.”
+That section is as follows: “ Any conviction for the violation of any provision of this act, or of the act hereby amended, by any person or persons licensed, or at any place licensed as herein provided, shall forfeit, and annul such license. The board of excise of any city, town or village may at any time and upon the complaint of any resident of said city, town or village shall summon before them any person or persons licensed as aforesaid, and if they shall become satisfied that any such person or persons has or have violated any of the provisions of this act or of the acts hereby amended they shall revoke cancel, and annul the license of such person or persons which they are hereby empowered to do, and when necessary to enter upon the premises, and take possession of and cancel such license. Upon an inquiry the said board or the party complained of may summon, and the said board may compel the attendance of witnesses before them and examine them under oath.
+The sale of intoxicating liquors by any inn, tavern or hotel keeper or other person on Sunday is made by the act a misdemeanor (§ 5).
+The conviction of the defendants’ bar-keeper for the sale of liquor on Sunday was therefore a conviction for an offense under the act.
+We think the conviction operated ipso facto to annul the defendants’ license.
+The first clause of section 4 is awkwardly drawn, but in view of the whole act its meaning is plain.
+The license authorized by the second section is a license to one or more designated persons to sell intoxicating liquors, etc., at a specified place within the city, town or village within which the license is granted.
+It was competent for the Legislature, in its discretion, to annex any conditions to the granting of licenses which it deemed proper and to prescribe causes of forfeiture. Board of Excise v. Barrie, 34 N. Y. 657.
+It is plain that a conviction of a licensee of an offense under the act, works a forfeiture of his license. The act so declares; the words are “ such conviction shall forfeit and annul such license.”
+In addition, the same result is made to follow any conviction for a violation of the act at the place licensed. The act casts upon the licensee the necessity in order to protect himself in the enjoyment of the license of seeing to it that no violation shall be committed on the licensed premises.
+It is not left open to the licensee to claim in case of the conviction of another for such violation, that it was committed without his knowledge or consent. The words “ or at the place licensed,” were obviously inserted to meet this precise ease. Any other construction would make the words meaningless. The subsequent clause of the section provides for the annulment of the license by the Board of Excise upon proceedings instituted upon its own motion or upon complaint of a resident. This jurisdiction does not depend upon the facts of a prior conviction under the act. It is an independent remedy for the annulment of the license by the Board of Excise whenever it becomes satisfied upon inquiry, after notice that the licensee has violated the act. It supplements the provision in the prior clause and operates as an additional restraint and gives a remedy for the revocation of a license although no criminal prosecution has been instituted. It is not necessary to consider sections 25 and 26 of the Act of 1857. These sections provide for the revocation of a license after a conviction or judgment has been obtained against a licensee for a penalty given by the act or upon his bond. The word conviction in these sections is inaccurately used. But the power of revocation given, is by the context plainly limited and exists only where there has been a recovery in a civil proceeding in one of the cases specified and does not extend to a case of a conviction upon indictment. This question was considered in People v. Tighe (5 Hun, 25).
+The opinion of Gilbert, J., in that case contains a satisfactory exposition of the statute in question.
+The judgment should be affirmed.
+All concur.-
