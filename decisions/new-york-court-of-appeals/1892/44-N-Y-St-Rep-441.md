@@ -1,0 +1,29 @@
+---
+court: "New York Court of Appeals"
+decided: "1892-04-19"
+citations: ["44 N.Y. St. Rep. 441"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Dutchess County Mutual Ins. Co., App’lt, v. Frederick S. Van Wagonen et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074669
+cites_cases: ["104 N. Y., 606", "115 N. Y., 376", "125 N. Y., 44", "13 N. Y., 521", "18 Wend., 220", "19 St. Rep., 64", "22 Abb. N. C., 98", "26 St. Rep., 124", "29 St. Rep., 424", "3 Hill, 41", "34 St. Rep., 469", "39 N. Y., 196", "5 Johns., 175", "55 Hun, 569", "6 Hill, 42", "6 St. Rep., 457", "6 St. Rep., 489", "96 N. Y., 248"]
+---
+
+# Dutchess County Mutual Ins. v. Van Wagonen
+
+## Majority (Haight, J.)
+
+Haight, J.
+On the 5th day of October, 1888, the defendant Frederick S. Van Wagonen executed and delivered to the defendant Jacob D. Van Wagonen a general assignment for the benefit of creditors. The assignment states the residence of the assignor and assignee to be the town of Marbletown, in the county of Ulster, state of New York, but contains no statement of the kind or place of business of the assignor, and for this reason it is •claimed to be void.
+Section 2, chapter 466 of the Laws of 1877, as amended by chapter 294 of the Laws of 1888, provides as follows:
+“ Every conveyance or assignment made by a debtor of his estate, real or personal, or both, to an assignee for the creditors of such debtor shall be in writing, and shall specifically state therein the residence and the kind of business carried on by such debtor at the time of making the assignment, and the place at which such business shall then be conducted; and if such place be in a city, the street ■and number thereof; and if in a village or town, such apt designation as shall reasonably identify such debtor. * * * ”
+It is claimed on behalf of the appellant that the provisions of this statute are mandatory, whilst on the part of the respondents it is claimed to be directory merely. Upon this question the courts below have differed in their conclusions. The case of Bloomingdale v. Seligman, 19 St. Rep., 64; S. C., 22 Abb. N. C., 98, sustains the contention of the appellant, whilst Taggart v. Herrick, 55 Hun, 569; S. C., Taggart v. Sisson, 29 St. Rep., 424; Mullin v. Sisson, 31 id., 210; Strickland v. Laraway, 29 id., 873; Boak v. Blair, 32 id., 911, sustain the claim of the respondents.
+The evidence taken upon the trial discloses the facts that the .assignor resided at a place called Stoneridge, in the town of Marbletown ; that it was a small hamlet consisting of a collection of houses on each side of the public highway, and was not incorporated as a village; that he had been a resident of the town for a period of about forty years, was a keeper of a country store at that place, was personally known to nearly every person of mature age residing within the limits of the town, and there was no other person residing in the town of the same name. It is, therefore, apparent that the place and kind of business carried on was w'ell known and understood, and that no harm could result to his creditors from the omission to make such statement in the assignment. It should consequently not be annulled unless it is required by the express provisions of the statute.
+The rule that an affirmative statute, without any negative expressed or implied, is directory merely, and leaves the common, law in force, m,av not be controlling upon the question under consideration, for it has more especial reference to statutes giving a new remedy. 2 Coke’s Inst., 200; Stafford v. Ingersol, 3 Hill, 41; Clark v. Brown, 18 Wend., 220; Almy v. Harris, 5 Johns., 175; Wood v. Chapin, 13 N. Y., 521-526; Hall v. Tuttle, 6 Hill, 42;. Dwarris on Stat., 638; Hardmann v. Bowen, 39 N. Y., 196.
+But in construing the provisions of the statute the legislative-intent must be our guide. The object of the provision evidently was to identify the assignor and prevent his being confounded with others bearing the same name. For this reason he is required to state the kind of'business carried on by him ; and if in a city, to give his street and number. The statute, however, does, not state what the consequences shall be if the assignment fails to-so state the business of the assignor. There are no express words of. negation, and we see no reason why such words should be implied. The identification of the assignor may be determined by his signature to the assignment and the acknowledgment thereof before an officer specified in the statute. The statement omitted from the assignment would only furnish other means of identification. We, therefore, incline to the opinion that the statute-should be construed as directory merely, and not mandatory.
+The principle upon which this conclusion rests has "been repeatedly recognized by the courts. It has accordingly been held that the title vests in the assignee, upon the delivery of the assignment, even before recording, although the assignment is, by the-provisions of the statute, required to be recorded; that the provisions of the statute requiring the assent of the assignee to be-subscribed and acknowledged by him, etc., are complied with by a signing and acknowledgement of the instrument without express words of consent; that the statute providing that the wages, due employees shall be preferred does not invalidate the assignment, even though it contains no provision for such employees. Warner v. Joffray, 96 N. Y., 248; Nicoll v. Spowers, 105 id., 1; 6 St. Rep., 457; Scott v Mills, 115 N. Y., 376; 26 St. Rep., 124; Richardson v. Thurber, 104 N. Y., 606; 6 St. Rep., 489; Franey v. Smith, 125 N. Y., 44; 34 St. Rep., 469.
+The judgment should be affirmed,' with costs.
+All concur, except Landon, J., not sitting.
