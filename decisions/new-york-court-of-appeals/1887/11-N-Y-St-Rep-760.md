@@ -1,0 +1,24 @@
+---
+court: "New York Court of Appeals"
+decided: "1887-10-11"
+citations: ["11 N.Y. St. Rep. 760"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ira Seymour, Resp’t, v. Alexander McKinstry, Jr., et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0760-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990432
+cites_cases: ["3 Paige Ch., 421", "49 N. Y., 286", "6 Wend., 213", "7 Cow., 360", "7 J. Ch., 65", "83 N. Y., 215", "94 N. Y., 189"]
+---
+
+# Seymour v. McKinstry
+
+## Majority (Danforth, J.)
+
+Danforth, J.
+—The defendant Sabey moves for a re-argument. The concession in the pleadings was that on the 7th of August, 1872, the plaintiff was, possessed in fee and the owner of the premises in question. The finding of the trial judge was, that on that day the plaintiff was the owner in fee and in possession of those premises, and his subsequent findings show a sale made to Ira B. Seymour and a delivery of the deed, not absolutely, but for the specific purpose of enabling him to raise the money by mortgage, to be executed to the insurance company for payment by them directly to the plaintiff. There is no finding or suggestion that the possession was changed, and no inference could be drawn that it was to be changed until after the inchoate arrangements were completed. An examination of the evidence justifies the finding of the trial judge in this respect. It was not excepted to, nor was he requested by the defendant to find that the possession, which was in the plaintiff August 7, was at any time given to or taken by Ira B. Seymour.
+The distinction between the Del Hoyo Case (94 N. Y., 189, 193) and the present is obvious frorñ other circumstances besides those briefly referred to upon the appeal. It was distinctly found in the Del Hogo Case that the fraudulent grantee not only took the deed “but took possession of the property under that conveyance and was in possession thereof at the time of the execution of the mortgage and its assignment to the plaintiff.” The real owner was held to be estopped because she had clothed the mortgagor with the apparent title and possession, while as above stated there is no suggestion in the answer or findings or requests of counsel, or evidence in the case before us, that possession ever passed from Ira Seymour to his grantee. In the Del Hoyo Case the rule is also applied, which throws the burden upon the assignee of proving how he came by the mortgage, that is, that he received it in good faith and for value, and it was said that “to give him the protection of the principles of law” there laid down, “the court must find not only that he purchased the mortgage for value, but that he purchased it innocently and in good faith.”
+It appeared in the case before us that McKinstry had from the beginning, and before the execution of the mortgage, full notice of the plaintiff’s rights and was so affected by it, that in his hands the mortgage would be invalid as against the vendor’s lien- As assignee, Sabey is no better off than his assignor, and is affected by all the equities, which affect McKinstry. Decker v. Boice, 83 N. Y., 215; DeLancey v. Stearns, 66 id., 157; Schafer v. Reilly, 50 id., 61; Bush v. Lathrop, 22 id., 535; Davis v. Bechstein, 69 id., 440. As a purchaser his case under the recording act, if that act applies, might be better than that of McKinstry. If so, it would be because his assignment was not only recorded, but his legal title to the mortgage is based upon an actual pecuniary consideration, and upon the absence of notice. Decker v. Boice, supra; 1 R. S., 762, § 37. But the character of “purchaser,” under the statute is an independent one, something different -from that of assignee, and to avail the defendant it was necessary to plead and prove not only that he was a “purchaser” of record, but that he was a purchaser in good faith and for a valuable consideration. He was bound, therefore, to deny by his answer, notice, although notice had been charged, and to prove it. These matters were new and in defense. The duty of setting them up and the burden of proving them, were therefore, upon him, and because he did not so plead and had not proved those things, the judgment of the court below was sustained. No new rule was applied, but a very old one, which requires a defendant who would avail himself of new matter as a defense, to aver and prove it, and which has been illustrated to the present day and through various systems of equitable procedure. Grimstone v. Carter, 3 Paige Ch., 421, 436, 437; Jewett v. Palmer, 7 J. Ch., 65; Tuttle v. Jackson, 6 Wend., 213, 227-228; Jackson v. McChesney, 7 Cow., 360, 362; Weaver v. Barden, 49 N. Y., 286.
+No ground appears to warrant a re-argument. The motion, therefore, should be denied.
+All concur, except Ruger, Ch. J., not sitting.
