@@ -1,0 +1,27 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1843-02"
+citations: ["4 Hill & Den. 554"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gould and others vs. Root and others."]
+source_url: "https://static.case.law/hill/4/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044975
+cites_cases: ["22 Wend. 619", "22 Wend. 633", "3 Hill, 455"]
+---
+
+# Gould v. Root
+
+## Majority (Cowen, J.)
+
+By the Courts
+Cowen, J.
+Under the circumstances, I feel no inclination to relieve the defendants on the ground of merits. Upon the facts disclosed, I entertain no doubt that the first judge was right in revoking the order to stay the proceedings ; nor that the subsequent order obtained from the commissioner was irregular. The only question is, whether it was a nullity. The statute declares that the order being refused in whole or in part, no subsequent application in reference to the same matter and in the same stage of the proceedings shall be made to any other supreme court commissioner ; and if an order be made by the latter, it shall be revoked by him or by a justice of this court or circuit judge, on due proof of the facts. (2 R. S. 209, 210, § 27, 2d ed.) Section twenty-eight forbids a second application under a penalty. To say that an order may be thus obtained under pretence of an appeal from or a motion to set aside the order of revocation, would let in the means of evading the statute. A revocation is, in effect, the same thing as an original refusal.
+Must such an irregular and evasive order be obeyed till it is revoked 1 Revocation is the remedy to which the statute looks, in terms ; and there is great question whether, in principle, the course here taken was warranted. The only cases in which the statute authorizes a total disregard of the order are specified in the 25th and 26th sections. (2 R. S. 209,2d ed.) And I am not aware of any principle which authorizes a party to treat an order as a nonentity merely because a commissioner is forbidden to grant it or a party is forbidden to apply for it. It may be said of every order improvidently granted that the party and officer have done what the law has forbidden. To say that it has been fraudulently and collusively obtained is no more. But to allow as a consequence that it may therefore be disregarded, would be letting in a principle under which every judicial act might be questioned collaterally. The remedy is by direct proceeding, which, in the case of orders, is revocation, appeal, motion to supersede, &c. (See Jackson, ex dem. Dox, v. Jackson, 3 Cowen, 73 ; Lyon v. Burtis, 4 id. 538 ; Case v. Shepherd, 1 John. Cas. 245 : Wright v. Stevenson, 5 Taunt. 850.) Until this is taken, or the order expires by its own limitation, the party must submit to it. This we held in Starr v. Francis, (22 Wend. 633,) a case no way distinguishable from the present on principle. In doing so we did but follow out the rule long ago settled by the courts at Westminster Hall. In Rex v. Wilkes, (4 Burr. 2571,) Yates, J. said, “ The order of a' judge is subject to an appeal to the court; but if acquiesced under, it is as valid as any act of the courtthough, to enforce it by attachment, it must first be made a rule of court. He added, “ the validity of a judge’s order can be impeached in only two ways; either by appealing to the court to set it aside ; or, if made in vacation, by applying at the next term to set aside the proceedings that have been had under it.” (Mansfield, C. J. in Wood v. Plant, 1 Taunt. 47, S. P.) This effect of an order, and the remedy when it has been improperly granted, was recognized here in Roosevelt v. Gardinier, (2 Cowen, 463, 4.) We often allow the fraudulent act of the party or his agents, done for the purpose of delaying the cause, to be treated as nullities. (Anonymous, 22 Wend. 619 ; Bank of Buffalo v. Lowry, id. 630.) (a) But fraud, even by the party, in obtaining a judicial decision, is another matter. If inter alios, it may be impeached collaterally. A familiar instance is a judgment confessed to defraud creditors. But the reason for that has no application to any judicial act, interlocutory or final, between parties to a pending cause. With regard to orders especially, considering the summary remedies at hand—revocations by commissioners, and motions at the special terms, which under our system are of very frequent recurrence—no great delay can in general arise from holding the party to the ordinary remedy. These orders are exceedingly numerous ; and if we permit them to be disregarded in the hope that a case of evasion or fraud may be shown, parties will often take their chance with the advantage they enjoy of an ex parte case resting on opposing affidavits. The general force of such orders will be greatly weakened. A new, inconvenient and unsafe mode of litigation will be opened. Among other things, we shall be continually asked to infer fraud from the weakness of the case made out before the commissioner. Such things are proper in the direct method ; but we cannot allow that the party shall bring an appeal to himself, and cast the onus of appealing from his own decision to us, upon his adversary.
+The motion to set aside the report is granted, but without costs.
+The motion for a commission is also granted; but that is not to operate as a stay of proceedings.
+Rule accordingly.
+See Hart v. Butterfield, (3 Hill, 455.)
+) See Anonymous, (ante, p. 56.)
