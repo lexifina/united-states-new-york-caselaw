@@ -1,0 +1,31 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-10-02"
+citations: ["18 N.Y. St. Rep. 530"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Last Will and Testament of Jacob Mendorf, deceased."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011571
+cites_cases: ["40 Hun, 636", "72 N. Y., 269", "88 N. Y. 357", "98 N. Y., 193"]
+---
+
+# In re the Probate of the Last Will & Testament of Mendorf
+
+## Majority (Earl, J.)
+
+Earl, J.
+Jacob Mendorf died in the city of Brooklyn on the 22 day of July, 1885, having made two wills, one dated May 26, 1868, and the other dated January 14, 1885. By the former will he gave all his estate to his wife and by the latter he gave it all to Mrs. Juliana Schaumburg and revoked all former wills. He left no issue. He and his wife became estranged and in January 1878, they separated and .thereafter lived apart. After their separation he lived in the family of Mrs. Schaumburg who was a widow with several children.
+One of the executors named in the latter will presented the same for probate and the testator’s widow contested the probate and presented the first will for probate, and certain of his heirs contested the probate of both wills. The surrogate refused probate to the first will and admitted the latter one to probate.
+There can be no question that the will of 1885, was executed with all the formalities prescribed by law. It was drawn by an attorney of the testator’s own selection and he gave the directions for drawing it. After it was drawn it was read to him and he pronounced it right. It was again read in his presence including the full attestation clause to the witnesses. He declared it to be his will in the presence of the witnesses and they subscribed it at his request in his presence and in the presence of each other. In April afterward he called at the office of the attorney and paid him for drawing the will.
+There can be no doubt of the entire competency of the testator at the time to make a will.- It is clear that he was in the entire possession of his mental faculties, that he fully comprehended the effect of the will and that it expressed his deliberate purpose formed a long time before its execution.
+The will is mainly assailed on the ground of undue influence. There is not the least evidence that Mrs. Schaumburg ever attempted to influence him in the disposition of his property. But undue influence is sought to be inferred from his relations with her, and the fact that he gave her, a stranger in blood, all his estate. The evidence tends to show that he had at some time made a division of his property with his wife and that she had more property than he-had. He complained of her refusal to live with him and of her bad treatment of him. He boarded and lived in the-family of Mrs, Schaumburg for several years and was. kindly cared for by her when sick and feeble needing attention and for such kindness he frequently expressed his-gratitude. While there was some evidence that the relations between him and her were meretricious the surrogate-refused to find that they were.
+This will was prompted by gratitude, and a will thus induced cannot in the case of a perfectly competent testator' be said to have been obtained by what in the law is styled undue influence. There was no fraud, imposition, constraint or coercion.
+The fact that he gave his wife nothing is accounted for by their unfriendly and hostile relations, and the previous provision made for her in the division of his property.
+Even if his relations with Mrs. Schaumburg were meretricious, the law does not, on that account, condemn a will-made in her favor. Where such relations exist, all the circumstances attending the execution of a will which may be shown to have been induced thereby will be carefully scrutinized, but the right of a competent testator to make any disposition of his property which pleases him, although it-may be unjust and unnatural, will not be curtailed. Sequine v. Sequine, 4 Abb. Ct. of App., 191; Horn v. Pullman, 72 N. Y., 269; Marx v. McGlynn, 88 N. Y. 357; In re Will of Martin, 98 N. Y., 193.
+We do not perceive that the appellants have any reason to complain of any of the rulings of the surrogate upon questions of evidence.
+The widow complains that the surrogate did not allow her costs. He did not impose costs upon her, and whether or not he should allow her costs, rested in his discretion, under section 2558 of the Code. While under subdivision 3 of that section, if he found her contest was in good faith, he could have awarded her costs to be paid out of the estate, he was not bound to.
+We are of opinion, therefore, that the judgment should be affirmed, with costs against all of the appellants.
+All concur.
