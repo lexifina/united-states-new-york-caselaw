@@ -1,0 +1,30 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-03"
+citations: ["3 Abb. Ct. App. 269"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MECHANICS’ BANK v. STRAITON."]
+source_url: "https://static.case.law/abb-ct-app/3/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1115544
+cites_cases: ["11 Barb. 620", "12 Abb. Pr. 437", "13 Mass. 158", "13 Mass. 305", "15 N. Y. 425", "17 Johns. 284", "2 Duer, 121", "2 Hill, 59", "22 How. Pr. 30", "3 Wend. 69", "34 Barb. 522", "6 Ala. 86", "6 Wend. 637"]
+---
+
+# Mechanics' Bank v. Straiton
+
+## Majority (Sorugham, J.)
+
+By the Court.
+Sorugham, J.
+The rules which establish the negotiability of commercial paper apply to bank checks as to other bills of exchange, and the doctrine that when such instruments are made payable to the order of a fictitious payee, they are to be construed and treated as payable to bearer, is too well settled to admit of serious question. In the great case of Gibson v. Minet, 1 H. Bl. 569, the determination proceeded upon the ground that, according to the true intent and meaning of the parties, the bill was intended to be made payable to bearer.
+The words, “or order,” “or bearer,” and “bearer,” in notes or bills, are words of negotiability, without which or other equivalent words the instrument will not possess that quality, and therefore the use of either of these expressions by the drawer of a bill or maker of a note, must be regarded as indicating his intentions that the paper shall be negotiable.
+By naming the persons to whose order the instrument is payable, the maker manifests his intention to limit its negotiability by imposing the condition of indorsement upon its first transfer. But no such intention is indicated by the designation of a fictitious or impersonal payee, for indorsement under such circumstances is manifestly impossible; and words of negotiability, when used in connection with such designations, are capable of no reasonable interpretation except as expressive of an intention that the bill shall be negotiable without indorsement, — i. e.} in the same manner as if it had been made payable to bearer.
+It was not, before the Code, necessary for the holder of an instrument payable to bearer, to allege or prove in an action against the maker the transfers through which he derived his title (2 Greenl. on Ev. § 161, and cases there cited; 3 Phill. on Ev. 4 Am. ed. 191); and it certainly is not now.
+The engagement is to pay to the bearer; and that the plaintiff is such is one of the material elements of his cause of action.
+The fact must, therefore, be stated in his complaint, and its statement will be a sufficient allegation of his title; for it is the fact, and not evidence of the fact, which is required to be pleaded.
+It is not only stated in the complaint in this action that the plaintiff is the holder and owner of the check, but also that it was transferred and delivered to him for a valuable consideration, and that he became its owner and holder by virtue of that transfer and delivery. This cannot be true, unless the drawer of the check transferred and delivered it directly to the plaintiff, or to some other person by or through whom it was transferred to the plaintiff; and this averment, if an allegation of a transfer and delivery by the drawer is necessary, is sufficient on demurrer, within the cases of People ex rel. Crane v. Ryder, 12 N. Y. (2 Kern.) 433, and Prindle v. Caruthers, 15 Id. 425.
+The judgment should be affirmed.
+All the judges concurred.
+Judgment affirmed, with costs.
