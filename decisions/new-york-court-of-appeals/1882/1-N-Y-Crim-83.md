@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1882-10"
+citations: ["1 N.Y. Crim. 83"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE JUSTICES OF THE COURT OF SPECIAL SESSIONS OF THE COUNTY OF NEW YORK v. PEOPLE ex rel. HENDERSON."]
+source_url: "https://static.case.law/ny-crim/1/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1164467
+cites_cases: ["43 N. Y. 617", "53 N. Y. 111", "56 N. Y. 294", "56 N. Y. 394", "67 N. Y. 326", "67 N. Y. 329"]
+---
+
+# Justices of the Court v. People ex rel. Henderson
+
+## Majority (Tracy, J.)
+
+Tracy, J.
+—The $20 gold coin was entrusted to the relator for the single and specific purpose of having it changed into other money to be returned to the prosecutor. The relator had no propei'ty or interest in the coin, and the prosecutor never intended to part with his property therein. The relator left his restaurant with the coin under the pretense of obtaining change, and immediately gambled it away, and did not return. These facts warranted the jury in finding that, when he left the presence of the prosecutor, he took the coin with him with the intent to steal it. This, within all the authorities, except the one hereinafter referred to, justified his conviction for larceny. Hildebrand v. People, 56 N. Y. 394; Loomis v. People, 67 N. Y. 326; 1 Hawkins P. C. 210; 2 Russell on Crimes, 21. In Russell on Grimes and in Hawkins' Pleas of the Grown, the rule is stated as follows : “ So, also, if a watch-maker steal a watch entrusted to him to clean, or if one steal clothes delivered to him for the purpose of being washed, or guineas delivered for the purpose of being changed into half guineas, or a watch delivered for the purpose of being pawned, in all these circumstances the goods taken have been thought to remain in possession of the proprietor, and the taking of them away held to be felony.” Hawkins cites, to each of these cases, an authority on which it rests. One of the cases so cited is that of Ann Atkinson, in which it was held that if one stole guineas delivered for the purpose of being changed into half guineas, it was larceny. Cas. Cro. Law, 2477. The ease of Reg. v. Thomas is a nisi prius case, reported in 9 Carr. & P. 741, where it was held by Coleridge, J.: “ that the prosecutor, having permitted the sovereign to be taken away for change, could never have expected to receive back that specific coin. He has, therefore, divested himself at the time of the entire possession of the sovereign ; consequently, I think there was not a sufficient trespass to constitute larceny.”
+The learned presiding justice who delivered the opinion of the general term in this case, fell into an error in supposing that the doctrine of the case of Reg. v. Thomas had been adopted by this court as the law of this State. In the case of Hildebrand v. People, 56 N. Y. 294, where this court is supposed to have adopted the rule laid down in the case of Reg. v. Thomas, the plaintiff in error had been convicted of stealing a $50 bill handed him to take out ten cents in payment for a glass of soda. The prisoner put down a few coppers upon the counter, and, when asked for the change, took the prosecutor by the neck and shoved him out of doors, and kept the money. The prisoner was convicted, and the conviction was affirmed by this court. The case of Reg. v. Thomas was cited and relied upon by the prisoner. The facts of the two cases differed, and, after criticising the case of Reg. v. Thomas as a nisi prius case and not authoritative for that reason, the court pointed out the difference between the facts of that case and the facts of the case then being considered, without overruling or affirming the doctrine of Reg. v. Thomas.
+In Loomis v. People, 67 N. Y. 329, the case of Reg. v. Thomas was again referred to, and this court there declared that the weight of authority was decidedly opposed to the doctrine of that case, and again affirmed a conviction in which that case was relied upon as an authority for reversal. The decisions of this court have been uniformly against the doctrine of Reg. v. Thomas. In the People v. McDonald, 43 N. Y. 617, this court held that: “ If money or property is delivered by the owner to a person for mere custody or for some specified purpose, the legal possession remains in the owner, and the criminal conversion of. it by the custodian is larceny.” Again, in Smith v. People, 53 N. Y. 111, it was said by Allen, J., that “ when the delivery of goods is made for a single and specific purpose the possession is still supposed to reside, not parted with, in the first proprietor.” The rule of Reg. v. Thomas was never adopted by this court, is not good law, and should be disregarded.
+Judgment of the general term reversed and the judgment of the special sessions affirmed.
+All concur.
+Note.—See also 1 Bishop Grim. Law, § 583.
+As to larceny by bailee, see Reg. u. Aden, 12 Gox Grim,. Gas. 512 ; 6 English Rep. 337. This case was decided under 24 & 25 Viet. c. 96, s. 3, a statute containing provisions in relation to conversion by bailees similar to Ef. T. Penal Code, § 528, subd. 2. See also Reg «. Tonkinson, 14 Gox Grim,. Gas. 603 ; 31 English Rep. 730.
+In the most recent case on this subject, the prisoner received a gold coin for the purpose of getting it changed. He returned neither coin nor change. Held, larceny. Murphy ■». People, 104 111. 528, 27 Alb. Law Journal, 164.
