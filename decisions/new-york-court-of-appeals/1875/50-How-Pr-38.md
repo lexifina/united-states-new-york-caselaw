@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Appeals"
 decided: "1875-11"
-citations: ["50 How. Pr. 38", "50 How. Pr. 26"]
+decided_precision: "month"
+citations: ["50 How. Pr. 38"]
 reporter: "how-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The People of the State of New York, respondents, agt. William M. Twe
 source_url: "https://static.case.law/how-pr/50/cases/0038-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4472059
-cites_cases: ["28 Mich., 228", "41 N. Y, 232", "46 N. Y., 401", "50 N. Y., 456", "53 N. Y., 335", "56 N. Y., 72"]
+cites_cases: ["41 N. Y, 232", "53 N. Y., 335", "56 N. Y., 72"]
 ---
 
 # People v. Tweed
