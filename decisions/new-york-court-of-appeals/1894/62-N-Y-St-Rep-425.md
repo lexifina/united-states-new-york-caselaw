@@ -1,0 +1,36 @@
+---
+court: "New York Court of Appeals"
+decided: "1894-10-30"
+citations: ["62 N.Y. St. Rep. 425"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry L. Beakes, Resp’t, v. The Phœnix Insurance Company of Hartford, Conn., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/62/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1985245
+cites_cases: ["54 St. Rep. 290"]
+---
+
+# Beakes v. Phœnix Insurance
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+This is an appeal from a judgment of the general term of the second department, affirming' a judgment, and from an order denying a new trial in an action tried at the Orange •circuit, in which the jury rendered a verdict in favor of the plaintiff for the sum of eleven hundred dollars in an action upon a policy of insurance covering the plaintiff’s two barns and contents, located on his farm, about a mile from the city of Middletown.
+The plaintiff claims that on Sunday, the 10th of August, 1890, during a severe thunder storm, his barns were struck by lightning, and by reason thereof were destroyed, with their contents.
+The defense interposed is that the barns and contents were swept away and destroyed by, and solely in consequence of, a violent wind storm, tornado or cyclone, and were not struck by lightning.
+Two facts are admitted in this case, that no one saw the demolition of the barns, and that there was no actual ignition, fire playing no part in the disaster.
+The plaintiff seeks to recover under the lightning clause of the policy, which reads as follows, viz. :
+“ Lightning.—it is understood and agreed that this policy shall cover any direct loss or damage caused by lightning (meaning thereby the commonly-accepted use of the term lightning, and in no case to include loss or damage by cyclone, tornado or wind storm), not exceeding the sum insured, nor the interest of the insured in the property, and subject in all other respects to the terms and conditions of this policy.”
+The issue thus presented was very thoroughly tried, and resulted in a direct conflict of evidence; the witnesses for the plaintiff testified that there was abundant evidence that the buildings had been struck by lightning, and that the wind came almost immediately after the lightning stroke ; the witnesses for the defendant found no evidence of lightning. There was also a great conflict between the witnesses as to the force of the wind which followed the lightning; some of plaintiff’s witnesses said it was blowing very hard, while many of defendant’s witnesses described the force of the wind as being, very unusual and severe, doing great damage to buildings in the immediate neighborhood.
+It seems to have been assumed by the learned trial judge in his charge to the jury that it might be fairly inferred from the evidence that, part of the damage wrought on this occasion was due to the wind. It becomes necessary to examine this charge, as the defendant and appellant insists that it contains legal error which must lead to a reversal of the judgment. Near the opening of his charge the t?’ial judge uses this language, viz.:
+“It is the claim of the plaintiff that these buildings were destroyed by lightning, and, therefore, he claims that they come within the clause of the policy which does cover any direct loss, which does insure him against direct loss or damage caused by lightning. It is the contention of the defendant, on the other hand, that the destruction to the building was not caused by lightning, but was caused by a violent wind storm, by some denominated as a cyclone, and by some called a tornado, but the contention is that the destruction was caused by. the wind and not by the lightning. If it was caused by the wind then the loss is not .covered by this policy, as you see. But if it was caused by the lightning then it is.”
+To this language no exception could be properly taken, but later in his charge the trial judge stated to the jury as follows, viz.:
+“If you find that this building was destroyed by lightning, then you will have to find what it was that wrought the damage, because there was there, as you will probably have no difficulty in finding, the presence of a high wind, and if this destruction, if part of this destruction, was wrought by the wind, then it is not destruction or damage by lightning. But there is another rule. You will have, in the consideration of this question of damages, to settle this question of fact, you are to say whether the lightning was the primary cause, what we call the first cause, the approximate cause, as we call it in law. If you find it was then you may attribute the loss to that, although you may find that by reason of the presence of the wind more destruction was wrought. That is to say, that the roof was blown over into the field, that the destruction was more complete. If you should find that these buildings were struck by lightning, that they were weakened and in-a reeling condition or rent apart by lightning ánd moved from the foundation, then, with the presence of wind and with that opening in the building made by the" lightning, that they were prostrated by the wind, if you find that the lightning was the primary cause of the destruction, then you may allow him the whole damage, but you will have to be careful about that and discriminate. I think you understand it. If that was the primary cause, and although the wind made more damage, you may allow him the whole of his loss, as though it was caused by lightning.”
+The defendant’s counsel excepted to the portion of the charge, to quote his own language, “in which your honor charges in substance that if the lightning was the primary cause of the loss, and the loss was accelerated or increased by wind, the whole damage can be recovered.” He also requested the court to charge “ that if lightning struck the buildings and did some damage, and the wind came on and did the main damage, the jury must strictly confine their verdict to the actual damage done by the lightning and cannot give a verdict for the damage done by the wind.” This request was refused and we think it was error.
+The lightning, clause of the policy, already quoted, is very carefully worded and‘limits the liability of the company to the direct loss caused by lightning, and expressly excludes damage by cyclone, tornado or wind storm.
+It must be admitted that the duty of a jury in cases of this character is difficult to perform. If a building is shattered by a lightning stroke, but not prostrated, and a moment later a high wind completes the work of destruction, it is not an easy task for counsel to prove the plaintiff’s case, or for the jury to determine the amount of recovery, and apportion the loss between lightning and wind. Courts are required, however, to enforce contracts as drawn by the parties, and under this lightning clause in the standard policy, juries must be required to limit the recovery of plaintiffs to the direct loss or damage caused by lightning.
+The judgment and order appealed from should be reversed and a new trial ordered, with costs to abide the event.
+All concur. Judgment accordingly.
+Reversing 54 St. Rep. 290.
