@@ -1,0 +1,21 @@
+---
+court: "New York Court of Appeals"
+decided: "1882-10"
+citations: ["11 Abb. N. Cas. 367"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAYOR v. MAYOR."]
+source_url: "https://static.case.law/abbn-cas/11/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 628690
+---
+
+# Mayor v. Mayor
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The order of consolidation must be reversed, because the special authority to consolidate actions is given by section 817 of the Code, and permits it only where both actions are pending between the same plaintiff and the same defendants for causes of action which might have been joined. That is not the case here. The actions were forpaitition. The subject of one action was land in the city and county of New York, and of the other, land in the county of Kings ; and two of the defendants, Lane and wife, in the New York action, were not parties to the Kings county action, and had no interest in the subject of the latter action. By the consolidation they are exposed to the possible costs and expenses and the delays of a litigation in another county in which they have no interest. In such a case the consolidation does not consolidate. The two actions remain two, and cannot become one. All that is effected is an improper change of the place of trial from New York to Kings county and a concurrent trial of two actions, having neither the same parties, nor the same subject of action. The Code does not authorize such a proceeding.
+The order of the general term and of the special term should be reversed, with costs.
+All the judges concurred, except Raparlo, J., absent.
