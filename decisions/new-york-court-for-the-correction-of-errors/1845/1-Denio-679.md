@@ -1,0 +1,25 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-12"
+citations: ["1 Denio 679"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte Ostrander."]
+source_url: "https://static.case.law/denio/1/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 483815
+cites_cases: ["18 Wend. 79", "20 Wend. 658", "5 Wend. 136"]
+---
+
+# Ex parte Ostrander
+
+## Majority (By the Court, Jewett, J.)
+
+By the Court, Jewett, J.
+There is no ground to say that the judgment before the justice must be deemed to have been entered on the 12th instead of the 11th day of March. It was competent for the justice to enter it on any day within four days after the cause was submitted to him for his final decision. (2 R. S. 247, § 124.)
+The allowance of the appeal was not within the time prescribed by thé statute; it was on the eleventh day after the judgment was rendered. It should have been within ten days. (2 R. S. 258, § 187.)
+No objection is made to the bond first given on the appeal, except that it recited the judgment as having been rendered on the 12th instead of the 11th day of March. The recital of the day on which judgment was rendered is not ■ required by the statute. (2 R. S. 259, § 189; sub. 2.) It is only necessary “to exhibit the names of all the parties, the character in which they prosecuted or defended before the justice, the amount recovered and the name of the justice.” The court of common pleas might have allowed the bond to be amended in that particular. (2 R. S. p. 261, § 204: id. p. 556, §§ 33, 34.) The justice, however, made and filed his return to the appeal, eighteen days piior to the first day of the next term of the common pleas, and thereupon the common pleas became possessed of the cause, and it became its duty to cause the parties to proceed therein with all due diligence. (2 R. S. 261, § 201.) The parties respectively had a right to serve notice of trial for the next term of the court, eight days before the first day of such term, and the appellee might have given a notice of motion to dismiss the appeal. (§ 202.) In this case the appellee exercised his right to give a notice of motion to dismiss the appeal for the next term, and the motion was made and opposed, and was denied with costs, upon the ground that the notice did not specify the grounds of the motion ; but the court gave the appellee leave “ to renew said motion at the next term.” ■ It is entirely clear that there was a ground sufficient to dismiss the appeal; and as I think, one against which the court, if it had been disposed, could not have relieved the party ; that is, that the affidavit and allowance of an appeal were not made with in the time required by the statute. But the court decided that the appellee had not complied with the provisions of the statute by specifying the grounds of the motion in his notice, and therefore denied the motion.
+The decision of the -court, at. the September term, to entertain the motion, and the order then made dismissing the appeal were, in my opinion, in manifest violation of the provisions of the statute on that subject, notwithstanding the reservation in the rule of June term. By section two hundred and three, (p. 261,) it is declared, that no motion to dismiss an appeal shall be heard “ after the first term at which the same might have been made.” The motion not only might have been made, but was in fact made and denied at the June term. The statute is imperative, and the court clearly erred in entertaining the motion at the succeeding term. The idea suggested that the motion in September was a continuance of the one made in June, I think is without any good foundation. It was virtually an attempt to enlarge the time fixed by statute in which to perform a particular act. This is a power which the court did .not possess. (Jackson v. Wiseburn, 5 Wend. 136 ; Barclay and others v. Brown, 7 Paige, 245; Caldwell v. The Mayor, &c. of Albany, 9 id. 572.)
+The common pleas having decided otherwise, the important question arises, whether this court, in the due exercise of its jurisdiction over inferior tribunals, can correct the error by mandamus. It is argued that without the aid of this writ the party is remediless; that error will not lie. That is not a sufficient ground in'itself to entitle a party to the writ. It is .true that when a party has another legal remedy, a mandamus will generally be refused on that ground; but it is not true, that because a party has no legal remedy, .unless by this writ, that it will be granted for that cause. The common pleas had judicial cognizance of the subject matter; and although ! have no doubt but that it erred in its decision, yet it cannot be corrected by mandamus. It was clearly a judicial error. (The Judges of Oneida v. The People, 18 Wend. 79; The People, ex rel. Doughty, v. The Judges of Dutchess, 20 Wend. 658.)
+Motion denied.
