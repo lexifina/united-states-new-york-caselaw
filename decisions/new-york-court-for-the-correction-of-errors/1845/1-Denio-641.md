@@ -1,0 +1,23 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1845-09"
+citations: ["1 Denio 641"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Camp vs. McCormick."]
+source_url: "https://static.case.law/denio/1/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 484084
+cites_cases: ["2 Hill, 380", "4 Hill, 604"]
+---
+
+# Camp v. McCormick
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+The first levy was made on the eighth of August, at which time it is not pretended any rent was due to Halsey. A landlord can only claim in this form such rent as was due at the time of the levy. (1 R. S. 746, § 12 ; Theriat v. Hart, 2 Hill, 380.) The notice claiming the proceeds of the property levied on, shews that the rent fell due subsequently to the levjq and therefore fails to establish a right to these proceeds. That money should have been applied on the execution, unless it was paid on the claim interposed by Halsey, by the consent of the plaintiff’s attorney. The fact of such consent is in doubt upon these affidavits, but as the sheriff sets up that the money was so paid by him, with the assent of the plaintiff’s attorney, the truth of the statement will be best ascertained by the verdict of a jury. The motion, so far as respects the amount made by the first levy and sale, should therefore be denied, as the case is a proper one to be determined in an action against the sheriff for the money.
+The right to the money made on the pZzzries execution rests on the sufficiency of the notice by Halsey. It was served in due time, for it preceded the sale by the sheriff. (1 R. S. 746, $ 12.) It states that" the rent accrued during the space of six months from the first day of April to the first day of October, and which, I think, must be understood as alleging that the rent was payable on the last mentioned day. This was before the levy, and so far the notice was well enough. But it does not shew that the amount claimed as rent was due from the defendant as tenant. The landlord, by his notice, must make a case which gives him a preference over the execution creditor; but that preference exists only where the execution is against the tenant from whom the rent is due. (1 R. S. 746, § 12 to 17; Millard v. Robinson, 4 Hill, 604; Olcott v. Frazier, 5 id. 562.) This notice states that the rent was due for the use and occupation of the premises during a certain period, and although it asserts that the defendant was in the occupation of the premises at the date of the notice, it does not shew that he so occupied during the term for which the rent was payable. The notice therefore neither alleges in terms that the rent was due from the defendant as tenant, nor that he possessed the demised premises during the period for which the rent was demanded, and from which the fact that he was tenant might perhaps be inferred. This notice may be true and still the defendant may not have been tenant of the premises, and as such bound to pay the rent. The land may have been demised to another person for whom the defendant had expressly agreed to pay the rent to the landlord. The statute has no application to such a case. The notice must be from the landlord and must shew that he was landlord; that the defendant was his tenant, and the money due from him as such, for the rent of the demised premises, and that it was payable before levy made. Without examining other objections to this notice, which were made, it is enough to say that it does not shew that the money was due from the defendant as tenant. The plaintiff was therefore entitled to the money arising from the second sale; hut as it may be necessary to bring an action for the amount made by the first sale, the whole matter can well be disposed of in that form. The motion will be denied without costs, and without prejudice to an action.
+Ordered accordingly.
+This case advances a step beyond those already determined which are referred to in the opinion of the court. In Millard v. Robinson, (4 Hill, 604,) it was not stated in the notice from whom the rent was due, though it was said that at the time of giving the notice the premises were in the occupation of the defendant in the execution. In Olcott v. Frazier, (5 id. 562,) though the rent was claimed to be due from the defendant, it was not stated who toas in the occupation of the premises. In the case now reported both of the allegations referred to appear in the notice, but it is not alleged that the defendant was tenant of the party claiming the rent, or that’he occupied the premises during the time for which the lent accrued.
