@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-12-02"
+citations: ["34 N.Y. St. Rep. 205"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alonzo Duryea, Trustee, Resp’t, v. Charles J. Blivin, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047300
+cites_cases: ["116 N. Y., 685", "118 N. Y., 7"]
+---
+
+# Duryea v. Blivin
+
+## Majority (Follett, Ch. J.)
+
+Follett, Ch. J.
+June 5, 1872, Emma L. Duryea and Charles J. Bliven intermarried and April 14, 1873, a son named Henry A. and August 8, 1875, a daughter named Marguerite D. were born. Afterwards differences arose between the husband and wife and they separated, she bringing an action for a limited divorce. On the 19th day of February, 1883, the husband as party of the first part, .the wife as party of the second part, and Alonzo Duryea, the father of the wife, as party of the third part, executed a contract-by which the husband and wife agreed to live apart It was provided that the children should remain with the mother subject to the right of the father to visit and associate with them as provided in. the third and fourth articles of the contract, which are as follows :
+“ Third. During the pendency of this agreement, the said party of the first part shall have free access and communication with the said two children twice in each week, to wit.: on Sunday and Wednesday, shall have admission at such times to the residence of the said party of the second part, for the purpose of seeing the said children; shall be permitted to take the children out of the house on the said two days of the week for the -purpose of exercise and companionship, at which times they may be accompanied by an attendant, to be selected or approved by the party of the second part and compensated by the party of the first part, and if the said party of the first part should be confined to his house by illness and unable to go to his children then they shall- be sent to him attended as aforesaid, at his expense, twice a week at such reasonable times and to such reasonable place or places as may be consistent with their health.
+■ “ Fourth. The said party of the sfecond part will put no obstacle in the way of the restoration and maintenance of the love and affection of the said two children for their father, or in the way of a reasonable and proper companionship between the father and his children, either by influencing the children against the father, or in any other way, nor shall she do anything to estrange them from him; and no force or duress shall be exercised by either parent to compel or prevent intercourse between the father and the said children.”
+The husband agreed to pay the trustee seventy-five dollars per month, which sum he and the wife stipulated should be in full discharge of liability for their support. The defendant made all of the stipulated payments which became due before October 1, 1884, but the one which fell due on that date, and all subsequent ones, ho refused to pay, on the ground that his wife had violated the third and fourth clauses of the contract above set forth.
+It is settled in this state that a contract between a husband and wife who have -separated, to thereafter live apart, is not void on ' the ground of public policy. Galusha v. Galusha, 116 N. Y., 685; 27 N. Y. State Rep., 738; Clark v. Fosdick, 118 N. Y., 7; 27 N. Y. State Rep., 750.
+The agreement of the wife and trustee to permit the husband to associate with his children was not only valid but was a material part of the contract, which could not be violated by the wife and a recovery be sustained in her favor for her benefit of the sum which he stipulated to pay monthly.
+On the trial the defendant testified that he was not permitted to see his children except in the presence of third persons, and that they were not allowed to visit him when he was sick. If this was true, and without justification, it was a violation of the contract on the part of the wife, and no recovery could be had for her benefit while she was refusing to perform on her part. A contract of this character is incapable of the exact performance which may bo made of a business one, but nevertheless, both parties arc required to attempt to carry it out in good faith. There was a clear conflict in the evidence and in the inferences to oe drawn from it. The defendant testified that on many occasions he was denied the right to associate with his children without any apparent or sufficient reason. The wife and the trustee by their evidence denied that some of the refusals occurred, and gave reasons why in other instances the children were not present when the father called. Whether the reasons put forward were the real ones, and if real whether they were sufficient, was a question to be determined by the jury, and the court was not justified in declaring as a matter of law that the wife had performed her contract, or that her failure to perform it was justified by the evidence. A question of fact arising upon the evidence as to whether the wife had violated the contract in the respects complained of, it was error to direct a verdict for the plaintiff, for which the judgment should be reversed and a new trial granted, with costs to abide the event
+All concur, except Haight, J., absent
