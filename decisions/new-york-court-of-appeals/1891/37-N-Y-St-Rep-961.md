@@ -1,0 +1,19 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-04-14"
+citations: ["37 N.Y. St. Rep. 961"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of the Department of Public Works of New York, Opening One Hundred and Eighty-first Street."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0961-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054256
+---
+
+# In re the Department of Public Works of New York
+
+## Majority
+
+Order affirmed, with costs. All concur.
+Affirming 35 N. Y. State Rep., 548.
