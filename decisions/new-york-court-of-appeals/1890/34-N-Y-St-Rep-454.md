@@ -1,0 +1,23 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-12-02"
+citations: ["34 N.Y. St. Rep. 454"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harriet S. Rumsey, App’lt, v. The N. Y. & N. E. R. R. Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047190
+cites_cases: ["114 N. Y., 423"]
+---
+
+# Rumsey v. N. Y. & N. E. R. R.
+
+## Majority (Finch, J.)
+
+Finch, J.
+This judgment must be reversed upon the authority of Rumsey v. N. Y. & N. E. R. R. Co., 114 N. Y., 423; 23 N. Y. State Rep., 928. That was an action between the same parties who are now before us, founded upon the same facts, and in which a judgment restraining the defendant from operating its road over the disputed premises was sought. The defendant there, as here, had succeeded ; but the second division of this court reversed the judgment, holding that the H. Y. Central & Hudson River Company had not become owners of the adjacent upland by reason of the construction of its road over land under water in front of ■ plaintiff’s premises; that the conveyance by the state gave the Central Company no title beyond so much of the land as was heeded for their own proper railroad purposes, as against the grant thereafter made by the state in pursuance of the statute to the owners of the upland; that by force of that grant the plaintiffs were the owners of and had title to the lands under water over which the defendant company had built its road; and having occupied the plaintiffs’ premises without right, was liable to be removed therefrom. The opinion of Brown, ,T., in that case, states all the essential facts, which are substantially identical with those found in the present case, and so fully and carefully discusses the legal questions involved as to make further argument needless. The decision disposes of the two propositions upon which the defendant in the present case has succeeded, by its affirmance of a valid title in the plaintiffs to the lands under water which the defendant company has occupied.
+Those two propositions, as formulated by the special term, were that the grant to the Hudson River Company was valid, and that an upland owner has ho right of way to the river as against one acting under state authority. As to the first proposition, the case cited shows that there is no necessary inconsistency between the two grants, and that plaintiff’s title is good, subject only to that of the- Hudson River Company to the extent and within the limitation of the purposes of its charter. As to the second propotion, the case of Gould v. Hudson River R. R. Co., 2 Seld., 522, is cited. If that decision deserves to be followed to its full-extent, it has no application to the present case. The plaintiffs had a right of way under the Hudson river railroad to the dock on the river bank, as matter of fact, and it is unnecessary to consider the foundation and scope of the right as against the company which had conceded it. The plaintiffs also owned the land which gave an approach to the dock, and could not be cut off from their water front by the constructed road of the defendant without liability for the consequent damages.
+The judgment must, therefore, be reversed and a new trial granted, with costs to abide the event.
+All concur.
