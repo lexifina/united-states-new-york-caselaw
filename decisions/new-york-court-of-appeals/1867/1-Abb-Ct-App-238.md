@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-06"
+citations: ["1 Abb. Ct. App. 238"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRUSH v. LEE."]
+source_url: "https://static.case.law/abb-ct-app/1/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1112071
+cites_cases: ["10 Bosw. 597", "13 Abb. Pr. 459", "2 Barb. 396", "37 Barb. 112", "37 N. Y. 235", "47 N. Y. 41", "5 Duer, 629", "9 How. Pr. 97", "9 Johns. 396"]
+---
+
+# Brush v. Lee
+
+## Majority (Scrugham, J.)
+
+Scrugham, J.
+It appears from the recital in the order of March 16, 1866, and from the statements in the affidavit of the defendant Lee, that on that day he personally appeared in court in obedience to the order to show cause of March 14, 1866. He then admitted that he had money and property sufficient to pay the judgments of the plaintiff; and thereupon an order was made requiring him to pay, within five days, the amount of money therein specified, being the sums due on said judgments, and thirty dollars for the plaintiff’s costs of the proceedings supplementary to execution. It was a sufficient answer to the point that this was not an order for the payment of money in a case where, by law, execution could not be awarded for the collection of the sum, that the order was made in proceedings supplementary to execution, and that an execution for the collection of the money it directed the defendant to pay, could not be awarded upon it. It was founded upon the return of an execution unsatisfied, and the confessed ability of the defendant to pay the amount of the judgment upon which such execution issued.
+The statute “ of proceedings for contempt, to enforce civil remedies and to protect the rights of parties in civil actions,” excepts the case of disobedience to an order for the payment of money, from the cases wherein proceedings must be instituted either by attachment or order to show cause; and in this case the court, upon the facts stated on the application for the order to show cause, was empowered immediately to award a precept for the imprisonment of the defendant. The defendant cannot be heard to complain that this course was not adopted. The order to show cause gave him an opportunity to which strictly he was not entitled, viz: to be heard in answer to the alleged contempt before his imprisonment should be ordered. The court in granting it did not lose the powrer to order his imprisonment, which was acquired by proof of his failure to comply with the order of March 16, but merely postponed its exercise until it could be ascertained whether he would-offer any sufficient excuse for his non-compliance. As the case was not one of those in which the statute requires an order to show cause or an attachment to issue, it was not necessary that the practice as to proofs, which prevails in such cases, should be adopted, but the order was to be regarded only as an ordinary order to show cause, on the return of which proofs are made by affidavits.
+The question whether an examination of the defendant, upon interrogatories, is necessary on the return of the order to show cause required by the statute, does not, in my judgment, necessarily arise; but as it is discussed by the counsel, it is perhaps proper to consider it.
+The statute regulates the practice m cases under it commenced by attachment, but is silent as to that which is to be pursued when the proceedings are commenced by order to show cause. In those cases, in the late court of chancery, when the defendant appeared and denied the contempt, it was the practice to file interrogatories and proceed substantially in the same manner as upon the return of an attachment; but when, as in this case, the party appeared, but did not deny the alleged misconduct, the court would0 at once proceed, without requiring interrogatories to he filed, to make a final decision and award the proper punishments (Albany City Bank v. Schermerhorn, 9 Paige, 372). The statute gives the complaining party the choice of two methods of proceeding; one of which enables him to bring his adversary personally before the court for examination, while by the other he can only require him to answer hy affidavit. That this distinction was contested is apparent from the fact that the provisions made for the examination of the defendant on interrogatories refer only to cases commenced by attachment. The advantage of' such an examination is to the complaining party, enabling him, in effeet, to cross-examine his adversary, a privilege he has not when, as on the return on an order to show cause, the party proceeded against responds by affidavit; and that party has no reason to complain if his opponent choose a proceeding in which he cannot avail himself of this advantage without a special order of the court.
+The proceeding was not against the defendant for contempt in not paying costs, but in not obeying an order made in proceedings supplementary to execution. The power to make such an order, and to punish disobedience of it, is not affected by the nature of the claim upon which the judgment upon which the execution issued was granted; but depends solely upon the return of the execution unsatisfied, and the ability of the judgment debtor to pay it.
+The order should be affirmed,
+A majority of the judges concurred.
+Order affirmed with costs.
