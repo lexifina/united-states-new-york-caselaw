@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Appeals"
 decided: "1871-02"
-citations: ["11 Abb. Pr. 97", "11 Abb. Pr. 102"]
+decided_precision: "month"
+citations: ["11 Abb. Pr. 97"]
 reporter: "abb-pr-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["MARVIN against MARVIN."]
 source_url: "https://static.case.law/abb-pr-ns/11/cases/0097-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1968719
-cites_cases: ["1 Lans., 474", "18 N. Y., 481", "28 N. Y., 184", "37 N. Y., 180", "42 N. Y., 143", "5 Johns. Ch., 118", "5 Johns. Ch., 148"]
+cites_cases: ["18 N. Y., 481", "28 N. Y., 184", "37 N. Y., 180"]
 ---
 
 # Marvin v. Marvin
