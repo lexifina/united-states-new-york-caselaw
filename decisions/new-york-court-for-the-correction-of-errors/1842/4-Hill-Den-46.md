@@ -1,0 +1,25 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1842-12"
+citations: ["4 Hill & Den. 46"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilkinson vs. Johnson. The Same vs. The Same."]
+source_url: "https://static.case.law/hill/4/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2044947
+cites_cases: ["19 Wend. 23", "3 Wend. 441", "9 John. 262"]
+---
+
+# Wilkinson v. Johnson
+
+## Majority (Bhonson, J.)
+
+By the Court,
+Bhonson, J.
+On moving for a consolidation it is not enough for the defendant to show that the causes of action in the two suits are such as may be joined in one declaration. It must appear in addition, that no defence is intended in either of the suits, or that the questions which will arise are substantially the same in both. (Dunning v. Bank of Auburn, 19 Wend. 23.) Although the two actions may be based upon different transactions, yet if no defence is intended, and the consolidation is only asked for the purpose of avoiding the expense of entering up several judgments, there cannot often be a good objection against granting the motion. But when a defence is to be made in one or both of the suits, very different considerations arise. If only one of the actions is to be defended, there can be no good reason for delaying the plaintiff in the other. His acknowledged right in the one case should not be withheld until another matter, which is in controversy between the parties, can be determined. It does not occur to me that there can be any case for a consolidation where there is a defence in one action, and none in the other:
+When both actions are to be defended they may very properly be consolidated, where the questions to be tried will be substantially the same in both. The questions may often be identical; as where the suits are brought upon different contracts growing out of the same transaction, and the defence is, that by reason of fraud, usury, want of consideration, or the like', there never was a valid contract; or where the consideration upon which the contracts were made has wholly failed. So too, the questions to be tried may be identical although the contracts were based upon different transactions ; as where the defendant does not deny the validity of the contracts, but sets up some matter in discharge of the actions, as payment, release, accord and satisfaction, insolvency, bankruptcy, and the like,'going to the -whole of the plaintiff’s demands. In such cases the matter in controversy between the parties may as well be settled in one action as in several; and a consolidation will not only result in a saving of time and expense to the parties, but it will relieve courts and j.urors from the useless burden of twice investigating the same matter.
+But when different questions are to be litigated in the two actions, a motion for consolidation, which is always addressed to the discretion of the court, ought not to be granted. The venue and the witnesses may be different in the two suits, and the investigation upon one trial of several transactions which have no connection with each other, would tend to embarrass both court and jury, and might result in a verdict which would not do complete justice to the parties. It is true that the costs may be increased by having twb trials. But the parties stand upon equal ground. Both insist that they are right, and each goes on at the peril of paying costs if he fails. In one respect the defendant has the advantage in leaving the suits to proceed separately. If he succeeds in either, he will recover the costs of that suit, although he may fail in the other. But if the actions are consolidated, and the plaintiff succeeds as to either of his demands, though he fails in the other, he will recover costs; and thus the expenses of the whole litigation will fall upon the defendant, notwithstanding his success as to one half of the controversy.
+The papers on which this motion is made are defective in not showing that the same question or questions are to be litigated in both actions. A defence on the merits is sworn to in each, but the nature of the defence is not disclosed. In one suit it may be a denial that any valid contract was ever made, while in the other the original liability may be. admitted, and some matter may be set up in discharge of the action. We see that the plaintiff sues upon distinct contracts springing out of transactions which have no connection with each other. But if that did not appear, the defences and the questions to be litigated in the two suits may be entirely different. It is always incumbent on the moving party to make out a prima facie case. If he asks for a consolidation where a defence is to be made, he should state enough of the nature of the actions and the defence to show that both suits will turn upon the same question. The defendant has fallen far short of satisfying that rule.
+Motion denied.
