@@ -1,0 +1,31 @@
+---
+court: "New York Court of Appeals"
+decided: "1867-06"
+citations: ["2 Abb. Ct. App. 11"]
+reporter: "abb-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIAS v. FARLEY."]
+source_url: "https://static.case.law/abb-ct-app/2/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1113648
+cites_cases: ["2 N. Y. 365", "29 N. Y. 471", "5 Den. 198"]
+---
+
+# Elias v. Farley
+
+## Majority (Hunt, J.)
+
+By the Court.
+Hunt, J.
+Numerous exceptions were taken during the trial. Some of them are conceded by the appellants to be without merit.
+I have examined them all with care, but do not think it necessary to discuss any of them, other than the exceptions taken to the charge of the judge. Weiner was a merchant in Lock-port, and the owner of the goods in question. In November, 1857, he made an assignment to one Baer. The assignment was alleged to be fraudulent. Testimony was given upon this question, and the jury by their verdict decided that it was fraudulent. On January 23, 1858, the deputy sheriff made the levy under which the goods were afterwards removed and sold. It is in relation to the validity of this levy that the question is made. On January 26, Baer made a sale to the plaintiffs of all the goods remaining unsold, which sale, it is alleged, was also fraudulent. The deputy sheriff testified that, having these executions in his hands, he presented the same to Weiner at his store for payment; that he levied on the goods at that time; that he told Weiner of the levy, at the time in the store, and that certain clerks named were also in the store. On being cross-examined, he further stated: “I made the levy January 23; I asked Weiner to turn me out property on the executions; he said he had no property; I told him I was authorized to levy on that stock of goods; I told Weiner I had made a levy on the stock of goods.” On the same day he indorsed upon the execution, “ Levied, January 23, on all the goods in the store lately occupied by S. M. Weiner.” Baer, the assignee, was not present at this time.
+In substance, the sheriff, with the executions in his possession, went to the person having charge of the property, or who, with others, was in its apparent possession, and in view and control of the goods, informed such person that he levied on the goods, and indorsed a memorandum of such levy upon the executions.
+No notice of the levy was given to Baer, the assignee. It was sufficient to give it to the person in charge. The jury have found that, as to creditors, the title was in Weiner, and not in Baer. No notice to Baer could have been necessary.
+The plaintiffs’ counsel requested the court to charge the jury that there was no evidence of a sufficient levy upon the goods to entitle the defendant to hold the goods. The court declined so to charge, and the plaintiffs excepted. Thé court charged the jury that it was not necessary for an officer to take manual possession of the goods, or to assume the entire control over property, to constitute a valid levy; that if the sheriff went into the store where the goods in question were, having in possession the executions, for the purpose of levying on the goods, and found Weiner in the store, apparently in possession, exhibited the executions to Weiner, informed him that be levied upon the goods, and he then levied and made a minute upon his executions, this constituted a sufficient levy. To this the plaintiffs excepted. I am of the opinion that the evidence showed a sufficient levy, and that there was no just ground of exception to the charge. Camp v. Chamberlain, 5 Den. 198; Bond v. Willet (in this series); Roth v. Wells, 29 N. Y. 471; affirming 41 Bari. 194. In the latter case, the rule is thus laid down by Mullin, J.: “ To constitute a valid levy, the officer must enter on the premises where the goods are, and take possession of them, if that be practicable; if not, then he must openly and unequivocally assert his title to them by virtue of his executions. It is not essential to the validity of the levy that he take actual possession of the goods, or that he remove them from the custody of the debtor. The test of a valid levy is whether enough, has been done to subject the officer to an action of trespass, but for the protection of the execution.” In that case the defendant went to the plaintiffs’ store, saw the goods, asserted his right to them by virtue of his levy, in the hearing of one of the plaintiffs, and subsequently the fact that a levy had been made was indorsed on the executions. See, also, the explanation of the rule as given by Selden, J., in Roth v. Wells. The.case of Roth v. Wells was elaborately argued, and the reported opinions show that all the authorities on the subject were before the court, and were carefully considered. It is a clear authority in favor of the defendant, and it is not necessary to go further in the citation of cases.
+It appeared from the assignment of Weiner that a preference was given therein to one George Judson, to the amount of sixty dollars, for rent. On this branch of the case the court charged the jury that if Weiner preferred Judson for this sum for the occupation of the dwelling-house used by him, before and subsequent to the assignment, even though a Iona fide liability, with intent that the same should accrue to Weiner’s future benefit, by securing to himself and family the future use of said dwelling-house, without paying rent or being liable therefor, the assignment was void. To this charge the plaintiff excepted The law of this proposition is clearly sound. 2 N. Y. 365; 4 Id. 311; 5 Id. 547. The evidence from which the jury were authorized to draw the inference of the proposed intent, although not strong, was sufficient, I think, to raise the question.
+These questions are the only ones requiring particular notice.
+The judgment should be affirmed.
+All the other judges concurred, except Bocees, J., who was absent.
+Judgment affirmed.
+Compare Bond v. Willet (vol. 1 of this sedes, p. 165). Where also Roth s. Wells is treated as authority for holding that, as against the judgment debtor, the sheriff has a right to sell his goods, within his Bailiwick, without any actual levy.
