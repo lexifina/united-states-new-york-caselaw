@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-04-15"
+citations: ["30 N.Y. St. Rep. 681"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pierre Cauhape, App’lt, v. Parke, Davis & Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669535
+---
+
+# Cauhape v. Parke, Davis & Co.
+
+## Majority (Andrews, J.)
+
+Andrews, J.
+It appears by the record in the former action that the court refused to enforce the cause of action founded on the alleged contract of March 22, 1884, for want of jurisdiction. The court entertained jurisdiction of the cause of action on the contract of November 17, 1881, and gave damages based thereon, for royalties accruing between its date and the date of the second contract.
+The defendant in its answer in that action admitted the making of a contract between the parties November 17,1881, but denied its terms as alleged by the plaintiff, and in respect to the alleged contract of November 22, 1884, the answer denied that it was made, and also set up in respect to both contracts, that by reason of the parties being non-residents, and the defendant a foreign corporation, the jurisdiction of the court was excluded by § 1780, of the Code of Civil Procedure. The first contract was entered into within this state, and was not, therefore, subject to this objection. The second contract, as proved by the plaintiff, was entered into in the state of Michigan, and was therefore open to it
+The referee who tried the former action found that the plaintiff was entitled to recover royalties under the first contract up to the date of the second one, and. a small judgment was entered therefor. He found' that the second contract was made substantially as alleged, but further, that the court had no jurisdiction to enforce it, and rendered no judgment thereon. A second action is now brought on the contract of March 22, 1884, the objection to the jurisdiction being obviated by the fact that the plaintiff is now a resident of the state. The plaintiff, to establish the contract of March 22, 1884, introduced the judgment record in the former action and gave no other evidence. The point is whether this record establishes the existence of the contract now sued upon, so as to relieve the plaintiff from necessity of other proof. Unless the former judgment operates as an adjudication upon this point, it is quite clear the plaintiff cannot recover, because the contract, as disclosed by the evidence in this case, not being in writing, is' void by the statute of frauds of Michigan. Whether there was a valid second contract, such as was alleged by the plaintiff, was wholly immaterial to the point upon which relief as to that contract was denied in the former action, viz., that the court had no jurisdiction to enforce it. Whether the alleged contract was valid, or void, the point of jurisdiction was decisive against any recovery thereon. The finding that there was such a contract was at most mere inducement, or introductory to the finding of want of jurisdiction.' It was not an essential ground upon which relief was denied and the denial of relief did not rest upon it. It is for the reason that the denial of relief upon the second contract did not go upon the merits, that the plaintiff is entitled to bring a second action thereon.
+The ground upon which the recovery of royalties under the first contract was, by the judgment in the former action, limited to such as accrued prior to the date of the second contract, does not clearly appear. It apparently must have been upon the assumption that the second contract operated as a satisfaction and extinguishment of the prior one, although this was not claimed in the complaint in that action. But if the plaintiff was denied any portion of the relief to which he was entitled under the first contract, and the defendant may, to this extent, have been benefited by the consideration given by the court to the second contract, yet this advantage did not accrue to the defendant from any claim made_ by him, since he denied both the contract and the jurisdiction. If the plaintiff was prejudiced he should have sought relief in the former action.
+We think the judgment is right. It rests upon the principle that a former judgment is not available in a subsequent action for another cause between the same parties to establish any fact not material to the adjudication actually made in the former action. The finding in the former action of the existence of the second contract was not material in a legal sense, so as to make the finding evidence of the fact so found in a subsequent action thereon, although the court made it the basis for limiting the plaintiff’s recovery on the first contract, and whether the court in so doing acted erroneously, or by acquiescence of the plaintiff, makes, we think, no difference. The defendant was in no way responsible for the action of the court.
+The judgment should be affirmed.
+All concur, except Earl, J., not voting.
