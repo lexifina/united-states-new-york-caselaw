@@ -1,0 +1,27 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-02-10"
+citations: ["1 Silv. Ct. App. 583"]
+reporter: "silv-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Varian, Respondent, v. Robert A. Johnson, v Appellant."]
+source_url: "https://static.case.law/silv-ct-app/1/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1120218
+cites_cases: ["102 N. Y. 87", "35 Barb. 602", "38 Hun, 642"]
+---
+
+# Varian v. Johnson
+
+## Majority (Earl, J.)
+
+Earl, J.
+In July, 1884, the plaintiff, a builder, entered into a written contract with the defendant to build for him a barn for the price of $2,000. The contract provided for extra work to be performed by the plaintiff for a fair and reasonable valuation, and further contained this clause: “ Should any dispute arise respecting the true construction or meaning of the drawings or specifications, the same shall be decided by Henry O. Avery, architect, and his decision shall be final and conclusive; but should any dispute arise respecting the true value of the extra work, or of the works omitted, the same shall be valued by two competent persons, one employed by the owner, and the other by the contractor, and those two shall have power to name an umpire, whose' decision shall be binding on all parties.” After the plaintiff claimed that he had performed the contract on' his part, he demanded of the defendant the balance due him therefor and for the extra work, and payment having been refused he brought this action to recover such balance.
+In his complaint the plaintiff alleged that he entered into the contract to construct the barn ; that the defendant agreed to pay him therefor the sum of $2,000; that he had fully performed his contract and that the defendant had not paid him in full therefor, but that there remained due and unpaid to him upon the contract $800, with interest. He also alleged that he had performed certain extra work for which there was also due him the sum of $392,88, and interest; and he demanded judgment for the two sums. In his answer, the defendant admitted the making of the contract, the demand of payment, the performance by plaintiff of jertain work and the furnishing of certain materials not included in the contract; and he denied every other allegation contained in the complaint. As a separate and distinct defense and as a counterclaim, he alleged that the plaintiff had failed to perform the contract on his part; that the work was done in a defective and unworkmanlike manner, with unsuitable materials ; that the work and the materials were not such as were called for or required by the terms of the contract; that some of the work and materials called for by the contract were not furnished at-all, and that he had been put to expense and trouble in supplying the defective work and materials and would be compelled to expend further sums in the same way to the extent of $450 in all; that the plaintiff had failed to complete the work within the time specified in the contract, on which account the defendant had also suffered damages. And he demanded a dismissal of the complaint and judgment for the sum of $1,950, against plaintiff, besides interest and costs.
+Upon the evidence it was a question of fact whether the plaintiff had fully performed the contract on his part, and the finding of the trial judge that he had fully performed it, confirmed by the general term, concludes us. We are, also, concluded by the finding of the judge as to the extra work and the value thereof.
+The main reliance of the defendant upon- this appeal is based upon the clause in the contract above set' out. But we are of opinion that that clause furnished him no defense.
+The decision of the architect was not to be invoked, unless a dispute should arise, “ respecting the true construction or meaning of the drawings or specifications,” and the plaintiff was not obliged to submit to such decision, unless there was such dispute. There is no allegation in the answer that there was such dispute or that the plaintiff had failed or refused to submit any dispute to the architect, and, therefore, the defendant cannot invoke that clause in the contract for a reversal of this judgment. He cannot succeed upon this appeal upon a defense not set up in his answer, and not even alluded to in any way at the trial.
+These observations apply with equal force to the other-clause of the contract providing for the valuation of extra work, in the case of dispute, by arbitrators. There is no allegation in the answer that there was such dispute or that the plaintiff refused to submit any. such dispute to arbitration, or that the defendant ever offered to submit the dispute to arbitration, and there was no proof of any refusal on the part of the plaintiff, or any offer or request on the part of the defendant to submit the valuation of the extra work to arbitration. The refusal to pay the plaintiff, when the demand was made by him for payment before the commencement of the action, was' not put upon the ground that any dispute should first be settled by the architect or by arbitrators, and the defense cannot now prevail. Sinclair v. Tallmadge, 35 Barb. 602; Smith v. Alker, 102 N. Y. 87.
+A careful examination of the whole case leads us to the conclusion that no legal error was committed upon the trial, and that the judgment is just and should be affirmed, with costs.
+All concur.
