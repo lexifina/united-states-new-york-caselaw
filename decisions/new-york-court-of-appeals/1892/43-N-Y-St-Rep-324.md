@@ -1,0 +1,26 @@
+---
+court: "New York Court of Appeals"
+decided: "1892-03-08"
+citations: ["43 N.Y. St. Rep. 324", "4 Silv. Ct. App. 89"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Flannery, Resp’t, v. J. W. Van Tassell, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077666
+cites_cases: ["42 St. Rep., 916"]
+---
+
+# Flannery v. Van Tassell
+
+## Majority (GRAY, J.)
+
+GRAY, J.
+The plaintiff brought the action to recover the value ■of certain personal property which, as he alleged, had been wrongfully taken from him. The defendant had seized it, in his capacity ■as sheriff, under a warrant of attachment issuing at the suit of a creditor of one McManus. Upon the trial of the action there was evidence given of a sale and transfer by McManus to plaintiff of the property in question, in consideration of the plaintiff’s assuming and paying liabilities of McManus to the village of Fishkill Landing, as its treasurer, and to plaintiff and others. There was evidence also showing that immediately upon the sale the plaintiff took possession of the property sold, and continued in that possession until the seizure by the defendant, which occurred two ■days afterwards. Further, there- was evidence tending to establish the payment by plaintiff of McManus’ liabilities, and that they -equalled, if not exceeded, the value of the property transferred, -■as estimated, or as realized upon. During the trial the under sheriff, who had levied upon the property, was called as a witness by defendant and, having testified to an interview with McManus in the store the day he made his levy, was then asked: “ Did you have any talk with Mr. McManus about the transfer to Flannery -at that time?” The question was objected to by plaintiff anS. the evidence excluded. Ths exception to the exclusion presents the only question of importance on this appeal. The incom potency and impropriety of such evidence would seem manifest, as being in contravention of the general rule which excludes the statements of a vendor to third parties respecting the transaction with his vendee, made either previous or subsequent to it. Such ■evidence is deemed incompetent to affect the vendee’s title, unless the statements sought to be proved were contemporaneous with the transaction of sale and, as being illustrative of it, would fairly 'Constitute parts of the res gestee; or where the evidence tended to •show that the party, as a pseudo vendor only, was engaged in a .joint scheme with the purpose of defrauding others through the •alleged transaction, in which case what he may have stated respecting it at any time would be relevant and material in disclosing it and in defeating its successful accomplishment.
+It is under the theory that something like a conspiracy of that 'character has been shown that the appellant endeavors to sustain his exception. The difficulty, however, is that the evidence did not go to the extent of showing that the plaintiff and McManus had engaged in any unlawful scheme to defraud the latter’s creditors. The utmost extent to which the evidence might be stretched would be in the direction of negativing the legality of the sale, or the actuality of the transfer, as between the parties. The portions ■of the testimony referred to by the appellant’s counsel have a "bearing upon those facts, but fall short of being evidence of a fraudulent conspiracy.
+We think that the evidence does not show, nor tend to show, •as the counsel contends, that McManus continued in the possession of the property included in his transaction of sale with the plaintiff. What the evidence established was that the plaintiff took immediate possession of the store and other property through his own acts and the agency of his attorney and of clerks. That McManus was suffered to remain in tenancy of his house and to keep an office off of the store are not facts which of themselves-give any fraudulent coloring to the transaction, and, in their connection in this case, they were perfectly consistent with the absolute possession of the plaintiff, testified to by him and others. The facts were quite consistent with honesty and good faith in the parties and not being connected with other circumstances which would warrant or furnish a basis for the inference of some unlawful combination or' conspiracy to defraud others, they cannot sub-serve as the circumstantial proof which the appellant’s argument, assumes as existing and therefore as authorizing the evidence sought to be introduced.
+Whether the sale was a real one and the possession of the property assumed and continued in by the plaintiff were questions of fact for the jury to decide upon the evidence. The evidence was-all upon, or connected with those questions. The consideration! for the transfer was sufficient, if the evidence was believed by the jury, to uphold the sale, and by their verdict for the plaintiff that belief has been expressed.
+We think there was no error committed in the respect discussed^ and we find no other which requires another trial of the issue.
+The judgment should be affirmed, with costs."
+All concur, except O’Brien, J., absent.
