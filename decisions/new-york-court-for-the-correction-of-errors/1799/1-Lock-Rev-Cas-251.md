@@ -1,0 +1,35 @@
+---
+court: "New York Court for the Correction of Errors"
+decided: "1799"
+citations: ["1 Lock. Rev. Cas. 251"]
+reporter: "lock-rev-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The New York Firemen’s Insurance Company v. Walden and Walden, 12 J. R. 513."]
+source_url: "https://static.case.law/lock-rev-cas/1/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 947621
+cites_cases: ["12 Wend. 463", "15 Wend. 9", "6 Cranch, 274"]
+---
+
+# New York Firemen's Insurance v. Walden
+
+## Majority
+
+The plaintiffs below, claimed to recover on the ground of barratry of the master ; which barratry was in fact admitted on the argument in the Supreme Court. But the insurers contended that the insured were bound to communicate the information of the previous misconduct of the captain to them; as set forth in the letters of their correspondents, &e., and that not having done so, the suppression vitiated the policy.
+But the judge, at the circuit, charged the jury, that the evidence of barratry was conclusive ; and that “ the insured were not bound to communicate any of the letters, nor any of the circumstances within their knowledge, respecting the master of the ship”
+The Supreme Court, On a motion for a new trial on the bill of exceptions in the case, held the charge' of the judge correct. Platt, J., in delivering the opinion of the court, says“ It would he unreasonably severe, and would defeat almost every policy of insurance against barratry, if the assured were held strictly bound to disclose every immoral act imputable to the master, and every unfavorable report which had reached their ears previous to signing the policy.” “ There must be some limit to this duty of making disclosures in such cases. It can not be necessary that the assured should give the underwriter a minute history of everything which they have known or heard touching the moral character of the intended master.”
+“ If his general character be good, and the assured have no knowledge of any fact impeaching the honesty of the master, the charge of undue concealment has no legal foundation.”
+“ In this case, the unfavorable opinions expressed in the letters of H. D. and H., (agents at Belfast,) and of G. & Go., respecting Captain Cartwright, were repelled by the evidence of his good character as a sailing master in New York, where he had long been known.” Judgment was accordingly rendered for the plaintiffs below; whereupon the defendants brought their writ of error.
+The Court of Errors reversed the judgment of the Supreme Court. The opinion of the court was delivered by Chancellor Kent. He says :
+“ The counsel went at large into the question, whether the assured were bound to communicate to the underwriters, at the time they applied for insurance, the letters and other knowledge they possessed of the improper conduct of the master. But it appears to me that this question is not for the decision of this court, because, whether the circumstances relative to the master ought to have been disclosed, depends upon the question, whether those circumstances were material to the risk; and the materiality is a question of fact for a jury, and not a question of law for the court. It is a well settled principle in the law of insurance, that what facts, in the knowledge of the assured, are material, and necessary to be communicated to the underwriter, when insurance is asked for, is for a jury to determine; and I will notice a few cases, in illustration of this point. My whole opinion will rest upon the admission, and the solidity of this principle.”
+He then examines in this connection, the English cases of Macdowal v. Fraser, Doug. 260; Shirley v. Wilkinson, Doug. 306; Willes v. Glover, 4 B. and P. 14 ; and Lyttledale v. Dixon, 4 B. and P. 151; “ where the Common Pleas,’’ he say's, “ unanimously and very explicitly, declared their opinion that every material circumstance must be disclosed; but that it was for the jury to say, how far any given circumstance was material.”
+He next examines the American cases, and shows that Livingston v. Delafield, 1 J. R. 522; Murgatroyd v. Crawford, 3 Dallas, 491; adopt the same rule, adding, “And to conclude with the highest judicial authority in this country, the Supreme Court -of the United States has decided, on two different occasions, Livingston v. Maryland Insurance Company, and Maryland Insurance Company v. Rudens, 6 Cranch, 274, 338 ; that the operation of any concealment on the policy, depends on its materiality to the risk, and that this materiality was a subject for the consideration of a jury, and must be left to them.”
+Some question having been raised on the argument, whether the language of the judge in this case, in his charge to the jury, was to be considered as a “positive direction in point of law, or mere advice on a matter of fact;” the Chancellor says, “ The language of the learned judge was that “ the plaintiffs were not bound or required to make the disclosure; that the matters offered in evidence were not sufficient to bar the action;” and nothing was said about the weight of evidence for the consideration of the jury. If even it was doubtful, by the bill of exceptions, whether the charge was intended as direction or otherwise, the result of my opinion would be the same; because, when the judge interposes his opinion to the jury on a point of fact, it ought not to be left in doubt in what light they are to receive his charge.” “Every charge should distinguish clearly, between the law and the fact, so that the jury can not misunderstand their rights or their duty, nor mistake the opinion of the judge upon matter of fact, for his direction in point of law.”
+“ If then, the charge of the learned judge is to be considered, as I think it must be, as a declaration to the jury that the papérs and facts not disclosed, were in judgment of law, immaterial, then the jury have never passed their own judgment upon the materiality of those proofs, and the cause ought to be remanded to another jury.”
+The judgment of the Supreme Court was accordingly reversed, and a venire de novo awarded.
+For reversing 10, for aff. 8.
+The Court of Errors held subsequently, in the case of the American Insurance Company v. Dunham, 15 Wend. 9, where a recovery was sought on the ground of a barratarious act of the master, and by the policy of insurance, the barratry of the master and mariners was insured against; that, notwithstanding the policy contained a warranty on the part of the assured against illicit or prohibited trade, and the vessel was condemned and lost in consequence of the master’s attempting an illicit trade by smug-ling a few articles in his possession, the underwriters were liable.
+That such a warranty against illicit trade, is not broken, unless the illicit trade is carried on by the assured himself, or with his knowledge or assent; he is not otherwise affected by such acts of the master or mariners.
+The judgment of the Supreme Court was accordingly affirmed.
+See S. C. in S. Ct, 12 Wend. 463.
