@@ -1,0 +1,19 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-10-09"
+citations: ["18 N.Y. St. Rep. 1027"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHERRY v. CARY."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/1027-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011642
+---
+
+# Sherry v. Cary
+
+## Majority
+
+No papers. Motion to dismiss denied by default, with ten dollars costs.
+See IS N. Y. State Rep., 275.
