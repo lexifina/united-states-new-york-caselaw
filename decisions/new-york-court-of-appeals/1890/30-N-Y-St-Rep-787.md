@@ -1,0 +1,39 @@
+---
+court: "New York Court of Appeals"
+decided: "1890-04-15"
+citations: ["30 N.Y. St. Rep. 787"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel K. Wilson, Resp’t, v. The Metropolitan R. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0787-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669173
+cites_cases: ["100 Mass., 388", "16 N. Y., 125", "17 Mass., 101", "26 N. Y., 505", "29 Pa. St., 154", "3 Hill, 262", "71 N. Y., 442"]
+---
+
+# Wilson v. Metropolitan R. Co.
+
+## Majority (Parker, J.)
+
+Parker, J.
+This court has decided at this term in the case of The Metropolitan Railway Company v. Kneeland et al., ante 782, that certain notes, including the one in controversy, are valid legal -obligations against the defendant, in favor of a purchaser for value before maturity, and without notice of the circumstances attending their issue.
+It is insisted, however, that the plaintiff is not in a position to claim that he is a bona fide holder without notice, because the note was made by the corporation payable to itself, endorsed by Knee-land, as president and individually; it was sent to him by Knee-land through a messenger, and, therefore, it is said, he knew when he received it that the company’s note was being applied by its president to his personal benefit and advantage.
+Undoubtedly the general rule is that one .who receives from an officer of a corporation the notes or securities of such corporation, in payment of, or as security for, a personal debt of such officer, does so at his peril.
+Prima facie the act is unlawful, and unless actually authorized the purchaser will be deemed to have taken them with notice of the rights of the corporation. Garrard v. Pittsburgh & Connelsville R. R. Co., 29 Pa. St., 154; Pendleton v. Fay, 2 Paige, 202 Shaw v. Spencer, 100 Mass., 388.
+The plaintiff contends that this transaction docs not come within the rule to which we have alluded. That the notes were not received by him with knowledge that the discount was intended to be for the personal benefit of Kneeland, but on the contrary they were regularly discounted in the usual course of business.
+Plaintiff testified that several months prior to the purchase the president of the defendant spoke to him about discounting notes of the defendant.
+On May 26, 1884, Kneeland sent him a check of the Mercantile Trust Co., for $7,650, drawn by it, on itself, to the order of Kneeland, and endorsed by him, with a request that he cash it and hold it for a few days. Plaintiff did not agree to hold it, but paid Kneeland the face of the check. The check was retained by the plaintiff until June 27th, when Kneeland sent to him the note in suit and two others.
+Plaintiff discounted the notes and as a consideration therefor gave Kneeland the check of the Mercantile Trust Company. After deducting the discount and interest on the money advanced on the check the delivery of the Trust Co. check constituted an overpayment of $283, which amount Kneeland paid to the plaintiff the following day. And the plaintiff insists that neither in the communication from Kneeland, nor in his reply thereto, was it suggested that the notes were to be given or taken in payment of any indebtedness of Kneeland. That while he gave in payment a check which bore the endorsement of Kneeland, it. was perfectly good without such endorsement He could have obtained the money on it at any time. It makes no difference to either party whether Kneeland or the plaintiff should collect the check from the Trust Company. That if he had given his own check to Kneeland for the notes and collected the other from the Trust Company, the effect of the transaction would not have been different than that which took place.
+While this evidence is undisputed, except in so far as the plaintiff's own statements may be said to be in conflict, still as this claim is based upon the testimony of a party to the action, the defendant would have been entitled to a submission to the jury of the question whether plaintiff understood that Kneeland was using the notes for his benefit instead of borrowing money thereon for the corporation.
+As both parties requested the court to direct a verdict, the omission to submit the question to the jury is not now of moment..
+If it were necessary in order to support the judgment this court would be required to adopt the evidence most favorable to the plaintiff. But assuming, as to the facts, the contention of the appellant, then we have the plaintiff paying full consideration for the notes, for the presumption is that the trust company’s check was good, under circumstances which imposed upon him the burden of inquiry as to whether them issuance was authorized. If he had made inquiry of the officers of the corporation and through them had ascertained the fact that the notes were issued and delivered to Kneeland pursuant to a resolution of the board of directors of defendant, he would clearly be entitled to the protection of a bona fide holder without notice. For that resolution recited- the existence of an indebtedness to the president for salary, and expressly authorized the issue of notes in the amount thereof, •“ to be signed by the president, and countersigned by the treasurer in the usual way and form.” It furnished information therefore that Kneeland was using the notes in the manner expressly authorized. It constituted an appearance of authority upon which a purchaser for value could safely rely. True, the resolution re■cited that the notes were to be issued to pay Kneeland, president, a salary, but it did not pretend to give or ñx a salary. It asserted an indebtedness for salary, and one dealing with a railroad corporation which has a right to pay its president a salary, and ordinarily does, is not bound to go behind such an assertion as was made by the defendant’s directors, for the purpose of ascertaining whether the salary is legally payable.
+A different rule would be impracticable and would substantially incapacitate third persons from taking the paper of, or contracting with, corporations.
+The principles enumerated in Farmers & Mechanics' Bank v. Butchers & Drovers Bank, 16 N. Y., 125 ; North River Bank v. Aymar, 3 Hill, 262; Exchange Bank v. Monteath, 26 N. Y., 505, are applicable to the rule we have stated.
+We are of the opinion, therefore, that if plaintiff had been informed of the resolution, such information, inasmuch as it was true in fact, would afford to him the protection of a bona fide holder without notice. But the plaintiff did not make inquiry at the time. He assumed that the issue, and proposed disposition, of the notes had been duly authorized. He trusted to the fact of authority and not to the evidence of it. And can it be said that the resolution which would have protected him if he had been informed of it, cannot be invoked to aid him now ?
+Does, the purchaser of a note, under circumstances which devolve upon him the duty of inquiry, assume a greater risk than the burden of proving that which would have protected him had he diligently inquired before making the investment? We think not.
+If the plaintiff had relied upon a statement by one of the officers, that a resolution had been passed, authorizing the issue of the notes, he would have assumed, necessarily, the risk of the statement being true. If.true it would protect him, otherwise not He stands in no different position because he did not first inquire. In either event, he would assume only the risk of proving the authorization hy resolution.
+This position has support in the. reasoning of Judge Andrews in Cowing v. Altman, 71 N. Y., 442, and Williams v. Mitchell, 17 Mass., 101.
+The views expressed lead to an affirmance of the judgment.
+The judgment should be affirmed.
+Ill concur, except Haight, J., not sitting.
