@@ -1,0 +1,26 @@
+---
+court: "New York Court of Appeals"
+decided: "1889-05-03"
+citations: ["2 Silv. Ct. App. 246", "23 N.Y. St. Rep. 266"]
+reporter: "silv-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen A. Perkins, Appellant, v. The People of The State of New York, Respondents."]
+source_url: "https://static.case.law/silv-ct-app/2/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1122164
+cites_cases: ["19 Wend. 678", "19 Wend., 678", "27 Hun, 409", "5 Lans. 298", "5 Lans., 298", "85 N. Y. 489", "85 N. Y., 489"]
+---
+
+# Perkins v. People
+
+## Majority (Earl, J.)
+
+Earl, J.
+In 1872, and prior thereto, the claimant owned some land in the city of Binghamton, adjoining the Susquehanna river. In that year, the state raised the height-of its dam across the river, at that place, from two to three feet, in consequence of which water was caused to flow into and upon the claimant’s land, and he claimed that it was thus damaged to the amount of $12,000. Upon the hearing before the board of claims, he gave evidence by himself and two other witnesses, tending to show that his damages were from $5,000 to $10,000, and upwards. The board awarded him $1,800, and he has appealed to this court, specifying in his notice of appeal, as the ground upon which the appeal is taken, that the undisputed facts and evidence in- the case entitled him to an award for a larger amount than the one made.
+• This claim was heard under chapter 205 of the Laws of 1885, and under that act the commissioners of the board of claims are required to take testimony in the vicinity where the damages are alleged to have occurred, and personally to view the premises alleged to have been damaged.
+On the cross-examination of the plaintiff as a witness he testified that he purchased the land damaged, in 1864, for from $250 to $300 per acre. One witness on the part of the state testified that the land was worth $100 per acre in 1871, and that there was no difference in its value since. It is said that the evidence of this witness does not relate to the land in question. We cannot know that. The evidence was admitted, apparently relates to the land, and we are bound to consider it. The requirement that the commissioners of the board of claims should view the premises was inserted in the statute for some purpose. The view which they are required to make is not a mere idle ceremony. It is intended to aid their judgment on the question of damages, and to enable them to appreciate the evidence and give to it its proper weight. They are not bound to be governed entirely by the evidence of witnesses, but they may base their award, and must base it, upon the knowledge derived from that view and the evidence of the witnesses. Such has been the uniform practice under similar statutes. Matter of William and Anthony Streets, 19 Wend. 678, 695; Matter of Rondout and Oswego R. R. Co., 5 Lans. 298; Matter of Boston Road, 27 Hun, 409; Matter of Staten Island Rapid Transit Co., 47 Id. 396 ; Matter of City of Buffalo, 1 N. Y. State Rep. 742; Matter of P. P. and C. I. R. R., 85 N. Y. 489, 494.
+Under the general laws applicable to the city of New York in street opening cases, and under the general railroad act of 1850, and numerous other acts, commissioners of estimate and appraisement are required to view the lands in reference to which their action is invoked, as well as to receive evidence. They are selected from their supposed competency to deal with the matters submitted to them, and are impartial, and generally they must be as well qualified as any three witnesses to form a judgment, from their personal view and examination, of the damages which ought to be awarded. The basis upon which damages are to be estimated is frequently very uncertain, and estimates of friendly witnesses upon questions of value and damages must frequently be prejudiced, uncertain and unreliable, and hence it is a wise provision of law which requires the commissioners in such cases to view the premises and take ocular proof of their condition. Here the commissioners had for consideration what their own eyes could see upon the lands, the fact that the plaintiff’s witnesses had no reliable basis for their estimate of damages as they varied in their estimates from $5,000 to upwards of $10,000, the fact that the claimant a few years before bought the land at from $250 to $300 per acre, and the evidence of the single witness that the land had not really been damaged.
+Under such circumstances we do not think that there is such a case upon this appeal as requires this court to reverse the award on the ground of its insufficiency.
+The fact that the commissioners are required to view the premises and to act to some extent upon their own judgment, informed by ocular evidence, does not deprive this court of the power to review their award upon the question of damages. They may adopt some erroneous rule of damages, and their findings may be such, and the case upon all the evidence may be such as to show that they misconceived the facts and erred in their estimate. We cannot say that this is such a case, and the award should therefore be affirmed, with costs.
+All concur.
