@@ -1,0 +1,25 @@
+---
+court: "New York Court of Appeals"
+decided: "1888-11"
+citations: ["19 N.Y. St. Rep. 281"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Accounts of Matilda Piffard et al., as Executors, etc., of David Piffard, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650570
+---
+
+# In re the Judicial Settlement of the Accounts of Piffard
+
+## Majority (Finch, J.)
+
+Finch, J.
+The testator, by his last will, duly executed, gave to his daughter. Sarah, one-fifth of all his real and personal property. The devise and bequest was absolute and without condition, and such as to vest in her a complete title to the property given. Of course, such legatee and devisee, if she lived until her father’s will took effect, would have the absolute ownership and power of disposition, and could transfer it by will to whomsoever she pleased.
+By a codicil made a few years later, the testator again referred to the devise and bequest to Sarah, and made a further provision relative thereto. It reads thus: “I do hereby direct that my said daughters, Sarah Eyre Piffard and Ann Matilda Piffard, named in. my said will, shall have power by their several wills heretofore or hereafter duly made and executed, to dispose of, devise and bequeath the share of my estate devised and bequeathed to them severally in and by said will; and to that end I direct that such share or shares shall be paid over by my said executors to the executors or trustees named in and by the several wills of my said daughters, in case of the death of them or either of them in my lifetime, instead of to my said daughter or daughters; but if my said daughters shall survive me then such shares shall be paid to them severally, as now provided in and by my said will.’’
+It seems to me impossible to misunderstand the purpose of this provision. It was clearly intended to reach and cover a contingency which has actually occurred, and to prevent a lapse of the legacies by the death of a daughter in the testator’s life-time. To that event the provision of the codicil was confined, and only in that event could it be consistent with the absolute devise and bequest and essential to make it effectual. And while, to reach his result, the testator gave a power of appointment which, as a power, the donee could not execute in her father’s life-time, because she could not herself dispose of what remained wholly in another’s power and ownership, yet the further language of the codicil shows its intent to be that, in case of the death of the daughter in the life-time of the father, the latter intended to devise and bequeath by force of his own will the daughter’s one-fifth to such person or persons, and in such shares and proportions as by .an existing will, made before or after the date of the codicil, she had determined and directed, or should determine and direct in the disposition of her own property; and, “ to that end,” in aid of that result, he explicitly declares that the one-fifth given to her shall be paid over to her executors for the evident purpose of, passing to her devisees and legatees that share precisely as if it had been her property at her death, and had become distributable as such by force of her will. And this view is very greatly strengthened by the fact that after her death leaving a last will, the testator, with full knowledge of the existing situation, made two other codicils confirming his will, and the provisions contained in it now in question.
+While, therefore, it may not be possible to sustain the power of- appointment as such, and so enable Sarah’s devisees and legatees to take the one-fifth by force of her will, it is possible to see in the will of the father a clear intent to prevent a lapse and avoid a partial intestacy by carrying over the one-fifth which she did not take, through her executors, to those whom she should name as devisees and legatees of her property, and in the proportions by her directed. Her will, therefore, is referred to, not as transferring the property by an appointment, but to define and make certain the persons to whom and the proportions in which the one-fifth should pass by the father’s will, in case of the death of the daughter in his life-time. What she would have done by her will, but could not, that he did for her by his own will.
+This was the construction adopted by the general term, and we concur in it.
+The judgment should be affirmed.
+All concur.
