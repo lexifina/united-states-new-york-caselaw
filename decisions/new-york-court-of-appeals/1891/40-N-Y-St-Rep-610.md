@@ -1,0 +1,24 @@
+---
+court: "New York Court of Appeals"
+decided: "1891-10-27"
+citations: ["40 N.Y. St. Rep. 610", "3 Silv. Ct. App. 578"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Cheever, Resp’t, v. Avery T. Brown, Assignee, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/40/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065077
+---
+
+# Cheever v. Brown
+
+## Majority (Earl, J.)
+
+Earl, J.
+For some years prior to January 18, 1884, William H. Guión was a member of the firm of Williams & Guión. That firm originally consisted of John S. Williams, Stephen B. Guión and William H. Guión. Williams died in 1876, and the firm business was continued under the same firm name by the surviving partners until January 18, 1884, when William H., having become insolvent, made a general assignment for the benefit of his creditors to the defendant Brown and the firm became thereby dissolved and went into liquidation. Subsequently in a creditor’s suit William H. Guión was appointed receiver of the assets of the firm and acted as such. This action was brought by the plaintiff, a creditor of William H. Guión, on behalf of himself and other creditors against the defendant as assignee for an accounting. A referee was appointed in the action to take proof of the claims against the assigned estate, and William H. Guión, as receiver of the firm, presented a claim of $106,937.82 for a balance of indebtedness due the firm from him individually. The referee disallowed the claim, and his report thereon has been confirmed.
+There was no conflict in the evidence before the referee, and no one, so far as the record discloses, made any contention then that the claim was not sufficiently proved. The referee, however, disallowed the claim on the ground that the balance due from William H. Guión to the firm was not rendered sufficiently certain. There was no dispute or doubt upon the evi dence that Guión owed the firm,,at the time of his assignment for money loaned to him $205,186.05 besides interest, and upon general account, the general nature of which was explained in the evidence, the further sum of $338,270.21. Guión admitted that from the amount of these two sums and the interest there should be deducted on account of his profits in the firm the estimated sum of $464,000, and the balance claimed" was fhus reached. The referee rejected the claim, not because of .airy uncertainty in the amount of the two debit items, but on account of the uncertainty in the amount to be deducted for a credit.
+The firm books were put in evidence; the surviving bookkeepers were sworn; Guión gave his evidence and there was proof of an adjustment of the firm accounts between the two surviving members of the firm as they existed at the date of the assignment Here was apparently all the proof that could be given by living witnesses and the books of the firm, and if the evidence as to the amount to be deducted from the undisputed indebtedness of Guión to the firm was still uncertain, that furnished no adequate reason for rejecting the whole claim. A creditor presenting a claim against his debtor should not be turned out of court because, the amount of the debt being undisputed, he does not show how much should be deducted therefrom by way of credits. Guión, in presenting this claim, represented the creditors of the firm, and the evidence showed prima facie that he owed a large amount to the firm at the time of his assignment. Those creditors are entitled to share with other creditors in the proceeds of the assigned estate, and who shall suffer if such other creditors are unable to show how much for credits shall be deducted from the undisputed sums for which Guión became indebted to the firm ? Guión and the book-keepers of the firm arrived at the amount of credits as well as they could, using all the information within their reach. ' Ho suspicion attached to their methods, and, in the absence of better proof, we know of no reason why their evidence should not have been taken as the best attainable, and therefore satisfactory. With the books of the firm, the bookkeepers and Guión as witnesses, it cannot be impossible to reach with sufficient accuracy the true amount of the firm claim, and a further hearing and a more careful and searching examination of the evidence are due to the case.
+We are, therefore, of opinion that the orders of the general and special terms should be reversed and the exceptions by William
+H. Guión, receiver, to the report of the referee be sustained, the report as to him be set aside and that his claim be heard before a new referee to be appointed by the supreme court, and that the costs of this appellant in all the courts be paid out of the assigned estate.
+All concur, Andrews, J., in result, except Gray, J., not voting.
